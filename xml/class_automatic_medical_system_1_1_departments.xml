@@ -1,0 +1,328 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.5.8">
+  <compounddef id="class_automatic_medical_system_1_1_departments" kind="class" prot="public">
+    <compoundname>AutomaticMedicalSystem::Departments</compoundname>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_automatic_medical_system_1_1_departments_1873dc52cf63ef64939c50697a1e554a4" prot="private" static="no" mutable="no">
+        <type>int</type>
+        <definition>int AutomaticMedicalSystem.Departments.k</definition>
+        <argsstring></argsstring>
+        <name>k</name>
+        <initializer>64</initializer>
+        <briefdescription>
+<para>Переменная хранящая уникальное значение для автоинкремента</para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Departments.cs" line="22" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Departments.cs" bodystart="22" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_departments_1eb1cc3edc017937b1f2e256e4cfb1f55" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>AutomaticMedicalSystem.Departments.Departments</definition>
+        <argsstring>()</argsstring>
+        <name>Departments</name>
+        <briefdescription>
+<para>Конструктор формы. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Departments.cs" line="28" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Departments.cs" bodystart="27" bodyend="30"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_departments_196bb73f345a34961ed32817ab1f373c5" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>int AutomaticMedicalSystem.Departments.max_id</definition>
+        <argsstring>(ref int k)</argsstring>
+        <name>max_id</name>
+        <param>
+          <type>ref int</type>
+          <declname>k</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Departments.cs" line="61" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Departments.cs" bodystart="60" bodyend="65"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_departments_13042203d4306940071a4eedf841d69e5" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void AutomaticMedicalSystem.Departments.Departments_Load</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>Departments_Load</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+<para>Загрузка компонентов на форме. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Departments.cs" line="71" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Departments.cs" bodystart="70" bodyend="76"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_departments_18e1332b338b0602dd5bef837e62c7201" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>int AutomaticMedicalSystem.Departments.set_width_column</definition>
+        <argsstring>()</argsstring>
+        <name>set_width_column</name>
+        <briefdescription>
+<para>Метод установления ширины столбцов. </para>        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="return"><para>Значение ширины 3 столбца DataGridView</para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Departments.cs" line="83" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Departments.cs" bodystart="82" bodyend="90"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_departments_12846623c15067213f1b15258be3a2d7a" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>int AutomaticMedicalSystem.Departments.set_max_id</definition>
+        <argsstring>(ref int k)</argsstring>
+        <name>set_max_id</name>
+        <param>
+          <type>ref int</type>
+          <declname>k</declname>
+        </param>
+        <briefdescription>
+<para>Метод нахождения максимального значения в первой колонке. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>k</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Первое сгенерированное значение</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>Измененный параметр k равный максимальному</para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Departments.cs" line="98" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Departments.cs" bodystart="97" bodyend="102"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_departments_1cc74120378f96abc4a210a10169c41b2" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>int AutomaticMedicalSystem.Departments.select_id</definition>
+        <argsstring>()</argsstring>
+        <name>select_id</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Departments.cs" line="159" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Departments.cs" bodystart="158" bodyend="166"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_departments_16cb45d17ce7801c5b5df500fd24ed3cb" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void AutomaticMedicalSystem.Departments.bindingNavigatorAddNewItem_Click</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>bindingNavigatorAddNewItem_Click</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Departments.cs" line="169" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Departments.cs" bodystart="168" bodyend="175"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_departments_11b17c22e45936bc7da260acfed8b3c63" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void AutomaticMedicalSystem.Departments.dEPARTMENTBindingNavigatorSaveItem_Click</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>dEPARTMENTBindingNavigatorSaveItem_Click</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+<para>Метод вставки новых данных в таблицу формы. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>sender</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Объект приема сигналов</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>e</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Объект реагирования на изменения на форме</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Departments.cs" line="38" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Departments.cs" bodystart="37" bodyend="50"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_departments_1ebf310c0ec678d9098029c3a144454a7" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void AutomaticMedicalSystem.Departments.dEPARTMENTBindingNavigatorSaveItem_Click_1</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>dEPARTMENTBindingNavigatorSaveItem_Click_1</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Departments.cs" line="53" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Departments.cs" bodystart="52" bodyend="58"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_departments_1f9d8f048d8de8ca76744aa38a9efa25b" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void AutomaticMedicalSystem.Departments.tabPage2_Click</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>tabPage2_Click</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Departments.cs" line="105" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Departments.cs" bodystart="104" bodyend="107"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_departments_18e6eec8f9da29244ff3b3c03015ff894" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void AutomaticMedicalSystem.Departments.dEPARTMENTDataGridView_DefaultValuesNeeded</definition>
+        <argsstring>(object sender, System.Windows.Forms.DataGridViewRowEventArgs e)</argsstring>
+        <name>dEPARTMENTDataGridView_DefaultValuesNeeded</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>System.Windows.Forms.DataGridViewRowEventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Departments.cs" line="110" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Departments.cs" bodystart="109" bodyend="112"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_departments_17a3daaea0f4c159b3633f83b35192cc0" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void AutomaticMedicalSystem.Departments.DataGridView1_DataError</definition>
+        <argsstring>(object sender, DataGridViewDataErrorEventArgs anError)</argsstring>
+        <name>DataGridView1_DataError</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>DataGridViewDataErrorEventArgs</type>
+          <declname>anError</declname>
+        </param>
+        <briefdescription>
+<para>Метод проверки на правильность введенных данных. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>sender</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>прием сигналов с формы</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>anError</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>объект хранения стандартных ошибок</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+<para>При нажатии на кнопку не удалось сохранить изменения /summary&gt; </para>        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Departments.cs" line="120" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Departments.cs" bodystart="119" bodyend="156"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_departments_13e2c36da4b8b6b6eb6642e0f3937fc7a" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void AutomaticMedicalSystem.Departments.dEPARTMENTDataGridView_CellContentClick</definition>
+        <argsstring>(object sender, DataGridViewCellEventArgs e)</argsstring>
+        <name>dEPARTMENTDataGridView_CellContentClick</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>DataGridViewCellEventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Departments.cs" line="178" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Departments.cs" bodystart="177" bodyend="180"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Форма для вывода информации об отделах амбулатории. </para>    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Departments.cs" line="18" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Departments.cs" bodystart="17" bodyend="181"/>
+    <listofallmembers>
+      <member refid="class_automatic_medical_system_1_1_departments_16cb45d17ce7801c5b5df500fd24ed3cb" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::Departments</scope><name>bindingNavigatorAddNewItem_Click</name></member>
+      <member refid="class_automatic_medical_system_1_1_departments_17a3daaea0f4c159b3633f83b35192cc0" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::Departments</scope><name>DataGridView1_DataError</name></member>
+      <member refid="class_automatic_medical_system_1_1_departments_11b17c22e45936bc7da260acfed8b3c63" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::Departments</scope><name>dEPARTMENTBindingNavigatorSaveItem_Click</name></member>
+      <member refid="class_automatic_medical_system_1_1_departments_1ebf310c0ec678d9098029c3a144454a7" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::Departments</scope><name>dEPARTMENTBindingNavigatorSaveItem_Click_1</name></member>
+      <member refid="class_automatic_medical_system_1_1_departments_13e2c36da4b8b6b6eb6642e0f3937fc7a" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::Departments</scope><name>dEPARTMENTDataGridView_CellContentClick</name></member>
+      <member refid="class_automatic_medical_system_1_1_departments_18e6eec8f9da29244ff3b3c03015ff894" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::Departments</scope><name>dEPARTMENTDataGridView_DefaultValuesNeeded</name></member>
+      <member refid="class_automatic_medical_system_1_1_departments_1eb1cc3edc017937b1f2e256e4cfb1f55" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::Departments</scope><name>Departments</name></member>
+      <member refid="class_automatic_medical_system_1_1_departments_13042203d4306940071a4eedf841d69e5" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::Departments</scope><name>Departments_Load</name></member>
+      <member refid="class_automatic_medical_system_1_1_departments_1873dc52cf63ef64939c50697a1e554a4" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::Departments</scope><name>k</name></member>
+      <member refid="class_automatic_medical_system_1_1_departments_196bb73f345a34961ed32817ab1f373c5" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::Departments</scope><name>max_id</name></member>
+      <member refid="class_automatic_medical_system_1_1_departments_1cc74120378f96abc4a210a10169c41b2" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::Departments</scope><name>select_id</name></member>
+      <member refid="class_automatic_medical_system_1_1_departments_12846623c15067213f1b15258be3a2d7a" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::Departments</scope><name>set_max_id</name></member>
+      <member refid="class_automatic_medical_system_1_1_departments_18e1332b338b0602dd5bef837e62c7201" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::Departments</scope><name>set_width_column</name></member>
+      <member refid="class_automatic_medical_system_1_1_departments_1f9d8f048d8de8ca76744aa38a9efa25b" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::Departments</scope><name>tabPage2_Click</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.5.8">
+  <compounddef id="class_automatic_medical_system_1_1_program" kind="class" prot="public">
+    <compoundname>AutomaticMedicalSystem::Program</compoundname>
+      <sectiondef kind="private-static-func">
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_program_1fb9838cc3e6736e9caa5301addd735f3" prot="private" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>static void AutomaticMedicalSystem.Program.Main</definition>
+        <argsstring>()</argsstring>
+        <name>Main</name>
+        <briefdescription>
+<para>The main entry point for the application. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Program.cs" line="16" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Program.cs" bodystart="15" bodyend="20"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Program.cs" line="10" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Program.cs" bodystart="9" bodyend="21"/>
+    <listofallmembers>
+      <member refid="class_automatic_medical_system_1_1_program_1fb9838cc3e6736e9caa5301addd735f3" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::Program</scope><name>Main</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

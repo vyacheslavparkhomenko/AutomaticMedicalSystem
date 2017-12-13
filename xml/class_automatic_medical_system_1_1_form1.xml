@@ -1,0 +1,251 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.5.8">
+  <compounddef id="class_automatic_medical_system_1_1_form1" kind="class" prot="public">
+    <compoundname>AutomaticMedicalSystem::Form1</compoundname>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_form1_1ce10d8fab0ca8d354ded0de1e327b011" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>AutomaticMedicalSystem.Form1.Form1</definition>
+        <argsstring>()</argsstring>
+        <name>Form1</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Form1.cs" line="16" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Form1.cs" bodystart="15" bodyend="18"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_form1_1d9f2375932f2272d0583083d02087873" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void AutomaticMedicalSystem.Form1.диагнозВрачаспециалистаToolStripMenuItem_Click</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>диагнозВрачаспециалистаToolStripMenuItem_Click</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Form1.cs" line="21" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Form1.cs" bodystart="20" bodyend="25"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_form1_11c6875f152da5aa4170c42da50ca7cd0" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void AutomaticMedicalSystem.Form1.отделенияToolStripMenuItem_Click</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>отделенияToolStripMenuItem_Click</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Form1.cs" line="28" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Form1.cs" bodystart="27" bodyend="32"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_form1_1adcf3b3d3dfe4ae48dbabdcdd7f20c2e" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void AutomaticMedicalSystem.Form1.контактныеДанныеToolStripMenuItem_Click</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>контактныеДанныеToolStripMenuItem_Click</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Form1.cs" line="35" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Form1.cs" bodystart="34" bodyend="39"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_form1_1c5782a7b8a9d719f2644a37bf00bea13" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void AutomaticMedicalSystem.Form1.врачиToolStripMenuItem_Click</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>врачиToolStripMenuItem_Click</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Form1.cs" line="42" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Form1.cs" bodystart="41" bodyend="46"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_form1_172fd4b40b8c830528e08e34268fb2021" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void AutomaticMedicalSystem.Form1.семейныйВрачToolStripMenuItem_Click</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>семейныйВрачToolStripMenuItem_Click</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Form1.cs" line="49" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Form1.cs" bodystart="48" bodyend="53"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_form1_153159e7907e6190dbd725ef82f2ed16e" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void AutomaticMedicalSystem.Form1.записьКСемейномуВрачуToolStripMenuItem_Click</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>записьКСемейномуВрачуToolStripMenuItem_Click</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Form1.cs" line="56" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Form1.cs" bodystart="55" bodyend="60"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_form1_1e24538ef3f13e33357a60a0f3f2ad89e" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void AutomaticMedicalSystem.Form1.записьКВрачуспециалистуToolStripMenuItem_Click</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>записьКВрачуспециалистуToolStripMenuItem_Click</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Form1.cs" line="63" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Form1.cs" bodystart="62" bodyend="67"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_form1_15ec65c957b8000a05fa91592c4e0bca4" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void AutomaticMedicalSystem.Form1.общийДиагнозToolStripMenuItem_Click</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>общийДиагнозToolStripMenuItem_Click</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Form1.cs" line="70" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Form1.cs" bodystart="69" bodyend="74"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_form1_12ebd6b9be3261e7e19b00273a5ac1131" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void AutomaticMedicalSystem.Form1.выпискаВрачаспециалистаToolStripMenuItem_Click</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>выпискаВрачаспециалистаToolStripMenuItem_Click</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Form1.cs" line="77" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Form1.cs" bodystart="76" bodyend="81"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_form1_1daafec01873ea0b718e89cf506697eec" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void AutomaticMedicalSystem.Form1.выпискаСемейногоВрачаToolStripMenuItem_Click</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>выпискаСемейногоВрачаToolStripMenuItem_Click</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Form1.cs" line="84" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Form1.cs" bodystart="83" bodyend="88"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Form1.cs" line="14" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Form1.cs" bodystart="13" bodyend="89"/>
+    <listofallmembers>
+      <member refid="class_automatic_medical_system_1_1_form1_1ce10d8fab0ca8d354ded0de1e327b011" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::Form1</scope><name>Form1</name></member>
+      <member refid="class_automatic_medical_system_1_1_form1_1c5782a7b8a9d719f2644a37bf00bea13" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::Form1</scope><name>врачиToolStripMenuItem_Click</name></member>
+      <member refid="class_automatic_medical_system_1_1_form1_12ebd6b9be3261e7e19b00273a5ac1131" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::Form1</scope><name>выпискаВрачаспециалистаToolStripMenuItem_Click</name></member>
+      <member refid="class_automatic_medical_system_1_1_form1_1daafec01873ea0b718e89cf506697eec" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::Form1</scope><name>выпискаСемейногоВрачаToolStripMenuItem_Click</name></member>
+      <member refid="class_automatic_medical_system_1_1_form1_1d9f2375932f2272d0583083d02087873" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::Form1</scope><name>диагнозВрачаспециалистаToolStripMenuItem_Click</name></member>
+      <member refid="class_automatic_medical_system_1_1_form1_1e24538ef3f13e33357a60a0f3f2ad89e" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::Form1</scope><name>записьКВрачуспециалистуToolStripMenuItem_Click</name></member>
+      <member refid="class_automatic_medical_system_1_1_form1_153159e7907e6190dbd725ef82f2ed16e" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::Form1</scope><name>записьКСемейномуВрачуToolStripMenuItem_Click</name></member>
+      <member refid="class_automatic_medical_system_1_1_form1_1adcf3b3d3dfe4ae48dbabdcdd7f20c2e" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::Form1</scope><name>контактныеДанныеToolStripMenuItem_Click</name></member>
+      <member refid="class_automatic_medical_system_1_1_form1_15ec65c957b8000a05fa91592c4e0bca4" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::Form1</scope><name>общийДиагнозToolStripMenuItem_Click</name></member>
+      <member refid="class_automatic_medical_system_1_1_form1_11c6875f152da5aa4170c42da50ca7cd0" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::Form1</scope><name>отделенияToolStripMenuItem_Click</name></member>
+      <member refid="class_automatic_medical_system_1_1_form1_172fd4b40b8c830528e08e34268fb2021" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::Form1</scope><name>семейныйВрачToolStripMenuItem_Click</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

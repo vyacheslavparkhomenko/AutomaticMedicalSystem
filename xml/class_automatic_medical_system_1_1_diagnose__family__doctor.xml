@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.5.8">
+  <compounddef id="class_automatic_medical_system_1_1_diagnose__family__doctor" kind="class" prot="public">
+    <compoundname>AutomaticMedicalSystem::Diagnose_family_doctor</compoundname>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_diagnose__family__doctor_168528b98162a93f14482cce6a5d845a2" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>AutomaticMedicalSystem.Diagnose_family_doctor.Diagnose_family_doctor</definition>
+        <argsstring>()</argsstring>
+        <name>Diagnose_family_doctor</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Diagnose_family_doctor.cs" line="16" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Diagnose_family_doctor.cs" bodystart="15" bodyend="18"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_diagnose__family__doctor_18046f1d4e41c4bd3a1e9b39de776df23" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void AutomaticMedicalSystem.Diagnose_family_doctor.dIAGNOSE_FM_DOCTORBindingNavigatorSaveItem_Click</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>dIAGNOSE_FM_DOCTORBindingNavigatorSaveItem_Click</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Diagnose_family_doctor.cs" line="21" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Diagnose_family_doctor.cs" bodystart="20" bodyend="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_diagnose__family__doctor_120b5c57d41115b40d510e77a60df5c5c" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void AutomaticMedicalSystem.Diagnose_family_doctor.Diagnose_family_doctor_Load</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>Diagnose_family_doctor_Load</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Diagnose_family_doctor.cs" line="29" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Diagnose_family_doctor.cs" bodystart="28" bodyend="35"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_diagnose__family__doctor_14ce830e6286b65f7b74dcfb91ce90f11" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void AutomaticMedicalSystem.Diagnose_family_doctor.dIAGNOSE_FM_DOCTORBindingNavigatorSaveItem_Click_1</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>dIAGNOSE_FM_DOCTORBindingNavigatorSaveItem_Click_1</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Diagnose_family_doctor.cs" line="38" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Diagnose_family_doctor.cs" bodystart="37" bodyend="43"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Diagnose_family_doctor.cs" line="14" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Diagnose_family_doctor.cs" bodystart="13" bodyend="44"/>
+    <listofallmembers>
+      <member refid="class_automatic_medical_system_1_1_diagnose__family__doctor_168528b98162a93f14482cce6a5d845a2" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::Diagnose_family_doctor</scope><name>Diagnose_family_doctor</name></member>
+      <member refid="class_automatic_medical_system_1_1_diagnose__family__doctor_120b5c57d41115b40d510e77a60df5c5c" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::Diagnose_family_doctor</scope><name>Diagnose_family_doctor_Load</name></member>
+      <member refid="class_automatic_medical_system_1_1_diagnose__family__doctor_18046f1d4e41c4bd3a1e9b39de776df23" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::Diagnose_family_doctor</scope><name>dIAGNOSE_FM_DOCTORBindingNavigatorSaveItem_Click</name></member>
+      <member refid="class_automatic_medical_system_1_1_diagnose__family__doctor_14ce830e6286b65f7b74dcfb91ce90f11" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::Diagnose_family_doctor</scope><name>dIAGNOSE_FM_DOCTORBindingNavigatorSaveItem_Click_1</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

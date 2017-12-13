@@ -1,0 +1,649 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.5.8">
+  <compounddef id="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_s_p_d_o_c_t_o_r_r_e_c_o_r_d_s_data_table" kind="class" prot="public">
+    <compoundname>AutomaticMedicalSystem::DataSet1::VARCSPDOCTORRECORDSDataTable</compoundname>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_s_p_d_o_c_t_o_r_r_e_c_o_r_d_s_data_table_1e3ef73fb4cef5f93ed9106161f3dbe6f" prot="private" static="no" mutable="no">
+        <type>global::System.Data.DataColumn</type>
+        <definition>global::System.Data.DataColumn AutomaticMedicalSystem.DataSet1.DataSet1.VARCSPDOCTORRECORDSDataTable.columnID</definition>
+        <argsstring></argsstring>
+        <name>columnID</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" line="4686" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" bodystart="4686" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_s_p_d_o_c_t_o_r_r_e_c_o_r_d_s_data_table_1199171980d497f540846e3874a670824" prot="private" static="no" mutable="no">
+        <type>global::System.Data.DataColumn</type>
+        <definition>global::System.Data.DataColumn AutomaticMedicalSystem.DataSet1.DataSet1.VARCSPDOCTORRECORDSDataTable.columnARCDATE</definition>
+        <argsstring></argsstring>
+        <name>columnARCDATE</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" line="4688" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" bodystart="4688" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_s_p_d_o_c_t_o_r_r_e_c_o_r_d_s_data_table_1f3df3a9d701b51aa83a5f1fab9fe0d25" prot="private" static="no" mutable="no">
+        <type>global::System.Data.DataColumn</type>
+        <definition>global::System.Data.DataColumn AutomaticMedicalSystem.DataSet1.DataSet1.VARCSPDOCTORRECORDSDataTable.columnFULL_NAME_PATIENT</definition>
+        <argsstring></argsstring>
+        <name>columnFULL_NAME_PATIENT</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" line="4690" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" bodystart="4690" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_s_p_d_o_c_t_o_r_r_e_c_o_r_d_s_data_table_100f1e102c44415579775378bf65c27da" prot="private" static="no" mutable="no">
+        <type>global::System.Data.DataColumn</type>
+        <definition>global::System.Data.DataColumn AutomaticMedicalSystem.DataSet1.DataSet1.VARCSPDOCTORRECORDSDataTable.columnDATEBIRTH</definition>
+        <argsstring></argsstring>
+        <name>columnDATEBIRTH</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" line="4692" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" bodystart="4692" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_s_p_d_o_c_t_o_r_r_e_c_o_r_d_s_data_table_15fcec6b224aecaba211ebb8fb15d0e1b" prot="private" static="no" mutable="no">
+        <type>global::System.Data.DataColumn</type>
+        <definition>global::System.Data.DataColumn AutomaticMedicalSystem.DataSet1.DataSet1.VARCSPDOCTORRECORDSDataTable.columnJURIDICAL_ADRESS_PATIENT</definition>
+        <argsstring></argsstring>
+        <name>columnJURIDICAL_ADRESS_PATIENT</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" line="4694" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" bodystart="4694" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_s_p_d_o_c_t_o_r_r_e_c_o_r_d_s_data_table_11aa1768d9d541d0705e703f5928da70a" prot="private" static="no" mutable="no">
+        <type>global::System.Data.DataColumn</type>
+        <definition>global::System.Data.DataColumn AutomaticMedicalSystem.DataSet1.DataSet1.VARCSPDOCTORRECORDSDataTable.columnFULL_NAME</definition>
+        <argsstring></argsstring>
+        <name>columnFULL_NAME</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" line="4696" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" bodystart="4696" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_s_p_d_o_c_t_o_r_r_e_c_o_r_d_s_data_table_1f2a339ad8f6ee92d2691467878b11225" prot="private" static="no" mutable="no">
+        <type>global::System.Data.DataColumn</type>
+        <definition>global::System.Data.DataColumn AutomaticMedicalSystem.DataSet1.DataSet1.VARCSPDOCTORRECORDSDataTable.columnEXPERIENCE</definition>
+        <argsstring></argsstring>
+        <name>columnEXPERIENCE</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" line="4698" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" bodystart="4698" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_s_p_d_o_c_t_o_r_r_e_c_o_r_d_s_data_table_1fc8f434d944c5938f3178d3af2a53ff2" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="no">
+        <type>global::System.Data.DataColumn</type>
+        <definition>global::System.Data.DataColumn AutomaticMedicalSystem.DataSet1.DataSet1.VARCSPDOCTORRECORDSDataTable.IDColumn</definition>
+        <argsstring></argsstring>
+        <name>IDColumn</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" line="4739" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" bodystart="4735" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_s_p_d_o_c_t_o_r_r_e_c_o_r_d_s_data_table_18184e75bf41deed657019aafb1b0bc6c" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="no">
+        <type>global::System.Data.DataColumn</type>
+        <definition>global::System.Data.DataColumn AutomaticMedicalSystem.DataSet1.DataSet1.VARCSPDOCTORRECORDSDataTable.ARCDATEColumn</definition>
+        <argsstring></argsstring>
+        <name>ARCDATEColumn</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" line="4747" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" bodystart="4743" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_s_p_d_o_c_t_o_r_r_e_c_o_r_d_s_data_table_19c39196603cba5962def2c5a60d21d19" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="no">
+        <type>global::System.Data.DataColumn</type>
+        <definition>global::System.Data.DataColumn AutomaticMedicalSystem.DataSet1.DataSet1.VARCSPDOCTORRECORDSDataTable.FULL_NAME_PATIENTColumn</definition>
+        <argsstring></argsstring>
+        <name>FULL_NAME_PATIENTColumn</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" line="4755" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" bodystart="4751" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_s_p_d_o_c_t_o_r_r_e_c_o_r_d_s_data_table_1137b951fd949f65098bdec40fa7397e8" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="no">
+        <type>global::System.Data.DataColumn</type>
+        <definition>global::System.Data.DataColumn AutomaticMedicalSystem.DataSet1.DataSet1.VARCSPDOCTORRECORDSDataTable.DATEBIRTHColumn</definition>
+        <argsstring></argsstring>
+        <name>DATEBIRTHColumn</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" line="4763" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" bodystart="4759" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_s_p_d_o_c_t_o_r_r_e_c_o_r_d_s_data_table_198c0e81f19ac089dcccd3ae4e78a8527" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="no">
+        <type>global::System.Data.DataColumn</type>
+        <definition>global::System.Data.DataColumn AutomaticMedicalSystem.DataSet1.DataSet1.VARCSPDOCTORRECORDSDataTable.JURIDICAL_ADRESS_PATIENTColumn</definition>
+        <argsstring></argsstring>
+        <name>JURIDICAL_ADRESS_PATIENTColumn</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" line="4771" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" bodystart="4767" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_s_p_d_o_c_t_o_r_r_e_c_o_r_d_s_data_table_114ef11e050e4415f76e73a641bc3c64e" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="no">
+        <type>global::System.Data.DataColumn</type>
+        <definition>global::System.Data.DataColumn AutomaticMedicalSystem.DataSet1.DataSet1.VARCSPDOCTORRECORDSDataTable.FULL_NAMEColumn</definition>
+        <argsstring></argsstring>
+        <name>FULL_NAMEColumn</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" line="4779" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" bodystart="4775" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_s_p_d_o_c_t_o_r_r_e_c_o_r_d_s_data_table_1816dce778540d0ec00ee515488dea27b" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="no">
+        <type>global::System.Data.DataColumn</type>
+        <definition>global::System.Data.DataColumn AutomaticMedicalSystem.DataSet1.DataSet1.VARCSPDOCTORRECORDSDataTable.EXPERIENCEColumn</definition>
+        <argsstring></argsstring>
+        <name>EXPERIENCEColumn</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" line="4787" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" bodystart="4783" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_s_p_d_o_c_t_o_r_r_e_c_o_r_d_s_data_table_1935c972b7fe32eee21b88ba178817f41" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="no">
+        <type>int</type>
+        <definition>int AutomaticMedicalSystem.DataSet1.DataSet1.VARCSPDOCTORRECORDSDataTable.Count</definition>
+        <argsstring></argsstring>
+        <name>Count</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" line="4796" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" bodystart="4792" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_s_p_d_o_c_t_o_r_r_e_c_o_r_d_s_data_table_1cfd305baf4ea82b975001ef142cf4171" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="no">
+        <type><ref refid="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_s_p_d_o_c_t_o_r_r_e_c_o_r_d_s_row" kindref="compound">VARCSPDOCTORRECORDSRow</ref></type>
+        <definition>VARCSPDOCTORRECORDSRow AutomaticMedicalSystem.DataSet1.DataSet1.VARCSPDOCTORRECORDSDataTable.this[int index]</definition>
+        <argsstring>[int index]</argsstring>
+        <name>this</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" line="4804" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" bodystart="4800" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="event">
+      <memberdef kind="event" id="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_s_p_d_o_c_t_o_r_r_e_c_o_r_d_s_data_table_171edbf44b364a68bf5fda1d8a5f2e6ec" prot="public" static="no" add="no" remove="no" raise="no">
+        <type>VARCSPDOCTORRECORDSRowChangeEventHandler</type>
+        <definition>VARCSPDOCTORRECORDSRowChangeEventHandler AutomaticMedicalSystem.DataSet1.DataSet1.VARCSPDOCTORRECORDSDataTable.VARCSPDOCTORRECORDSRowChanging</definition>
+        <argsstring></argsstring>
+        <name>VARCSPDOCTORRECORDSRowChanging</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" line="4807" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" bodystart="4807" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="event" id="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_s_p_d_o_c_t_o_r_r_e_c_o_r_d_s_data_table_1c3e7cdde138d4cd122efd0f78ebe16b0" prot="public" static="no" add="no" remove="no" raise="no">
+        <type>VARCSPDOCTORRECORDSRowChangeEventHandler</type>
+        <definition>VARCSPDOCTORRECORDSRowChangeEventHandler AutomaticMedicalSystem.DataSet1.DataSet1.VARCSPDOCTORRECORDSDataTable.VARCSPDOCTORRECORDSRowChanged</definition>
+        <argsstring></argsstring>
+        <name>VARCSPDOCTORRECORDSRowChanged</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" line="4810" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" bodystart="4810" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="event" id="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_s_p_d_o_c_t_o_r_r_e_c_o_r_d_s_data_table_1eab4d3a3bb689f1e2dc00ba95a633567" prot="public" static="no" add="no" remove="no" raise="no">
+        <type>VARCSPDOCTORRECORDSRowChangeEventHandler</type>
+        <definition>VARCSPDOCTORRECORDSRowChangeEventHandler AutomaticMedicalSystem.DataSet1.DataSet1.VARCSPDOCTORRECORDSDataTable.VARCSPDOCTORRECORDSRowDeleting</definition>
+        <argsstring></argsstring>
+        <name>VARCSPDOCTORRECORDSRowDeleting</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" line="4813" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" bodystart="4813" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="event" id="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_s_p_d_o_c_t_o_r_r_e_c_o_r_d_s_data_table_16dd20edafe586a5298356090f0007e78" prot="public" static="no" add="no" remove="no" raise="no">
+        <type>VARCSPDOCTORRECORDSRowChangeEventHandler</type>
+        <definition>VARCSPDOCTORRECORDSRowChangeEventHandler AutomaticMedicalSystem.DataSet1.DataSet1.VARCSPDOCTORRECORDSDataTable.VARCSPDOCTORRECORDSRowDeleted</definition>
+        <argsstring></argsstring>
+        <name>VARCSPDOCTORRECORDSRowDeleted</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" line="4816" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" bodystart="4816" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_s_p_d_o_c_t_o_r_r_e_c_o_r_d_s_data_table_1626e366da9236affa4cfb81078044d14" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>AutomaticMedicalSystem.DataSet1.DataSet1.VARCSPDOCTORRECORDSDataTable.VARCSPDOCTORRECORDSDataTable</definition>
+        <argsstring>()</argsstring>
+        <name>VARCSPDOCTORRECORDSDataTable</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" line="4702" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" bodystart="4702" bodyend="4707"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_s_p_d_o_c_t_o_r_r_e_c_o_r_d_s_data_table_18bb712885f045dabc567a3eb9fc53364" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void AutomaticMedicalSystem.DataSet1.DataSet1.VARCSPDOCTORRECORDSDataTable.AddVARCSPDOCTORRECORDSRow</definition>
+        <argsstring>(VARCSPDOCTORRECORDSRow row)</argsstring>
+        <name>AddVARCSPDOCTORRECORDSRow</name>
+        <param>
+          <type><ref refid="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_s_p_d_o_c_t_o_r_r_e_c_o_r_d_s_row" kindref="compound">VARCSPDOCTORRECORDSRow</ref></type>
+          <declname>row</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" line="4820" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" bodystart="4820" bodyend="4822"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_s_p_d_o_c_t_o_r_r_e_c_o_r_d_s_data_table_1c89b79b07354e918ba3a7caaca9c1d53" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type><ref refid="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_s_p_d_o_c_t_o_r_r_e_c_o_r_d_s_row" kindref="compound">VARCSPDOCTORRECORDSRow</ref></type>
+        <definition>VARCSPDOCTORRECORDSRow AutomaticMedicalSystem.DataSet1.DataSet1.VARCSPDOCTORRECORDSDataTable.AddVARCSPDOCTORRECORDSRow</definition>
+        <argsstring>(decimal ID, System.DateTime ARCDATE, string FULL_NAME_PATIENT, System.DateTime DATEBIRTH, string JURIDICAL_ADRESS_PATIENT, string FULL_NAME, string EXPERIENCE)</argsstring>
+        <name>AddVARCSPDOCTORRECORDSRow</name>
+        <param>
+          <type>decimal</type>
+          <declname>ID</declname>
+        </param>
+        <param>
+          <type>System.DateTime</type>
+          <declname>ARCDATE</declname>
+        </param>
+        <param>
+          <type>string</type>
+          <declname>FULL_NAME_PATIENT</declname>
+        </param>
+        <param>
+          <type>System.DateTime</type>
+          <declname>DATEBIRTH</declname>
+        </param>
+        <param>
+          <type>string</type>
+          <declname>JURIDICAL_ADRESS_PATIENT</declname>
+        </param>
+        <param>
+          <type>string</type>
+          <declname>FULL_NAME</declname>
+        </param>
+        <param>
+          <type>string</type>
+          <declname>EXPERIENCE</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" line="4826" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" bodystart="4826" bodyend="4839"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_s_p_d_o_c_t_o_r_r_e_c_o_r_d_s_data_table_1268e78acb74108847eb7956cf882acc5" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override global::System.Data.DataTable</type>
+        <definition>override global::System.Data.DataTable AutomaticMedicalSystem.DataSet1.DataSet1.VARCSPDOCTORRECORDSDataTable.Clone</definition>
+        <argsstring>()</argsstring>
+        <name>Clone</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" line="4843" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" bodystart="4843" bodyend="4847"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_s_p_d_o_c_t_o_r_r_e_c_o_r_d_s_data_table_1b7d7b1aedb4e1d40e49ebf11003f65a9" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type><ref refid="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_s_p_d_o_c_t_o_r_r_e_c_o_r_d_s_row" kindref="compound">VARCSPDOCTORRECORDSRow</ref></type>
+        <definition>VARCSPDOCTORRECORDSRow AutomaticMedicalSystem.DataSet1.DataSet1.VARCSPDOCTORRECORDSDataTable.NewVARCSPDOCTORRECORDSRow</definition>
+        <argsstring>()</argsstring>
+        <name>NewVARCSPDOCTORRECORDSRow</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" line="4896" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" bodystart="4896" bodyend="4898"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_s_p_d_o_c_t_o_r_r_e_c_o_r_d_s_data_table_1eb48c407e31a521907b320a55f805456" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void AutomaticMedicalSystem.DataSet1.DataSet1.VARCSPDOCTORRECORDSDataTable.RemoveVARCSPDOCTORRECORDSRow</definition>
+        <argsstring>(VARCSPDOCTORRECORDSRow row)</argsstring>
+        <name>RemoveVARCSPDOCTORRECORDSRow</name>
+        <param>
+          <type><ref refid="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_s_p_d_o_c_t_o_r_r_e_c_o_r_d_s_row" kindref="compound">VARCSPDOCTORRECORDSRow</ref></type>
+          <declname>row</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" line="4950" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" bodystart="4950" bodyend="4952"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_s_p_d_o_c_t_o_r_r_e_c_o_r_d_s_data_table_150e1a5b2d72fe149fac3a7c24ce44f68" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>internal</type>
+        <definition>internal AutomaticMedicalSystem.DataSet1.DataSet1.VARCSPDOCTORRECORDSDataTable.VARCSPDOCTORRECORDSDataTable</definition>
+        <argsstring>(global::System.Data.DataTable table)</argsstring>
+        <name>VARCSPDOCTORRECORDSDataTable</name>
+        <param>
+          <type>global::System.Data.DataTable</type>
+          <declname>table</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" line="4711" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" bodystart="4711" bodyend="4724"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_s_p_d_o_c_t_o_r_r_e_c_o_r_d_s_data_table_1d12ee5d070078273e26ff6053c10dad3" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>internal void</type>
+        <definition>internal void AutomaticMedicalSystem.DataSet1.DataSet1.VARCSPDOCTORRECORDSDataTable.InitVars</definition>
+        <argsstring>()</argsstring>
+        <name>InitVars</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" line="4857" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" bodystart="4857" bodyend="4865"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_s_p_d_o_c_t_o_r_r_e_c_o_r_d_s_data_table_15a427680485cd905423a64a6b7940c00" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void AutomaticMedicalSystem.DataSet1.DataSet1.VARCSPDOCTORRECORDSDataTable.InitClass</definition>
+        <argsstring>()</argsstring>
+        <name>InitClass</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" line="4869" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" bodystart="4869" bodyend="4892"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="protected-func">
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_s_p_d_o_c_t_o_r_r_e_c_o_r_d_s_data_table_136d9ecf161d3e26e0443039208ee8a9c" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>AutomaticMedicalSystem.DataSet1.DataSet1.VARCSPDOCTORRECORDSDataTable.VARCSPDOCTORRECORDSDataTable</definition>
+        <argsstring>(global::System.Runtime.Serialization.SerializationInfo info, global::System.Runtime.Serialization.StreamingContext context)</argsstring>
+        <name>VARCSPDOCTORRECORDSDataTable</name>
+        <param>
+          <type>global::System.Runtime.Serialization.SerializationInfo</type>
+          <declname>info</declname>
+        </param>
+        <param>
+          <type>global::System.Runtime.Serialization.StreamingContext</type>
+          <declname>context</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" line="4729" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" bodystart="4728" bodyend="4731"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_s_p_d_o_c_t_o_r_r_e_c_o_r_d_s_data_table_166fe245bd36249975102ec15ff235a99" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override global::System.Data.DataTable</type>
+        <definition>override global::System.Data.DataTable AutomaticMedicalSystem.DataSet1.DataSet1.VARCSPDOCTORRECORDSDataTable.CreateInstance</definition>
+        <argsstring>()</argsstring>
+        <name>CreateInstance</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" line="4851" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" bodystart="4851" bodyend="4853"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_s_p_d_o_c_t_o_r_r_e_c_o_r_d_s_data_table_15fc6a88b66fec2f3a22a89ba4d1fe1e0" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override global::System.Data.DataRow</type>
+        <definition>override global::System.Data.DataRow AutomaticMedicalSystem.DataSet1.DataSet1.VARCSPDOCTORRECORDSDataTable.NewRowFromBuilder</definition>
+        <argsstring>(global::System.Data.DataRowBuilder builder)</argsstring>
+        <name>NewRowFromBuilder</name>
+        <param>
+          <type>global::System.Data.DataRowBuilder</type>
+          <declname>builder</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" line="4902" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" bodystart="4902" bodyend="4904"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_s_p_d_o_c_t_o_r_r_e_c_o_r_d_s_data_table_1df510a0343271795962e9aebce174e26" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override global::System.Type</type>
+        <definition>override global::System.Type AutomaticMedicalSystem.DataSet1.DataSet1.VARCSPDOCTORRECORDSDataTable.GetRowType</definition>
+        <argsstring>()</argsstring>
+        <name>GetRowType</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" line="4908" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" bodystart="4908" bodyend="4910"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_s_p_d_o_c_t_o_r_r_e_c_o_r_d_s_data_table_1a8b1b33bf91ae8c9d1b2b3c52d4cfeae" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override void</type>
+        <definition>override void AutomaticMedicalSystem.DataSet1.DataSet1.VARCSPDOCTORRECORDSDataTable.OnRowChanged</definition>
+        <argsstring>(global::System.Data.DataRowChangeEventArgs e)</argsstring>
+        <name>OnRowChanged</name>
+        <param>
+          <type>global::System.Data.DataRowChangeEventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" line="4914" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" bodystart="4914" bodyend="4919"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_s_p_d_o_c_t_o_r_r_e_c_o_r_d_s_data_table_178169011eef86c906b5e5377d0f1e75e" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override void</type>
+        <definition>override void AutomaticMedicalSystem.DataSet1.DataSet1.VARCSPDOCTORRECORDSDataTable.OnRowChanging</definition>
+        <argsstring>(global::System.Data.DataRowChangeEventArgs e)</argsstring>
+        <name>OnRowChanging</name>
+        <param>
+          <type>global::System.Data.DataRowChangeEventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" line="4923" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" bodystart="4923" bodyend="4928"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_s_p_d_o_c_t_o_r_r_e_c_o_r_d_s_data_table_11af347fcce2b94a781ae5dd4d19b3f43" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override void</type>
+        <definition>override void AutomaticMedicalSystem.DataSet1.DataSet1.VARCSPDOCTORRECORDSDataTable.OnRowDeleted</definition>
+        <argsstring>(global::System.Data.DataRowChangeEventArgs e)</argsstring>
+        <name>OnRowDeleted</name>
+        <param>
+          <type>global::System.Data.DataRowChangeEventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" line="4932" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" bodystart="4932" bodyend="4937"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_s_p_d_o_c_t_o_r_r_e_c_o_r_d_s_data_table_1a09f5ee6c38b3fc5b956ac697f10cbaf" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override void</type>
+        <definition>override void AutomaticMedicalSystem.DataSet1.DataSet1.VARCSPDOCTORRECORDSDataTable.OnRowDeleting</definition>
+        <argsstring>(global::System.Data.DataRowChangeEventArgs e)</argsstring>
+        <name>OnRowDeleting</name>
+        <param>
+          <type>global::System.Data.DataRowChangeEventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" line="4941" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" bodystart="4941" bodyend="4946"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-static-func">
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_s_p_d_o_c_t_o_r_r_e_c_o_r_d_s_data_table_13e355ea8d2729a39c479cd3f0cbc8bfc" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>global::System.Xml.Schema.XmlSchemaComplexType</type>
+        <definition>static global::System.Xml.Schema.XmlSchemaComplexType AutomaticMedicalSystem.DataSet1.DataSet1.VARCSPDOCTORRECORDSDataTable.GetTypedTableSchema</definition>
+        <argsstring>(global::System.Xml.Schema.XmlSchemaSet xs)</argsstring>
+        <name>GetTypedTableSchema</name>
+        <param>
+          <type>global::System.Xml.Schema.XmlSchemaSet</type>
+          <declname>xs</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" line="4956" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" bodystart="4956" bodyend="5015"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Represents the strongly named DataTable class. /summary&gt;. </para>    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <collaborationgraph>
+      <node id="169">
+        <label>System.Data</label>
+      </node>
+      <node id="168">
+        <label>AutomaticMedicalSystem.DataSet1.DataSet1.VARCSPDOCTORRECORDSDataTable</label>
+        <link refid="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_s_p_d_o_c_t_o_r_r_e_c_o_r_d_s_data_table"/>
+        <childnode refid="169" relation="usage">
+          <edgelabel>columnEXPERIENCE</edgelabel>
+          <edgelabel>columnFULL_NAME_PATIENT</edgelabel>
+          <edgelabel>columnJURIDICAL_ADRESS_PATIENT</edgelabel>
+          <edgelabel>columnDATEBIRTH</edgelabel>
+          <edgelabel>columnFULL_NAME</edgelabel>
+          <edgelabel>columnARCDATE</edgelabel>
+          <edgelabel>columnID</edgelabel>
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" line="4684" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" bodystart="4684" bodyend="5016"/>
+    <listofallmembers>
+      <member refid="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_s_p_d_o_c_t_o_r_r_e_c_o_r_d_s_data_table_18bb712885f045dabc567a3eb9fc53364" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet1::VARCSPDOCTORRECORDSDataTable</scope><name>AddVARCSPDOCTORRECORDSRow</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_s_p_d_o_c_t_o_r_r_e_c_o_r_d_s_data_table_1c89b79b07354e918ba3a7caaca9c1d53" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet1::VARCSPDOCTORRECORDSDataTable</scope><name>AddVARCSPDOCTORRECORDSRow</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_s_p_d_o_c_t_o_r_r_e_c_o_r_d_s_data_table_18184e75bf41deed657019aafb1b0bc6c" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet1::VARCSPDOCTORRECORDSDataTable</scope><name>ARCDATEColumn</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_s_p_d_o_c_t_o_r_r_e_c_o_r_d_s_data_table_1268e78acb74108847eb7956cf882acc5" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet1::VARCSPDOCTORRECORDSDataTable</scope><name>Clone</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_s_p_d_o_c_t_o_r_r_e_c_o_r_d_s_data_table_1199171980d497f540846e3874a670824" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet1::VARCSPDOCTORRECORDSDataTable</scope><name>columnARCDATE</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_s_p_d_o_c_t_o_r_r_e_c_o_r_d_s_data_table_100f1e102c44415579775378bf65c27da" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet1::VARCSPDOCTORRECORDSDataTable</scope><name>columnDATEBIRTH</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_s_p_d_o_c_t_o_r_r_e_c_o_r_d_s_data_table_1f2a339ad8f6ee92d2691467878b11225" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet1::VARCSPDOCTORRECORDSDataTable</scope><name>columnEXPERIENCE</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_s_p_d_o_c_t_o_r_r_e_c_o_r_d_s_data_table_11aa1768d9d541d0705e703f5928da70a" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet1::VARCSPDOCTORRECORDSDataTable</scope><name>columnFULL_NAME</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_s_p_d_o_c_t_o_r_r_e_c_o_r_d_s_data_table_1f3df3a9d701b51aa83a5f1fab9fe0d25" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet1::VARCSPDOCTORRECORDSDataTable</scope><name>columnFULL_NAME_PATIENT</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_s_p_d_o_c_t_o_r_r_e_c_o_r_d_s_data_table_1e3ef73fb4cef5f93ed9106161f3dbe6f" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet1::VARCSPDOCTORRECORDSDataTable</scope><name>columnID</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_s_p_d_o_c_t_o_r_r_e_c_o_r_d_s_data_table_15fcec6b224aecaba211ebb8fb15d0e1b" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet1::VARCSPDOCTORRECORDSDataTable</scope><name>columnJURIDICAL_ADRESS_PATIENT</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_s_p_d_o_c_t_o_r_r_e_c_o_r_d_s_data_table_1935c972b7fe32eee21b88ba178817f41" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet1::VARCSPDOCTORRECORDSDataTable</scope><name>Count</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_s_p_d_o_c_t_o_r_r_e_c_o_r_d_s_data_table_166fe245bd36249975102ec15ff235a99" prot="protected" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet1::VARCSPDOCTORRECORDSDataTable</scope><name>CreateInstance</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_s_p_d_o_c_t_o_r_r_e_c_o_r_d_s_data_table_1137b951fd949f65098bdec40fa7397e8" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet1::VARCSPDOCTORRECORDSDataTable</scope><name>DATEBIRTHColumn</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_s_p_d_o_c_t_o_r_r_e_c_o_r_d_s_data_table_1816dce778540d0ec00ee515488dea27b" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet1::VARCSPDOCTORRECORDSDataTable</scope><name>EXPERIENCEColumn</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_s_p_d_o_c_t_o_r_r_e_c_o_r_d_s_data_table_19c39196603cba5962def2c5a60d21d19" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet1::VARCSPDOCTORRECORDSDataTable</scope><name>FULL_NAME_PATIENTColumn</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_s_p_d_o_c_t_o_r_r_e_c_o_r_d_s_data_table_114ef11e050e4415f76e73a641bc3c64e" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet1::VARCSPDOCTORRECORDSDataTable</scope><name>FULL_NAMEColumn</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_s_p_d_o_c_t_o_r_r_e_c_o_r_d_s_data_table_1df510a0343271795962e9aebce174e26" prot="protected" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet1::VARCSPDOCTORRECORDSDataTable</scope><name>GetRowType</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_s_p_d_o_c_t_o_r_r_e_c_o_r_d_s_data_table_13e355ea8d2729a39c479cd3f0cbc8bfc" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet1::VARCSPDOCTORRECORDSDataTable</scope><name>GetTypedTableSchema</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_s_p_d_o_c_t_o_r_r_e_c_o_r_d_s_data_table_1fc8f434d944c5938f3178d3af2a53ff2" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet1::VARCSPDOCTORRECORDSDataTable</scope><name>IDColumn</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_s_p_d_o_c_t_o_r_r_e_c_o_r_d_s_data_table_15a427680485cd905423a64a6b7940c00" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet1::VARCSPDOCTORRECORDSDataTable</scope><name>InitClass</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_s_p_d_o_c_t_o_r_r_e_c_o_r_d_s_data_table_1d12ee5d070078273e26ff6053c10dad3" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet1::VARCSPDOCTORRECORDSDataTable</scope><name>InitVars</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_s_p_d_o_c_t_o_r_r_e_c_o_r_d_s_data_table_198c0e81f19ac089dcccd3ae4e78a8527" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet1::VARCSPDOCTORRECORDSDataTable</scope><name>JURIDICAL_ADRESS_PATIENTColumn</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_s_p_d_o_c_t_o_r_r_e_c_o_r_d_s_data_table_15fc6a88b66fec2f3a22a89ba4d1fe1e0" prot="protected" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet1::VARCSPDOCTORRECORDSDataTable</scope><name>NewRowFromBuilder</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_s_p_d_o_c_t_o_r_r_e_c_o_r_d_s_data_table_1b7d7b1aedb4e1d40e49ebf11003f65a9" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet1::VARCSPDOCTORRECORDSDataTable</scope><name>NewVARCSPDOCTORRECORDSRow</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_s_p_d_o_c_t_o_r_r_e_c_o_r_d_s_data_table_1a8b1b33bf91ae8c9d1b2b3c52d4cfeae" prot="protected" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet1::VARCSPDOCTORRECORDSDataTable</scope><name>OnRowChanged</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_s_p_d_o_c_t_o_r_r_e_c_o_r_d_s_data_table_178169011eef86c906b5e5377d0f1e75e" prot="protected" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet1::VARCSPDOCTORRECORDSDataTable</scope><name>OnRowChanging</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_s_p_d_o_c_t_o_r_r_e_c_o_r_d_s_data_table_11af347fcce2b94a781ae5dd4d19b3f43" prot="protected" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet1::VARCSPDOCTORRECORDSDataTable</scope><name>OnRowDeleted</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_s_p_d_o_c_t_o_r_r_e_c_o_r_d_s_data_table_1a09f5ee6c38b3fc5b956ac697f10cbaf" prot="protected" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet1::VARCSPDOCTORRECORDSDataTable</scope><name>OnRowDeleting</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_s_p_d_o_c_t_o_r_r_e_c_o_r_d_s_data_table_1eb48c407e31a521907b320a55f805456" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet1::VARCSPDOCTORRECORDSDataTable</scope><name>RemoveVARCSPDOCTORRECORDSRow</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_s_p_d_o_c_t_o_r_r_e_c_o_r_d_s_data_table_1cfd305baf4ea82b975001ef142cf4171" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet1::VARCSPDOCTORRECORDSDataTable</scope><name>this</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_s_p_d_o_c_t_o_r_r_e_c_o_r_d_s_data_table_1626e366da9236affa4cfb81078044d14" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet1::VARCSPDOCTORRECORDSDataTable</scope><name>VARCSPDOCTORRECORDSDataTable</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_s_p_d_o_c_t_o_r_r_e_c_o_r_d_s_data_table_150e1a5b2d72fe149fac3a7c24ce44f68" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet1::VARCSPDOCTORRECORDSDataTable</scope><name>VARCSPDOCTORRECORDSDataTable</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_s_p_d_o_c_t_o_r_r_e_c_o_r_d_s_data_table_136d9ecf161d3e26e0443039208ee8a9c" prot="protected" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet1::VARCSPDOCTORRECORDSDataTable</scope><name>VARCSPDOCTORRECORDSDataTable</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_s_p_d_o_c_t_o_r_r_e_c_o_r_d_s_data_table_1c3e7cdde138d4cd122efd0f78ebe16b0" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet1::VARCSPDOCTORRECORDSDataTable</scope><name>VARCSPDOCTORRECORDSRowChanged</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_s_p_d_o_c_t_o_r_r_e_c_o_r_d_s_data_table_171edbf44b364a68bf5fda1d8a5f2e6ec" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet1::VARCSPDOCTORRECORDSDataTable</scope><name>VARCSPDOCTORRECORDSRowChanging</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_s_p_d_o_c_t_o_r_r_e_c_o_r_d_s_data_table_16dd20edafe586a5298356090f0007e78" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet1::VARCSPDOCTORRECORDSDataTable</scope><name>VARCSPDOCTORRECORDSRowDeleted</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_s_p_d_o_c_t_o_r_r_e_c_o_r_d_s_data_table_1eab4d3a3bb689f1e2dc00ba95a633567" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet1::VARCSPDOCTORRECORDSDataTable</scope><name>VARCSPDOCTORRECORDSRowDeleting</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

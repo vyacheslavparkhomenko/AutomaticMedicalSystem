@@ -1,0 +1,634 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.5.8">
+  <compounddef id="class_automatic_medical_system_1_1_data_set2_1_1_d_e_p_a_r_t_m_e_n_t_data_table" kind="class" prot="public">
+    <compoundname>AutomaticMedicalSystem::DataSet2::DEPARTMENTDataTable</compoundname>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_automatic_medical_system_1_1_data_set2_1_1_d_e_p_a_r_t_m_e_n_t_data_table_13ad24d96848d35cb67f3cd62d0d2a048" prot="private" static="no" mutable="no">
+        <type>global::System.Data.DataColumn</type>
+        <definition>global::System.Data.DataColumn AutomaticMedicalSystem.DataSet2.DataSet2.DEPARTMENTDataTable.columnID</definition>
+        <argsstring></argsstring>
+        <name>columnID</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="1205" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="1205" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_automatic_medical_system_1_1_data_set2_1_1_d_e_p_a_r_t_m_e_n_t_data_table_1ea5ee9c9f3c60d0bf3fca0d93a7cb0d4" prot="private" static="no" mutable="no">
+        <type>global::System.Data.DataColumn</type>
+        <definition>global::System.Data.DataColumn AutomaticMedicalSystem.DataSet2.DataSet2.DEPARTMENTDataTable.columnNAME</definition>
+        <argsstring></argsstring>
+        <name>columnNAME</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="1207" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="1207" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_automatic_medical_system_1_1_data_set2_1_1_d_e_p_a_r_t_m_e_n_t_data_table_13bdd95b0413c92a6598926d37318c6f5" prot="private" static="no" mutable="no">
+        <type>global::System.Data.DataColumn</type>
+        <definition>global::System.Data.DataColumn AutomaticMedicalSystem.DataSet2.DataSet2.DEPARTMENTDataTable.columnDIRECTOR</definition>
+        <argsstring></argsstring>
+        <name>columnDIRECTOR</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="1209" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="1209" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_automatic_medical_system_1_1_data_set2_1_1_d_e_p_a_r_t_m_e_n_t_data_table_1b17db4c38dcfc2a273d88225150784c6" prot="private" static="no" mutable="no">
+        <type>global::System.Data.DataColumn</type>
+        <definition>global::System.Data.DataColumn AutomaticMedicalSystem.DataSet2.DataSet2.DEPARTMENTDataTable.columnPHONE</definition>
+        <argsstring></argsstring>
+        <name>columnPHONE</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="1211" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="1211" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_automatic_medical_system_1_1_data_set2_1_1_d_e_p_a_r_t_m_e_n_t_data_table_1bd0669ddbf5c89a3baccbd5a0c2af7aa" prot="private" static="no" mutable="no">
+        <type>global::System.Data.DataColumn</type>
+        <definition>global::System.Data.DataColumn AutomaticMedicalSystem.DataSet2.DataSet2.DEPARTMENTDataTable.columnPHONE_DIRECTOR</definition>
+        <argsstring></argsstring>
+        <name>columnPHONE_DIRECTOR</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="1213" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="1213" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_automatic_medical_system_1_1_data_set2_1_1_d_e_p_a_r_t_m_e_n_t_data_table_1da521bc3a4ccba7901f0466310aae11a" prot="private" static="no" mutable="no">
+        <type>global::System.Data.DataColumn</type>
+        <definition>global::System.Data.DataColumn AutomaticMedicalSystem.DataSet2.DataSet2.DEPARTMENTDataTable.columnDATEWORK</definition>
+        <argsstring></argsstring>
+        <name>columnDATEWORK</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="1215" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="1215" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="class_automatic_medical_system_1_1_data_set2_1_1_d_e_p_a_r_t_m_e_n_t_data_table_1e58db99a83cd3398f9dadf7e2fae5ccc" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="no">
+        <type>global::System.Data.DataColumn</type>
+        <definition>global::System.Data.DataColumn AutomaticMedicalSystem.DataSet2.DataSet2.DEPARTMENTDataTable.IDColumn</definition>
+        <argsstring></argsstring>
+        <name>IDColumn</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="1256" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="1252" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_automatic_medical_system_1_1_data_set2_1_1_d_e_p_a_r_t_m_e_n_t_data_table_16bfabff7c144c6421a7f061c99aabd7f" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="no">
+        <type>global::System.Data.DataColumn</type>
+        <definition>global::System.Data.DataColumn AutomaticMedicalSystem.DataSet2.DataSet2.DEPARTMENTDataTable.NAMEColumn</definition>
+        <argsstring></argsstring>
+        <name>NAMEColumn</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="1264" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="1260" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_automatic_medical_system_1_1_data_set2_1_1_d_e_p_a_r_t_m_e_n_t_data_table_1de5d764de67ee0a86885d737318edfbd" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="no">
+        <type>global::System.Data.DataColumn</type>
+        <definition>global::System.Data.DataColumn AutomaticMedicalSystem.DataSet2.DataSet2.DEPARTMENTDataTable.DIRECTORColumn</definition>
+        <argsstring></argsstring>
+        <name>DIRECTORColumn</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="1272" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="1268" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_automatic_medical_system_1_1_data_set2_1_1_d_e_p_a_r_t_m_e_n_t_data_table_1d1f40132702be7e242e7ea30b3e177fc" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="no">
+        <type>global::System.Data.DataColumn</type>
+        <definition>global::System.Data.DataColumn AutomaticMedicalSystem.DataSet2.DataSet2.DEPARTMENTDataTable.PHONEColumn</definition>
+        <argsstring></argsstring>
+        <name>PHONEColumn</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="1280" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="1276" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_automatic_medical_system_1_1_data_set2_1_1_d_e_p_a_r_t_m_e_n_t_data_table_1f44d372079b51c9ca9796d59f678fab3" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="no">
+        <type>global::System.Data.DataColumn</type>
+        <definition>global::System.Data.DataColumn AutomaticMedicalSystem.DataSet2.DataSet2.DEPARTMENTDataTable.PHONE_DIRECTORColumn</definition>
+        <argsstring></argsstring>
+        <name>PHONE_DIRECTORColumn</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="1288" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="1284" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_automatic_medical_system_1_1_data_set2_1_1_d_e_p_a_r_t_m_e_n_t_data_table_12d6806e9ab0506252c4a0788fbe6c949" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="no">
+        <type>global::System.Data.DataColumn</type>
+        <definition>global::System.Data.DataColumn AutomaticMedicalSystem.DataSet2.DataSet2.DEPARTMENTDataTable.DATEWORKColumn</definition>
+        <argsstring></argsstring>
+        <name>DATEWORKColumn</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="1296" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="1292" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_automatic_medical_system_1_1_data_set2_1_1_d_e_p_a_r_t_m_e_n_t_data_table_12b3c3bad263950b964520f5cc2c5da1b" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="no">
+        <type>int</type>
+        <definition>int AutomaticMedicalSystem.DataSet2.DataSet2.DEPARTMENTDataTable.Count</definition>
+        <argsstring></argsstring>
+        <name>Count</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="1305" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="1301" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_automatic_medical_system_1_1_data_set2_1_1_d_e_p_a_r_t_m_e_n_t_data_table_1713db7bce02d2a6b0381f76ea54c6abf" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="no">
+        <type><ref refid="class_automatic_medical_system_1_1_data_set2_1_1_d_e_p_a_r_t_m_e_n_t_row" kindref="compound">DEPARTMENTRow</ref></type>
+        <definition>DEPARTMENTRow AutomaticMedicalSystem.DataSet2.DataSet2.DEPARTMENTDataTable.this[int index]</definition>
+        <argsstring>[int index]</argsstring>
+        <name>this</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="1313" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="1309" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="event">
+      <memberdef kind="event" id="class_automatic_medical_system_1_1_data_set2_1_1_d_e_p_a_r_t_m_e_n_t_data_table_1ad94a07225471f1b9e5884b88296b789" prot="public" static="no" add="no" remove="no" raise="no">
+        <type>DEPARTMENTRowChangeEventHandler</type>
+        <definition>DEPARTMENTRowChangeEventHandler AutomaticMedicalSystem.DataSet2.DataSet2.DEPARTMENTDataTable.DEPARTMENTRowChanging</definition>
+        <argsstring></argsstring>
+        <name>DEPARTMENTRowChanging</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="1316" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="1316" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="event" id="class_automatic_medical_system_1_1_data_set2_1_1_d_e_p_a_r_t_m_e_n_t_data_table_1bc42485e239216c5b97a13f0b20dc474" prot="public" static="no" add="no" remove="no" raise="no">
+        <type>DEPARTMENTRowChangeEventHandler</type>
+        <definition>DEPARTMENTRowChangeEventHandler AutomaticMedicalSystem.DataSet2.DataSet2.DEPARTMENTDataTable.DEPARTMENTRowChanged</definition>
+        <argsstring></argsstring>
+        <name>DEPARTMENTRowChanged</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="1319" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="1319" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="event" id="class_automatic_medical_system_1_1_data_set2_1_1_d_e_p_a_r_t_m_e_n_t_data_table_1db0914f10f6e77c2431f021aea36a7a9" prot="public" static="no" add="no" remove="no" raise="no">
+        <type>DEPARTMENTRowChangeEventHandler</type>
+        <definition>DEPARTMENTRowChangeEventHandler AutomaticMedicalSystem.DataSet2.DataSet2.DEPARTMENTDataTable.DEPARTMENTRowDeleting</definition>
+        <argsstring></argsstring>
+        <name>DEPARTMENTRowDeleting</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="1322" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="1322" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="event" id="class_automatic_medical_system_1_1_data_set2_1_1_d_e_p_a_r_t_m_e_n_t_data_table_10b2a2d31c8f3b466ef840eaa76d100c1" prot="public" static="no" add="no" remove="no" raise="no">
+        <type>DEPARTMENTRowChangeEventHandler</type>
+        <definition>DEPARTMENTRowChangeEventHandler AutomaticMedicalSystem.DataSet2.DataSet2.DEPARTMENTDataTable.DEPARTMENTRowDeleted</definition>
+        <argsstring></argsstring>
+        <name>DEPARTMENTRowDeleted</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="1325" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="1325" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_data_set2_1_1_d_e_p_a_r_t_m_e_n_t_data_table_12150b77b4233c588fa01510fca32bede" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>AutomaticMedicalSystem.DataSet2.DataSet2.DEPARTMENTDataTable.DEPARTMENTDataTable</definition>
+        <argsstring>()</argsstring>
+        <name>DEPARTMENTDataTable</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="1219" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="1219" bodyend="1224"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_data_set2_1_1_d_e_p_a_r_t_m_e_n_t_data_table_17479c393101a556b1318ad13e005f926" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void AutomaticMedicalSystem.DataSet2.DataSet2.DEPARTMENTDataTable.AddDEPARTMENTRow</definition>
+        <argsstring>(DEPARTMENTRow row)</argsstring>
+        <name>AddDEPARTMENTRow</name>
+        <param>
+          <type><ref refid="class_automatic_medical_system_1_1_data_set2_1_1_d_e_p_a_r_t_m_e_n_t_row" kindref="compound">DEPARTMENTRow</ref></type>
+          <declname>row</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="1329" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="1329" bodyend="1331"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_data_set2_1_1_d_e_p_a_r_t_m_e_n_t_data_table_11387b11706db64961e222b87c9cdb56c" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type><ref refid="class_automatic_medical_system_1_1_data_set2_1_1_d_e_p_a_r_t_m_e_n_t_row" kindref="compound">DEPARTMENTRow</ref></type>
+        <definition>DEPARTMENTRow AutomaticMedicalSystem.DataSet2.DataSet2.DEPARTMENTDataTable.AddDEPARTMENTRow</definition>
+        <argsstring>(decimal ID, string NAME, string DIRECTOR, string PHONE, string PHONE_DIRECTOR, string DATEWORK)</argsstring>
+        <name>AddDEPARTMENTRow</name>
+        <param>
+          <type>decimal</type>
+          <declname>ID</declname>
+        </param>
+        <param>
+          <type>string</type>
+          <declname>NAME</declname>
+        </param>
+        <param>
+          <type>string</type>
+          <declname>DIRECTOR</declname>
+        </param>
+        <param>
+          <type>string</type>
+          <declname>PHONE</declname>
+        </param>
+        <param>
+          <type>string</type>
+          <declname>PHONE_DIRECTOR</declname>
+        </param>
+        <param>
+          <type>string</type>
+          <declname>DATEWORK</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="1335" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="1335" bodyend="1347"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_data_set2_1_1_d_e_p_a_r_t_m_e_n_t_data_table_14866642b0e09bac1079d9d65db45fa40" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type><ref refid="class_automatic_medical_system_1_1_data_set2_1_1_d_e_p_a_r_t_m_e_n_t_row" kindref="compound">DEPARTMENTRow</ref></type>
+        <definition>DEPARTMENTRow AutomaticMedicalSystem.DataSet2.DataSet2.DEPARTMENTDataTable.FindByID</definition>
+        <argsstring>(decimal ID)</argsstring>
+        <name>FindByID</name>
+        <param>
+          <type>decimal</type>
+          <declname>ID</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="1351" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="1351" bodyend="1354"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_data_set2_1_1_d_e_p_a_r_t_m_e_n_t_data_table_149704fca012d662e9a3370d869bc98c5" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override global::System.Data.DataTable</type>
+        <definition>override global::System.Data.DataTable AutomaticMedicalSystem.DataSet2.DataSet2.DEPARTMENTDataTable.Clone</definition>
+        <argsstring>()</argsstring>
+        <name>Clone</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="1358" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="1358" bodyend="1362"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_data_set2_1_1_d_e_p_a_r_t_m_e_n_t_data_table_135d7982763dee628fa42420bd8e0a5f7" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type><ref refid="class_automatic_medical_system_1_1_data_set2_1_1_d_e_p_a_r_t_m_e_n_t_row" kindref="compound">DEPARTMENTRow</ref></type>
+        <definition>DEPARTMENTRow AutomaticMedicalSystem.DataSet2.DataSet2.DEPARTMENTDataTable.NewDEPARTMENTRow</definition>
+        <argsstring>()</argsstring>
+        <name>NewDEPARTMENTRow</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="1414" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="1414" bodyend="1416"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_data_set2_1_1_d_e_p_a_r_t_m_e_n_t_data_table_17ae19dcea6c8da2b7cf550021420816a" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void AutomaticMedicalSystem.DataSet2.DataSet2.DEPARTMENTDataTable.RemoveDEPARTMENTRow</definition>
+        <argsstring>(DEPARTMENTRow row)</argsstring>
+        <name>RemoveDEPARTMENTRow</name>
+        <param>
+          <type><ref refid="class_automatic_medical_system_1_1_data_set2_1_1_d_e_p_a_r_t_m_e_n_t_row" kindref="compound">DEPARTMENTRow</ref></type>
+          <declname>row</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="1468" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="1468" bodyend="1470"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_data_set2_1_1_d_e_p_a_r_t_m_e_n_t_data_table_142afee0fa6d39c6af1138e3f52e5f0eb" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>internal</type>
+        <definition>internal AutomaticMedicalSystem.DataSet2.DataSet2.DEPARTMENTDataTable.DEPARTMENTDataTable</definition>
+        <argsstring>(global::System.Data.DataTable table)</argsstring>
+        <name>DEPARTMENTDataTable</name>
+        <param>
+          <type>global::System.Data.DataTable</type>
+          <declname>table</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="1228" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="1228" bodyend="1241"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_data_set2_1_1_d_e_p_a_r_t_m_e_n_t_data_table_10ad003ee555c8c3aa71e1239db8695a1" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>internal void</type>
+        <definition>internal void AutomaticMedicalSystem.DataSet2.DataSet2.DEPARTMENTDataTable.InitVars</definition>
+        <argsstring>()</argsstring>
+        <name>InitVars</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="1372" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="1372" bodyend="1379"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_data_set2_1_1_d_e_p_a_r_t_m_e_n_t_data_table_176598c5b96e19025324761588ae76714" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void AutomaticMedicalSystem.DataSet2.DataSet2.DEPARTMENTDataTable.InitClass</definition>
+        <argsstring>()</argsstring>
+        <name>InitClass</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="1383" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="1383" bodyend="1410"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="protected-func">
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_data_set2_1_1_d_e_p_a_r_t_m_e_n_t_data_table_1ea6fad8e81ddd6b516a63bf59c19044d" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>AutomaticMedicalSystem.DataSet2.DataSet2.DEPARTMENTDataTable.DEPARTMENTDataTable</definition>
+        <argsstring>(global::System.Runtime.Serialization.SerializationInfo info, global::System.Runtime.Serialization.StreamingContext context)</argsstring>
+        <name>DEPARTMENTDataTable</name>
+        <param>
+          <type>global::System.Runtime.Serialization.SerializationInfo</type>
+          <declname>info</declname>
+        </param>
+        <param>
+          <type>global::System.Runtime.Serialization.StreamingContext</type>
+          <declname>context</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="1246" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="1245" bodyend="1248"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_data_set2_1_1_d_e_p_a_r_t_m_e_n_t_data_table_12efee71c2f13306d6a36c4e5513f43d8" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override global::System.Data.DataTable</type>
+        <definition>override global::System.Data.DataTable AutomaticMedicalSystem.DataSet2.DataSet2.DEPARTMENTDataTable.CreateInstance</definition>
+        <argsstring>()</argsstring>
+        <name>CreateInstance</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="1366" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="1366" bodyend="1368"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_data_set2_1_1_d_e_p_a_r_t_m_e_n_t_data_table_147468aa3606515c363a90dfb4262c52b" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override global::System.Data.DataRow</type>
+        <definition>override global::System.Data.DataRow AutomaticMedicalSystem.DataSet2.DataSet2.DEPARTMENTDataTable.NewRowFromBuilder</definition>
+        <argsstring>(global::System.Data.DataRowBuilder builder)</argsstring>
+        <name>NewRowFromBuilder</name>
+        <param>
+          <type>global::System.Data.DataRowBuilder</type>
+          <declname>builder</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="1420" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="1420" bodyend="1422"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_data_set2_1_1_d_e_p_a_r_t_m_e_n_t_data_table_19cfaed9994603d15d1cc1a6236c5c707" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override global::System.Type</type>
+        <definition>override global::System.Type AutomaticMedicalSystem.DataSet2.DataSet2.DEPARTMENTDataTable.GetRowType</definition>
+        <argsstring>()</argsstring>
+        <name>GetRowType</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="1426" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="1426" bodyend="1428"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_data_set2_1_1_d_e_p_a_r_t_m_e_n_t_data_table_15e67f38e2ae2545cc2bdba9d5fb646a7" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override void</type>
+        <definition>override void AutomaticMedicalSystem.DataSet2.DataSet2.DEPARTMENTDataTable.OnRowChanged</definition>
+        <argsstring>(global::System.Data.DataRowChangeEventArgs e)</argsstring>
+        <name>OnRowChanged</name>
+        <param>
+          <type>global::System.Data.DataRowChangeEventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="1432" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="1432" bodyend="1437"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_data_set2_1_1_d_e_p_a_r_t_m_e_n_t_data_table_111b5f733bbac16a16b240b248f1dec07" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override void</type>
+        <definition>override void AutomaticMedicalSystem.DataSet2.DataSet2.DEPARTMENTDataTable.OnRowChanging</definition>
+        <argsstring>(global::System.Data.DataRowChangeEventArgs e)</argsstring>
+        <name>OnRowChanging</name>
+        <param>
+          <type>global::System.Data.DataRowChangeEventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="1441" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="1441" bodyend="1446"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_data_set2_1_1_d_e_p_a_r_t_m_e_n_t_data_table_137c67ac02ce9321028b127eda296914f" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override void</type>
+        <definition>override void AutomaticMedicalSystem.DataSet2.DataSet2.DEPARTMENTDataTable.OnRowDeleted</definition>
+        <argsstring>(global::System.Data.DataRowChangeEventArgs e)</argsstring>
+        <name>OnRowDeleted</name>
+        <param>
+          <type>global::System.Data.DataRowChangeEventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="1450" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="1450" bodyend="1455"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_data_set2_1_1_d_e_p_a_r_t_m_e_n_t_data_table_1a16585a4a13c0767852c07daea6c6e88" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override void</type>
+        <definition>override void AutomaticMedicalSystem.DataSet2.DataSet2.DEPARTMENTDataTable.OnRowDeleting</definition>
+        <argsstring>(global::System.Data.DataRowChangeEventArgs e)</argsstring>
+        <name>OnRowDeleting</name>
+        <param>
+          <type>global::System.Data.DataRowChangeEventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="1459" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="1459" bodyend="1464"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-static-func">
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_data_set2_1_1_d_e_p_a_r_t_m_e_n_t_data_table_114e8cd43b22e38fa491851973791c84f" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>global::System.Xml.Schema.XmlSchemaComplexType</type>
+        <definition>static global::System.Xml.Schema.XmlSchemaComplexType AutomaticMedicalSystem.DataSet2.DataSet2.DEPARTMENTDataTable.GetTypedTableSchema</definition>
+        <argsstring>(global::System.Xml.Schema.XmlSchemaSet xs)</argsstring>
+        <name>GetTypedTableSchema</name>
+        <param>
+          <type>global::System.Xml.Schema.XmlSchemaSet</type>
+          <declname>xs</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="1474" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="1474" bodyend="1533"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Represents the strongly named DataTable class. /summary&gt;. </para>    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <collaborationgraph>
+      <node id="265">
+        <label>System.Data</label>
+      </node>
+      <node id="264">
+        <label>AutomaticMedicalSystem.DataSet2.DataSet2.DEPARTMENTDataTable</label>
+        <link refid="class_automatic_medical_system_1_1_data_set2_1_1_d_e_p_a_r_t_m_e_n_t_data_table"/>
+        <childnode refid="265" relation="usage">
+          <edgelabel>columnDATEWORK</edgelabel>
+          <edgelabel>columnDIRECTOR</edgelabel>
+          <edgelabel>columnPHONE</edgelabel>
+          <edgelabel>columnNAME</edgelabel>
+          <edgelabel>columnID</edgelabel>
+          <edgelabel>columnPHONE_DIRECTOR</edgelabel>
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="1203" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="1203" bodyend="1534"/>
+    <listofallmembers>
+      <member refid="class_automatic_medical_system_1_1_data_set2_1_1_d_e_p_a_r_t_m_e_n_t_data_table_17479c393101a556b1318ad13e005f926" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2::DEPARTMENTDataTable</scope><name>AddDEPARTMENTRow</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_1_1_d_e_p_a_r_t_m_e_n_t_data_table_11387b11706db64961e222b87c9cdb56c" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2::DEPARTMENTDataTable</scope><name>AddDEPARTMENTRow</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_1_1_d_e_p_a_r_t_m_e_n_t_data_table_149704fca012d662e9a3370d869bc98c5" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2::DEPARTMENTDataTable</scope><name>Clone</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_1_1_d_e_p_a_r_t_m_e_n_t_data_table_1da521bc3a4ccba7901f0466310aae11a" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2::DEPARTMENTDataTable</scope><name>columnDATEWORK</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_1_1_d_e_p_a_r_t_m_e_n_t_data_table_13bdd95b0413c92a6598926d37318c6f5" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2::DEPARTMENTDataTable</scope><name>columnDIRECTOR</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_1_1_d_e_p_a_r_t_m_e_n_t_data_table_13ad24d96848d35cb67f3cd62d0d2a048" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2::DEPARTMENTDataTable</scope><name>columnID</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_1_1_d_e_p_a_r_t_m_e_n_t_data_table_1ea5ee9c9f3c60d0bf3fca0d93a7cb0d4" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2::DEPARTMENTDataTable</scope><name>columnNAME</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_1_1_d_e_p_a_r_t_m_e_n_t_data_table_1b17db4c38dcfc2a273d88225150784c6" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2::DEPARTMENTDataTable</scope><name>columnPHONE</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_1_1_d_e_p_a_r_t_m_e_n_t_data_table_1bd0669ddbf5c89a3baccbd5a0c2af7aa" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2::DEPARTMENTDataTable</scope><name>columnPHONE_DIRECTOR</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_1_1_d_e_p_a_r_t_m_e_n_t_data_table_12b3c3bad263950b964520f5cc2c5da1b" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2::DEPARTMENTDataTable</scope><name>Count</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_1_1_d_e_p_a_r_t_m_e_n_t_data_table_12efee71c2f13306d6a36c4e5513f43d8" prot="protected" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2::DEPARTMENTDataTable</scope><name>CreateInstance</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_1_1_d_e_p_a_r_t_m_e_n_t_data_table_12d6806e9ab0506252c4a0788fbe6c949" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2::DEPARTMENTDataTable</scope><name>DATEWORKColumn</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_1_1_d_e_p_a_r_t_m_e_n_t_data_table_12150b77b4233c588fa01510fca32bede" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2::DEPARTMENTDataTable</scope><name>DEPARTMENTDataTable</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_1_1_d_e_p_a_r_t_m_e_n_t_data_table_142afee0fa6d39c6af1138e3f52e5f0eb" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2::DEPARTMENTDataTable</scope><name>DEPARTMENTDataTable</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_1_1_d_e_p_a_r_t_m_e_n_t_data_table_1ea6fad8e81ddd6b516a63bf59c19044d" prot="protected" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2::DEPARTMENTDataTable</scope><name>DEPARTMENTDataTable</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_1_1_d_e_p_a_r_t_m_e_n_t_data_table_1bc42485e239216c5b97a13f0b20dc474" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2::DEPARTMENTDataTable</scope><name>DEPARTMENTRowChanged</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_1_1_d_e_p_a_r_t_m_e_n_t_data_table_1ad94a07225471f1b9e5884b88296b789" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2::DEPARTMENTDataTable</scope><name>DEPARTMENTRowChanging</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_1_1_d_e_p_a_r_t_m_e_n_t_data_table_10b2a2d31c8f3b466ef840eaa76d100c1" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2::DEPARTMENTDataTable</scope><name>DEPARTMENTRowDeleted</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_1_1_d_e_p_a_r_t_m_e_n_t_data_table_1db0914f10f6e77c2431f021aea36a7a9" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2::DEPARTMENTDataTable</scope><name>DEPARTMENTRowDeleting</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_1_1_d_e_p_a_r_t_m_e_n_t_data_table_1de5d764de67ee0a86885d737318edfbd" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2::DEPARTMENTDataTable</scope><name>DIRECTORColumn</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_1_1_d_e_p_a_r_t_m_e_n_t_data_table_14866642b0e09bac1079d9d65db45fa40" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2::DEPARTMENTDataTable</scope><name>FindByID</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_1_1_d_e_p_a_r_t_m_e_n_t_data_table_19cfaed9994603d15d1cc1a6236c5c707" prot="protected" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2::DEPARTMENTDataTable</scope><name>GetRowType</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_1_1_d_e_p_a_r_t_m_e_n_t_data_table_114e8cd43b22e38fa491851973791c84f" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2::DEPARTMENTDataTable</scope><name>GetTypedTableSchema</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_1_1_d_e_p_a_r_t_m_e_n_t_data_table_1e58db99a83cd3398f9dadf7e2fae5ccc" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2::DEPARTMENTDataTable</scope><name>IDColumn</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_1_1_d_e_p_a_r_t_m_e_n_t_data_table_176598c5b96e19025324761588ae76714" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2::DEPARTMENTDataTable</scope><name>InitClass</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_1_1_d_e_p_a_r_t_m_e_n_t_data_table_10ad003ee555c8c3aa71e1239db8695a1" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2::DEPARTMENTDataTable</scope><name>InitVars</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_1_1_d_e_p_a_r_t_m_e_n_t_data_table_16bfabff7c144c6421a7f061c99aabd7f" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2::DEPARTMENTDataTable</scope><name>NAMEColumn</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_1_1_d_e_p_a_r_t_m_e_n_t_data_table_135d7982763dee628fa42420bd8e0a5f7" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2::DEPARTMENTDataTable</scope><name>NewDEPARTMENTRow</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_1_1_d_e_p_a_r_t_m_e_n_t_data_table_147468aa3606515c363a90dfb4262c52b" prot="protected" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2::DEPARTMENTDataTable</scope><name>NewRowFromBuilder</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_1_1_d_e_p_a_r_t_m_e_n_t_data_table_15e67f38e2ae2545cc2bdba9d5fb646a7" prot="protected" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2::DEPARTMENTDataTable</scope><name>OnRowChanged</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_1_1_d_e_p_a_r_t_m_e_n_t_data_table_111b5f733bbac16a16b240b248f1dec07" prot="protected" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2::DEPARTMENTDataTable</scope><name>OnRowChanging</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_1_1_d_e_p_a_r_t_m_e_n_t_data_table_137c67ac02ce9321028b127eda296914f" prot="protected" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2::DEPARTMENTDataTable</scope><name>OnRowDeleted</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_1_1_d_e_p_a_r_t_m_e_n_t_data_table_1a16585a4a13c0767852c07daea6c6e88" prot="protected" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2::DEPARTMENTDataTable</scope><name>OnRowDeleting</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_1_1_d_e_p_a_r_t_m_e_n_t_data_table_1f44d372079b51c9ca9796d59f678fab3" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2::DEPARTMENTDataTable</scope><name>PHONE_DIRECTORColumn</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_1_1_d_e_p_a_r_t_m_e_n_t_data_table_1d1f40132702be7e242e7ea30b3e177fc" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2::DEPARTMENTDataTable</scope><name>PHONEColumn</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_1_1_d_e_p_a_r_t_m_e_n_t_data_table_17ae19dcea6c8da2b7cf550021420816a" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2::DEPARTMENTDataTable</scope><name>RemoveDEPARTMENTRow</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_1_1_d_e_p_a_r_t_m_e_n_t_data_table_1713db7bce02d2a6b0381f76ea54c6abf" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2::DEPARTMENTDataTable</scope><name>this</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

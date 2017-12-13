@@ -1,0 +1,144 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.5.8">
+  <compounddef id="class_automatic_medical_system_1_1_data_set1_1_1_f_a_m_i_l_y___d_o_c_t_o_r_row" kind="class" prot="public">
+    <compoundname>AutomaticMedicalSystem::DataSet1::FAMILY_DOCTORRow</compoundname>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_automatic_medical_system_1_1_data_set1_1_1_f_a_m_i_l_y___d_o_c_t_o_r_row_10f1d9bb930328f092ab304bc04814cb8" prot="private" static="no" mutable="no">
+        <type><ref refid="class_automatic_medical_system_1_1_data_set1_1_1_f_a_m_i_l_y___d_o_c_t_o_r_data_table" kindref="compound">FAMILY_DOCTORDataTable</ref></type>
+        <definition>FAMILY_DOCTORDataTable AutomaticMedicalSystem.DataSet1.DataSet1.FAMILY_DOCTORRow.tableFAMILY_DOCTOR</definition>
+        <argsstring></argsstring>
+        <name>tableFAMILY_DOCTOR</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" line="7200" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" bodystart="7200" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="class_automatic_medical_system_1_1_data_set1_1_1_f_a_m_i_l_y___d_o_c_t_o_r_row_1f63f0806558c59f68c6cac1da35f3e2d" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="yes">
+        <type>decimal</type>
+        <definition>decimal AutomaticMedicalSystem.DataSet1.DataSet1.FAMILY_DOCTORRow.ID</definition>
+        <argsstring></argsstring>
+        <name>ID</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" line="7218" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" bodystart="7211" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_automatic_medical_system_1_1_data_set1_1_1_f_a_m_i_l_y___d_o_c_t_o_r_row_1cfd5b92c9184ac0dd4e0835e7dba4fce" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="yes">
+        <type>decimal</type>
+        <definition>decimal AutomaticMedicalSystem.DataSet1.DataSet1.FAMILY_DOCTORRow.PATIENTSID</definition>
+        <argsstring></argsstring>
+        <name>PATIENTSID</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" line="7229" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" bodystart="7222" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_automatic_medical_system_1_1_data_set1_1_1_f_a_m_i_l_y___d_o_c_t_o_r_row_10359c6f6f15f4f5db372c05bce3cbc56" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="yes">
+        <type>decimal</type>
+        <definition>decimal AutomaticMedicalSystem.DataSet1.DataSet1.FAMILY_DOCTORRow.DOCTORSID</definition>
+        <argsstring></argsstring>
+        <name>DOCTORSID</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" line="7240" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" bodystart="7233" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_automatic_medical_system_1_1_data_set1_1_1_f_a_m_i_l_y___d_o_c_t_o_r_row_1e95cc2973907f975e23065616ef8eff7" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="yes">
+        <type><ref refid="class_automatic_medical_system_1_1_data_set1_1_1_d_o_c_t_o_r_s_row" kindref="compound">DOCTORSRow</ref></type>
+        <definition>DOCTORSRow AutomaticMedicalSystem.DataSet1.DataSet1.FAMILY_DOCTORRow.DOCTORSRow</definition>
+        <argsstring></argsstring>
+        <name>DOCTORSRow</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" line="7251" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" bodystart="7244" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_data_set1_1_1_f_a_m_i_l_y___d_o_c_t_o_r_row_1b5bf3f54182634bd2eb350b604e2d107" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>internal</type>
+        <definition>internal AutomaticMedicalSystem.DataSet1.DataSet1.FAMILY_DOCTORRow.FAMILY_DOCTORRow</definition>
+        <argsstring>(global::System.Data.DataRowBuilder rb)</argsstring>
+        <name>FAMILY_DOCTORRow</name>
+        <param>
+          <type>global::System.Data.DataRowBuilder</type>
+          <declname>rb</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" line="7205" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" bodystart="7204" bodyend="7207"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_data_set1_1_1_f_a_m_i_l_y___d_o_c_t_o_r_row_111270f6300f69114bebae303590ac777" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type><ref refid="class_automatic_medical_system_1_1_data_set1_1_1_a_r_c___f_a_m_i_l_y___d_o_c_t_o_r___r_e_c_o_r_d_s_row" kindref="compound">ARC_FAMILY_DOCTOR_RECORDSRow</ref>[]</type>
+        <definition>ARC_FAMILY_DOCTOR_RECORDSRow [] AutomaticMedicalSystem.DataSet1.DataSet1.FAMILY_DOCTORRow.GetARC_FAMILY_DOCTOR_RECORDSRows</definition>
+        <argsstring>()</argsstring>
+        <name>GetARC_FAMILY_DOCTOR_RECORDSRows</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" line="7255" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" bodystart="7255" bodyend="7262"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Represents strongly named DataRow class. /summary&gt;. </para>    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <collaborationgraph>
+      <node id="113">
+        <label>System.Data</label>
+      </node>
+      <node id="111">
+        <label>AutomaticMedicalSystem.DataSet1.DataSet1.FAMILY_DOCTORRow</label>
+        <link refid="class_automatic_medical_system_1_1_data_set1_1_1_f_a_m_i_l_y___d_o_c_t_o_r_row"/>
+        <childnode refid="112" relation="usage">
+          <edgelabel>tableFAMILY_DOCTOR</edgelabel>
+        </childnode>
+      </node>
+      <node id="112">
+        <label>AutomaticMedicalSystem.DataSet1.DataSet1.FAMILY_DOCTORDataTable</label>
+        <link refid="class_automatic_medical_system_1_1_data_set1_1_1_f_a_m_i_l_y___d_o_c_t_o_r_data_table"/>
+        <childnode refid="113" relation="usage">
+          <edgelabel>columnDOCTORSID</edgelabel>
+          <edgelabel>columnPATIENTSID</edgelabel>
+          <edgelabel>columnID</edgelabel>
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" line="7198" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" bodystart="7198" bodyend="7263"/>
+    <listofallmembers>
+      <member refid="class_automatic_medical_system_1_1_data_set1_1_1_f_a_m_i_l_y___d_o_c_t_o_r_row_10359c6f6f15f4f5db372c05bce3cbc56" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet1::FAMILY_DOCTORRow</scope><name>DOCTORSID</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set1_1_1_f_a_m_i_l_y___d_o_c_t_o_r_row_1e95cc2973907f975e23065616ef8eff7" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet1::FAMILY_DOCTORRow</scope><name>DOCTORSRow</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set1_1_1_f_a_m_i_l_y___d_o_c_t_o_r_row_1b5bf3f54182634bd2eb350b604e2d107" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet1::FAMILY_DOCTORRow</scope><name>FAMILY_DOCTORRow</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set1_1_1_f_a_m_i_l_y___d_o_c_t_o_r_row_111270f6300f69114bebae303590ac777" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet1::FAMILY_DOCTORRow</scope><name>GetARC_FAMILY_DOCTOR_RECORDSRows</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set1_1_1_f_a_m_i_l_y___d_o_c_t_o_r_row_1f63f0806558c59f68c6cac1da35f3e2d" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet1::FAMILY_DOCTORRow</scope><name>ID</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set1_1_1_f_a_m_i_l_y___d_o_c_t_o_r_row_1cfd5b92c9184ac0dd4e0835e7dba4fce" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet1::FAMILY_DOCTORRow</scope><name>PATIENTSID</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set1_1_1_f_a_m_i_l_y___d_o_c_t_o_r_row_10f1d9bb930328f092ab304bc04814cb8" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet1::FAMILY_DOCTORRow</scope><name>tableFAMILY_DOCTOR</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,661 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.5.8">
+  <compounddef id="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_table_adapter_manager" kind="class" prot="public">
+    <compoundname>AutomaticMedicalSystem::DataSet2TableAdapters::TableAdapterManager</compoundname>
+    <innerclass refid="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_table_adapter_manager_1_1_self_reference_comparer" prot="private">AutomaticMedicalSystem::DataSet2TableAdapters::TableAdapterManager::SelfReferenceComparer</innerclass>
+      <sectiondef kind="public-type">
+      <memberdef kind="enum" id="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_table_adapter_manager_1eabb5079ac98cfe38f5c0f2cab46d8fa" prot="public" static="no">
+        <name>UpdateOrderOption</name>
+        <enumvalue id="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_table_adapter_manager_1eabb5079ac98cfe38f5c0f2cab46d8fa" prot="public">
+          <name>InsertUpdateDelete</name>
+          <initializer> 0</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_table_adapter_manager_1eabb5079ac98cfe38f5c0f2cab46d8fa" prot="public">
+          <name>UpdateInsertDelete</name>
+          <initializer> 1</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_table_adapter_manager_1eabb5079ac98cfe38f5c0f2cab46d8fa" prot="public">
+          <name>InsertUpdateDelete</name>
+          <initializer> 0</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_table_adapter_manager_1eabb5079ac98cfe38f5c0f2cab46d8fa" prot="public">
+          <name>UpdateInsertDelete</name>
+          <initializer> 1</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <briefdescription>
+<para>Update Order Option /summary&gt;. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="9707" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="9707" bodyend="9712"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_table_adapter_manager_1a4f577cc31d38665d584f6b6a0d0c1f6" prot="private" static="no" mutable="no">
+        <type><ref refid="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_table_adapter_manager_1eabb5079ac98cfe38f5c0f2cab46d8fa" kindref="member">UpdateOrderOption</ref></type>
+        <definition>UpdateOrderOption AutomaticMedicalSystem.DataSet2TableAdapters.TableAdapterManager._updateOrder</definition>
+        <argsstring></argsstring>
+        <name>_updateOrder</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="8932" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="8932" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_table_adapter_manager_1d88a0ae0d3fafa79fc35881df5554499" prot="private" static="no" mutable="no">
+        <type><ref refid="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_a_r_c___f_a_m_i_l_y___d_o_c_t_o_r___r_e_c_o_r_d_s_table_adapter" kindref="compound">ARC_FAMILY_DOCTOR_RECORDSTableAdapter</ref></type>
+        <definition>ARC_FAMILY_DOCTOR_RECORDSTableAdapter AutomaticMedicalSystem.DataSet2TableAdapters.TableAdapterManager._aRC_FAMILY_DOCTOR_RECORDSTableAdapter</definition>
+        <argsstring></argsstring>
+        <name>_aRC_FAMILY_DOCTOR_RECORDSTableAdapter</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="8934" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="8934" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_table_adapter_manager_1a166c38fae97f5975d20636823e80380" prot="private" static="no" mutable="no">
+        <type><ref refid="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_a_r_c___s_p___d_o_c_t_o_r___r_e_c_o_r_d_s_table_adapter" kindref="compound">ARC_SP_DOCTOR_RECORDSTableAdapter</ref></type>
+        <definition>ARC_SP_DOCTOR_RECORDSTableAdapter AutomaticMedicalSystem.DataSet2TableAdapters.TableAdapterManager._aRC_SP_DOCTOR_RECORDSTableAdapter</definition>
+        <argsstring></argsstring>
+        <name>_aRC_SP_DOCTOR_RECORDSTableAdapter</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="8936" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="8936" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_table_adapter_manager_10657fbdc479b86231d8ebcdb6ef3f84a" prot="private" static="no" mutable="no">
+        <type><ref refid="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_d_e_p_a_r_t_m_e_n_t_table_adapter" kindref="compound">DEPARTMENTTableAdapter</ref></type>
+        <definition>DEPARTMENTTableAdapter AutomaticMedicalSystem.DataSet2TableAdapters.TableAdapterManager._dEPARTMENTTableAdapter</definition>
+        <argsstring></argsstring>
+        <name>_dEPARTMENTTableAdapter</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="8938" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="8938" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_table_adapter_manager_199d53bbfdc8ae16306312a155099e149" prot="private" static="no" mutable="no">
+        <type><ref refid="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_d_i_a_g_n_o_s_e___f_m___d_o_c_t_o_r_table_adapter" kindref="compound">DIAGNOSE_FM_DOCTORTableAdapter</ref></type>
+        <definition>DIAGNOSE_FM_DOCTORTableAdapter AutomaticMedicalSystem.DataSet2TableAdapters.TableAdapterManager._dIAGNOSE_FM_DOCTORTableAdapter</definition>
+        <argsstring></argsstring>
+        <name>_dIAGNOSE_FM_DOCTORTableAdapter</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="8940" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="8940" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_table_adapter_manager_1a778e99b558d209053d27ce212fe97ab" prot="private" static="no" mutable="no">
+        <type><ref refid="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_d_i_a_g_n_o_s_e___s_p___d_o_c_t_o_r_table_adapter" kindref="compound">DIAGNOSE_SP_DOCTORTableAdapter</ref></type>
+        <definition>DIAGNOSE_SP_DOCTORTableAdapter AutomaticMedicalSystem.DataSet2TableAdapters.TableAdapterManager._dIAGNOSE_SP_DOCTORTableAdapter</definition>
+        <argsstring></argsstring>
+        <name>_dIAGNOSE_SP_DOCTORTableAdapter</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="8942" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="8942" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_table_adapter_manager_1d6bdbc63b463dc34131476e8256d2254" prot="private" static="no" mutable="no">
+        <type><ref refid="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_d_o_c_t_o_r_s_table_adapter" kindref="compound">DOCTORSTableAdapter</ref></type>
+        <definition>DOCTORSTableAdapter AutomaticMedicalSystem.DataSet2TableAdapters.TableAdapterManager._dOCTORSTableAdapter</definition>
+        <argsstring></argsstring>
+        <name>_dOCTORSTableAdapter</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="8944" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="8944" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_table_adapter_manager_12cc6a76000a8b8eb70d0e8454abb05be" prot="private" static="no" mutable="no">
+        <type><ref refid="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_f_a_m_i_l_y___d_o_c_t_o_r_table_adapter" kindref="compound">FAMILY_DOCTORTableAdapter</ref></type>
+        <definition>FAMILY_DOCTORTableAdapter AutomaticMedicalSystem.DataSet2TableAdapters.TableAdapterManager._fAMILY_DOCTORTableAdapter</definition>
+        <argsstring></argsstring>
+        <name>_fAMILY_DOCTORTableAdapter</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="8946" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="8946" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_table_adapter_manager_153b96a92a9e8386dcfbd29c85dcb3fa5" prot="private" static="no" mutable="no">
+        <type><ref refid="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_p_a_t_i_e_n_t_s_table_adapter" kindref="compound">PATIENTSTableAdapter</ref></type>
+        <definition>PATIENTSTableAdapter AutomaticMedicalSystem.DataSet2TableAdapters.TableAdapterManager._pATIENTSTableAdapter</definition>
+        <argsstring></argsstring>
+        <name>_pATIENTSTableAdapter</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="8948" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="8948" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_table_adapter_manager_1397a6a9197683b8dbdfd5c65ba80159e" prot="private" static="no" mutable="no">
+        <type>bool</type>
+        <definition>bool AutomaticMedicalSystem.DataSet2TableAdapters.TableAdapterManager._backupDataSetBeforeUpdate</definition>
+        <argsstring></argsstring>
+        <name>_backupDataSetBeforeUpdate</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="8950" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="8950" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_table_adapter_manager_103b6434b5bef71bc1a8c16404e648e3b" prot="private" static="no" mutable="no">
+        <type>global::System.Data.IDbConnection</type>
+        <definition>global::System.Data.IDbConnection AutomaticMedicalSystem.DataSet2TableAdapters.TableAdapterManager._connection</definition>
+        <argsstring></argsstring>
+        <name>_connection</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="8952" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="8952" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_table_adapter_manager_1399f809184757d0c01c55229ea596c05" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="yes">
+        <type><ref refid="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_table_adapter_manager_1eabb5079ac98cfe38f5c0f2cab46d8fa" kindref="member">UpdateOrderOption</ref></type>
+        <definition>UpdateOrderOption AutomaticMedicalSystem.DataSet2TableAdapters.TableAdapterManager.UpdateOrder</definition>
+        <argsstring></argsstring>
+        <name>UpdateOrder</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="8963" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="8956" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_table_adapter_manager_14dd0eac15cd4f22948092ac8a850b8ae" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="yes">
+        <type><ref refid="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_a_r_c___f_a_m_i_l_y___d_o_c_t_o_r___r_e_c_o_r_d_s_table_adapter" kindref="compound">ARC_FAMILY_DOCTOR_RECORDSTableAdapter</ref></type>
+        <definition>ARC_FAMILY_DOCTOR_RECORDSTableAdapter AutomaticMedicalSystem.DataSet2TableAdapters.TableAdapterManager.ARC_FAMILY_DOCTOR_RECORDSTableAdapter</definition>
+        <argsstring></argsstring>
+        <name>ARC_FAMILY_DOCTOR_RECORDSTableAdapter</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="8977" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="8970" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_table_adapter_manager_1a09524fa81af227cb1eb20570cdb191a" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="yes">
+        <type><ref refid="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_a_r_c___s_p___d_o_c_t_o_r___r_e_c_o_r_d_s_table_adapter" kindref="compound">ARC_SP_DOCTOR_RECORDSTableAdapter</ref></type>
+        <definition>ARC_SP_DOCTOR_RECORDSTableAdapter AutomaticMedicalSystem.DataSet2TableAdapters.TableAdapterManager.ARC_SP_DOCTOR_RECORDSTableAdapter</definition>
+        <argsstring></argsstring>
+        <name>ARC_SP_DOCTOR_RECORDSTableAdapter</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="8991" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="8984" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_table_adapter_manager_1756901b48337ff1e325be39fdc628713" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="yes">
+        <type><ref refid="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_d_e_p_a_r_t_m_e_n_t_table_adapter" kindref="compound">DEPARTMENTTableAdapter</ref></type>
+        <definition>DEPARTMENTTableAdapter AutomaticMedicalSystem.DataSet2TableAdapters.TableAdapterManager.DEPARTMENTTableAdapter</definition>
+        <argsstring></argsstring>
+        <name>DEPARTMENTTableAdapter</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="9005" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="8998" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_table_adapter_manager_1ca991eda791df4889694e4e53d5d12d2" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="yes">
+        <type><ref refid="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_d_i_a_g_n_o_s_e___f_m___d_o_c_t_o_r_table_adapter" kindref="compound">DIAGNOSE_FM_DOCTORTableAdapter</ref></type>
+        <definition>DIAGNOSE_FM_DOCTORTableAdapter AutomaticMedicalSystem.DataSet2TableAdapters.TableAdapterManager.DIAGNOSE_FM_DOCTORTableAdapter</definition>
+        <argsstring></argsstring>
+        <name>DIAGNOSE_FM_DOCTORTableAdapter</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="9019" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="9012" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_table_adapter_manager_1c8946d034eac196ae775e94a3f82b6f9" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="yes">
+        <type><ref refid="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_d_i_a_g_n_o_s_e___s_p___d_o_c_t_o_r_table_adapter" kindref="compound">DIAGNOSE_SP_DOCTORTableAdapter</ref></type>
+        <definition>DIAGNOSE_SP_DOCTORTableAdapter AutomaticMedicalSystem.DataSet2TableAdapters.TableAdapterManager.DIAGNOSE_SP_DOCTORTableAdapter</definition>
+        <argsstring></argsstring>
+        <name>DIAGNOSE_SP_DOCTORTableAdapter</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="9033" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="9026" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_table_adapter_manager_1337510e08984f55384da23bf3d17bd4c" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="yes">
+        <type><ref refid="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_d_o_c_t_o_r_s_table_adapter" kindref="compound">DOCTORSTableAdapter</ref></type>
+        <definition>DOCTORSTableAdapter AutomaticMedicalSystem.DataSet2TableAdapters.TableAdapterManager.DOCTORSTableAdapter</definition>
+        <argsstring></argsstring>
+        <name>DOCTORSTableAdapter</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="9047" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="9040" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_table_adapter_manager_12ca360335a120ea36338c85b3e24a49e" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="yes">
+        <type><ref refid="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_f_a_m_i_l_y___d_o_c_t_o_r_table_adapter" kindref="compound">FAMILY_DOCTORTableAdapter</ref></type>
+        <definition>FAMILY_DOCTORTableAdapter AutomaticMedicalSystem.DataSet2TableAdapters.TableAdapterManager.FAMILY_DOCTORTableAdapter</definition>
+        <argsstring></argsstring>
+        <name>FAMILY_DOCTORTableAdapter</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="9061" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="9054" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_table_adapter_manager_1f8522a21b837fbbb105d2c9a0f0e9fde" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="yes">
+        <type><ref refid="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_p_a_t_i_e_n_t_s_table_adapter" kindref="compound">PATIENTSTableAdapter</ref></type>
+        <definition>PATIENTSTableAdapter AutomaticMedicalSystem.DataSet2TableAdapters.TableAdapterManager.PATIENTSTableAdapter</definition>
+        <argsstring></argsstring>
+        <name>PATIENTSTableAdapter</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="9075" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="9068" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_table_adapter_manager_1a8aaf53506e54e884729dd2746afc84c" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="yes">
+        <type>bool</type>
+        <definition>bool AutomaticMedicalSystem.DataSet2TableAdapters.TableAdapterManager.BackupDataSetBeforeUpdate</definition>
+        <argsstring></argsstring>
+        <name>BackupDataSetBeforeUpdate</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="9086" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="9079" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_table_adapter_manager_10d02df7f67ee23fe360217a446f74623" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="yes">
+        <type>global::System.Data.IDbConnection</type>
+        <definition>global::System.Data.IDbConnection AutomaticMedicalSystem.DataSet2TableAdapters.TableAdapterManager.Connection</definition>
+        <argsstring></argsstring>
+        <name>Connection</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="9133" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="9091" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_table_adapter_manager_199a0827c37a8b37297271523e0710c74" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="no">
+        <type>int</type>
+        <definition>int AutomaticMedicalSystem.DataSet2TableAdapters.TableAdapterManager.TableAdapterInstanceCount</definition>
+        <argsstring></argsstring>
+        <name>TableAdapterInstanceCount</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="9167" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="9138" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_table_adapter_manager_1177cb4233037014720c32a3485a0f7c1" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>int AutomaticMedicalSystem.DataSet2TableAdapters.TableAdapterManager.UpdateUpdatedRows</definition>
+        <argsstring>(DataSet2 dataSet, global::System.Collections.Generic.List&lt; global::System.Data.DataRow &gt; allChangedRows, global::System.Collections.Generic.List&lt; global::System.Data.DataRow &gt; allAddedRows)</argsstring>
+        <name>UpdateUpdatedRows</name>
+        <param>
+          <type><ref refid="class_automatic_medical_system_1_1_data_set2" kindref="compound">DataSet2</ref></type>
+          <declname>dataSet</declname>
+        </param>
+        <param>
+          <type>global::System.Collections.Generic.List&lt; global::System.Data.DataRow &gt;</type>
+          <declname>allChangedRows</declname>
+        </param>
+        <param>
+          <type>global::System.Collections.Generic.List&lt; global::System.Data.DataRow &gt;</type>
+          <declname>allAddedRows</declname>
+        </param>
+        <briefdescription>
+<para>Update rows in top-down order. /summary&gt;. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="9174" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="9174" bodyend="9249"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_table_adapter_manager_164034eaf23483f0d422f1aa08e44b1d3" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>int AutomaticMedicalSystem.DataSet2TableAdapters.TableAdapterManager.UpdateInsertedRows</definition>
+        <argsstring>(DataSet2 dataSet, global::System.Collections.Generic.List&lt; global::System.Data.DataRow &gt; allAddedRows)</argsstring>
+        <name>UpdateInsertedRows</name>
+        <param>
+          <type><ref refid="class_automatic_medical_system_1_1_data_set2" kindref="compound">DataSet2</ref></type>
+          <declname>dataSet</declname>
+        </param>
+        <param>
+          <type>global::System.Collections.Generic.List&lt; global::System.Data.DataRow &gt;</type>
+          <declname>allAddedRows</declname>
+        </param>
+        <briefdescription>
+<para>Insert rows in top-down order. /summary&gt;. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="9256" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="9256" bodyend="9323"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_table_adapter_manager_1274374f7345dfc269a8a78ea3e397e96" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>int AutomaticMedicalSystem.DataSet2TableAdapters.TableAdapterManager.UpdateDeletedRows</definition>
+        <argsstring>(DataSet2 dataSet, global::System.Collections.Generic.List&lt; global::System.Data.DataRow &gt; allChangedRows)</argsstring>
+        <name>UpdateDeletedRows</name>
+        <param>
+          <type><ref refid="class_automatic_medical_system_1_1_data_set2" kindref="compound">DataSet2</ref></type>
+          <declname>dataSet</declname>
+        </param>
+        <param>
+          <type>global::System.Collections.Generic.List&lt; global::System.Data.DataRow &gt;</type>
+          <declname>allChangedRows</declname>
+        </param>
+        <briefdescription>
+<para>Delete rows in bottom-up order. /summary&gt;. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="9330" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="9330" bodyend="9397"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_table_adapter_manager_11e852d72cac34ecdedc7596ef6816e10" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>global::System.Data.DataRow[]</type>
+        <definition>global::System.Data.DataRow [] AutomaticMedicalSystem.DataSet2TableAdapters.TableAdapterManager.GetRealUpdatedRows</definition>
+        <argsstring>(global::System.Data.DataRow[] updatedRows, global::System.Collections.Generic.List&lt; global::System.Data.DataRow &gt; allAddedRows)</argsstring>
+        <name>GetRealUpdatedRows</name>
+        <param>
+          <type>global::System.Data.DataRow[]</type>
+          <declname>updatedRows</declname>
+        </param>
+        <param>
+          <type>global::System.Collections.Generic.List&lt; global::System.Data.DataRow &gt;</type>
+          <declname>allAddedRows</declname>
+        </param>
+        <briefdescription>
+<para>Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first /summary&gt;. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="9404" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="9404" bodyend="9421"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_table_adapter_manager_16d93bde522125258ba03e06e564f7f66" prot="public" static="no" const="no" explicit="no" inline="yes" virt="virtual">
+        <type>int</type>
+        <definition>virtual int AutomaticMedicalSystem.DataSet2TableAdapters.TableAdapterManager.UpdateAll</definition>
+        <argsstring>(DataSet2 dataSet)</argsstring>
+        <name>UpdateAll</name>
+        <param>
+          <type><ref refid="class_automatic_medical_system_1_1_data_set2" kindref="compound">DataSet2</ref></type>
+          <declname>dataSet</declname>
+        </param>
+        <briefdescription>
+<para>Update all changes to the dataset. /summary&gt;. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="9428" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="9428" bodyend="9679"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="protected-func">
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_table_adapter_manager_11bc3dbaba7c29738348cd2b309187aa5" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="virtual">
+        <type>void</type>
+        <definition>virtual void AutomaticMedicalSystem.DataSet2TableAdapters.TableAdapterManager.SortSelfReferenceRows</definition>
+        <argsstring>(global::System.Data.DataRow[] rows, global::System.Data.DataRelation relation, bool childFirst)</argsstring>
+        <name>SortSelfReferenceRows</name>
+        <param>
+          <type>global::System.Data.DataRow[]</type>
+          <declname>rows</declname>
+        </param>
+        <param>
+          <type>global::System.Data.DataRelation</type>
+          <declname>relation</declname>
+        </param>
+        <param>
+          <type>bool</type>
+          <declname>childFirst</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="9683" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="9683" bodyend="9685"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_table_adapter_manager_1a5af2da1ec91b5fa182edaa96e0f0a73" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="virtual">
+        <type>bool</type>
+        <definition>virtual bool AutomaticMedicalSystem.DataSet2TableAdapters.TableAdapterManager.MatchTableAdapterConnection</definition>
+        <argsstring>(global::System.Data.IDbConnection inputConnection)</argsstring>
+        <name>MatchTableAdapterConnection</name>
+        <param>
+          <type>global::System.Data.IDbConnection</type>
+          <declname>inputConnection</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="9689" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="9689" bodyend="9701"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para><ref refid="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_table_adapter_manager" kindref="compound">TableAdapterManager</ref> is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios /summary&gt;. </para>    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <collaborationgraph>
+      <node id="413">
+        <label>AutomaticMedicalSystem.DataSet2TableAdapters.TableAdapterManager</label>
+        <link refid="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_table_adapter_manager"/>
+        <childnode refid="414" relation="usage">
+          <edgelabel>_aRC_FAMILY_DOCTOR_RECORDSTableAdapter</edgelabel>
+        </childnode>
+        <childnode refid="416" relation="usage">
+          <edgelabel>_dOCTORSTableAdapter</edgelabel>
+        </childnode>
+        <childnode refid="417" relation="usage">
+          <edgelabel>_fAMILY_DOCTORTableAdapter</edgelabel>
+        </childnode>
+        <childnode refid="418" relation="usage">
+          <edgelabel>_dIAGNOSE_FM_DOCTORTableAdapter</edgelabel>
+        </childnode>
+        <childnode refid="419" relation="usage">
+          <edgelabel>_dEPARTMENTTableAdapter</edgelabel>
+        </childnode>
+        <childnode refid="415" relation="usage">
+          <edgelabel>_connection</edgelabel>
+        </childnode>
+        <childnode refid="420" relation="usage">
+          <edgelabel>_pATIENTSTableAdapter</edgelabel>
+        </childnode>
+        <childnode refid="421" relation="usage">
+          <edgelabel>_dIAGNOSE_SP_DOCTORTableAdapter</edgelabel>
+        </childnode>
+        <childnode refid="422" relation="usage">
+          <edgelabel>_aRC_SP_DOCTOR_RECORDSTableAdapter</edgelabel>
+        </childnode>
+      </node>
+      <node id="421">
+        <label>AutomaticMedicalSystem.DataSet2TableAdapters.DIAGNOSE_SP_DOCTORTableAdapter</label>
+        <link refid="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_d_i_a_g_n_o_s_e___s_p___d_o_c_t_o_r_table_adapter"/>
+        <childnode refid="415" relation="usage">
+          <edgelabel>_transaction</edgelabel>
+          <edgelabel>_adapter</edgelabel>
+          <edgelabel>_commandCollection</edgelabel>
+          <edgelabel>_connection</edgelabel>
+        </childnode>
+      </node>
+      <node id="416">
+        <label>AutomaticMedicalSystem.DataSet2TableAdapters.DOCTORSTableAdapter</label>
+        <link refid="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_d_o_c_t_o_r_s_table_adapter"/>
+        <childnode refid="415" relation="usage">
+          <edgelabel>_transaction</edgelabel>
+          <edgelabel>_adapter</edgelabel>
+          <edgelabel>_commandCollection</edgelabel>
+          <edgelabel>_connection</edgelabel>
+        </childnode>
+      </node>
+      <node id="417">
+        <label>AutomaticMedicalSystem.DataSet2TableAdapters.FAMILY_DOCTORTableAdapter</label>
+        <link refid="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_f_a_m_i_l_y___d_o_c_t_o_r_table_adapter"/>
+        <childnode refid="415" relation="usage">
+          <edgelabel>_transaction</edgelabel>
+          <edgelabel>_adapter</edgelabel>
+          <edgelabel>_commandCollection</edgelabel>
+          <edgelabel>_connection</edgelabel>
+        </childnode>
+      </node>
+      <node id="415">
+        <label>System.Data</label>
+      </node>
+      <node id="419">
+        <label>AutomaticMedicalSystem.DataSet2TableAdapters.DEPARTMENTTableAdapter</label>
+        <link refid="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_d_e_p_a_r_t_m_e_n_t_table_adapter"/>
+        <childnode refid="415" relation="usage">
+          <edgelabel>_transaction</edgelabel>
+          <edgelabel>_adapter</edgelabel>
+          <edgelabel>_commandCollection</edgelabel>
+          <edgelabel>_connection</edgelabel>
+        </childnode>
+      </node>
+      <node id="420">
+        <label>AutomaticMedicalSystem.DataSet2TableAdapters.PATIENTSTableAdapter</label>
+        <link refid="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_p_a_t_i_e_n_t_s_table_adapter"/>
+        <childnode refid="415" relation="usage">
+          <edgelabel>_transaction</edgelabel>
+          <edgelabel>_adapter</edgelabel>
+          <edgelabel>_commandCollection</edgelabel>
+          <edgelabel>_connection</edgelabel>
+        </childnode>
+      </node>
+      <node id="414">
+        <label>AutomaticMedicalSystem.DataSet2TableAdapters.ARC_FAMILY_DOCTOR_RECORDSTableAdapter</label>
+        <link refid="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_a_r_c___f_a_m_i_l_y___d_o_c_t_o_r___r_e_c_o_r_d_s_table_adapter"/>
+        <childnode refid="415" relation="usage">
+          <edgelabel>_transaction</edgelabel>
+          <edgelabel>_adapter</edgelabel>
+          <edgelabel>_commandCollection</edgelabel>
+          <edgelabel>_connection</edgelabel>
+        </childnode>
+      </node>
+      <node id="418">
+        <label>AutomaticMedicalSystem.DataSet2TableAdapters.DIAGNOSE_FM_DOCTORTableAdapter</label>
+        <link refid="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_d_i_a_g_n_o_s_e___f_m___d_o_c_t_o_r_table_adapter"/>
+        <childnode refid="415" relation="usage">
+          <edgelabel>_transaction</edgelabel>
+          <edgelabel>_adapter</edgelabel>
+          <edgelabel>_commandCollection</edgelabel>
+          <edgelabel>_connection</edgelabel>
+        </childnode>
+      </node>
+      <node id="422">
+        <label>AutomaticMedicalSystem.DataSet2TableAdapters.ARC_SP_DOCTOR_RECORDSTableAdapter</label>
+        <link refid="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_a_r_c___s_p___d_o_c_t_o_r___r_e_c_o_r_d_s_table_adapter"/>
+        <childnode refid="415" relation="usage">
+          <edgelabel>_transaction</edgelabel>
+          <edgelabel>_adapter</edgelabel>
+          <edgelabel>_commandCollection</edgelabel>
+          <edgelabel>_connection</edgelabel>
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="8930" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="8930" bodyend="9809"/>
+    <listofallmembers>
+      <member refid="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_table_adapter_manager_1d88a0ae0d3fafa79fc35881df5554499" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2TableAdapters::TableAdapterManager</scope><name>_aRC_FAMILY_DOCTOR_RECORDSTableAdapter</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_table_adapter_manager_1a166c38fae97f5975d20636823e80380" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2TableAdapters::TableAdapterManager</scope><name>_aRC_SP_DOCTOR_RECORDSTableAdapter</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_table_adapter_manager_1397a6a9197683b8dbdfd5c65ba80159e" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2TableAdapters::TableAdapterManager</scope><name>_backupDataSetBeforeUpdate</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_table_adapter_manager_103b6434b5bef71bc1a8c16404e648e3b" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2TableAdapters::TableAdapterManager</scope><name>_connection</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_table_adapter_manager_10657fbdc479b86231d8ebcdb6ef3f84a" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2TableAdapters::TableAdapterManager</scope><name>_dEPARTMENTTableAdapter</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_table_adapter_manager_199d53bbfdc8ae16306312a155099e149" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2TableAdapters::TableAdapterManager</scope><name>_dIAGNOSE_FM_DOCTORTableAdapter</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_table_adapter_manager_1a778e99b558d209053d27ce212fe97ab" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2TableAdapters::TableAdapterManager</scope><name>_dIAGNOSE_SP_DOCTORTableAdapter</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_table_adapter_manager_1d6bdbc63b463dc34131476e8256d2254" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2TableAdapters::TableAdapterManager</scope><name>_dOCTORSTableAdapter</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_table_adapter_manager_12cc6a76000a8b8eb70d0e8454abb05be" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2TableAdapters::TableAdapterManager</scope><name>_fAMILY_DOCTORTableAdapter</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_table_adapter_manager_153b96a92a9e8386dcfbd29c85dcb3fa5" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2TableAdapters::TableAdapterManager</scope><name>_pATIENTSTableAdapter</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_table_adapter_manager_1a4f577cc31d38665d584f6b6a0d0c1f6" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2TableAdapters::TableAdapterManager</scope><name>_updateOrder</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_table_adapter_manager_14dd0eac15cd4f22948092ac8a850b8ae" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2TableAdapters::TableAdapterManager</scope><name>ARC_FAMILY_DOCTOR_RECORDSTableAdapter</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_table_adapter_manager_1a09524fa81af227cb1eb20570cdb191a" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2TableAdapters::TableAdapterManager</scope><name>ARC_SP_DOCTOR_RECORDSTableAdapter</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_table_adapter_manager_1a8aaf53506e54e884729dd2746afc84c" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2TableAdapters::TableAdapterManager</scope><name>BackupDataSetBeforeUpdate</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_table_adapter_manager_10d02df7f67ee23fe360217a446f74623" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2TableAdapters::TableAdapterManager</scope><name>Connection</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_table_adapter_manager_1756901b48337ff1e325be39fdc628713" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2TableAdapters::TableAdapterManager</scope><name>DEPARTMENTTableAdapter</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_table_adapter_manager_1ca991eda791df4889694e4e53d5d12d2" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2TableAdapters::TableAdapterManager</scope><name>DIAGNOSE_FM_DOCTORTableAdapter</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_table_adapter_manager_1c8946d034eac196ae775e94a3f82b6f9" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2TableAdapters::TableAdapterManager</scope><name>DIAGNOSE_SP_DOCTORTableAdapter</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_table_adapter_manager_1337510e08984f55384da23bf3d17bd4c" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2TableAdapters::TableAdapterManager</scope><name>DOCTORSTableAdapter</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_table_adapter_manager_12ca360335a120ea36338c85b3e24a49e" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2TableAdapters::TableAdapterManager</scope><name>FAMILY_DOCTORTableAdapter</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_table_adapter_manager_11e852d72cac34ecdedc7596ef6816e10" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2TableAdapters::TableAdapterManager</scope><name>GetRealUpdatedRows</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_table_adapter_manager_1a5af2da1ec91b5fa182edaa96e0f0a73" prot="protected" virt="virtual"><scope>AutomaticMedicalSystem::DataSet2TableAdapters::TableAdapterManager</scope><name>MatchTableAdapterConnection</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_table_adapter_manager_1f8522a21b837fbbb105d2c9a0f0e9fde" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2TableAdapters::TableAdapterManager</scope><name>PATIENTSTableAdapter</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_table_adapter_manager_11bc3dbaba7c29738348cd2b309187aa5" prot="protected" virt="virtual"><scope>AutomaticMedicalSystem::DataSet2TableAdapters::TableAdapterManager</scope><name>SortSelfReferenceRows</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_table_adapter_manager_199a0827c37a8b37297271523e0710c74" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2TableAdapters::TableAdapterManager</scope><name>TableAdapterInstanceCount</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_table_adapter_manager_16d93bde522125258ba03e06e564f7f66" prot="public" virt="virtual"><scope>AutomaticMedicalSystem::DataSet2TableAdapters::TableAdapterManager</scope><name>UpdateAll</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_table_adapter_manager_1274374f7345dfc269a8a78ea3e397e96" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2TableAdapters::TableAdapterManager</scope><name>UpdateDeletedRows</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_table_adapter_manager_164034eaf23483f0d422f1aa08e44b1d3" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2TableAdapters::TableAdapterManager</scope><name>UpdateInsertedRows</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_table_adapter_manager_1399f809184757d0c01c55229ea596c05" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2TableAdapters::TableAdapterManager</scope><name>UpdateOrder</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_table_adapter_manager_1eabb5079ac98cfe38f5c0f2cab46d8fa" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2TableAdapters::TableAdapterManager</scope><name>UpdateOrderOption</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_table_adapter_manager_1177cb4233037014720c32a3485a0f7c1" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2TableAdapters::TableAdapterManager</scope><name>UpdateUpdatedRows</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

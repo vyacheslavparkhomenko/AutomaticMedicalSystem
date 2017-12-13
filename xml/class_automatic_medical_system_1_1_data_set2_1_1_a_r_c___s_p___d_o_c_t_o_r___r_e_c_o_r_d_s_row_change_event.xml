@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.5.8">
+  <compounddef id="class_automatic_medical_system_1_1_data_set2_1_1_a_r_c___s_p___d_o_c_t_o_r___r_e_c_o_r_d_s_row_change_event" kind="class" prot="public">
+    <compoundname>AutomaticMedicalSystem::DataSet2::ARC_SP_DOCTOR_RECORDSRowChangeEvent</compoundname>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_automatic_medical_system_1_1_data_set2_1_1_a_r_c___s_p___d_o_c_t_o_r___r_e_c_o_r_d_s_row_change_event_16b9b42c5ce0b9eff52c9637360a381c4" prot="private" static="no" mutable="no">
+        <type><ref refid="class_automatic_medical_system_1_1_data_set2_1_1_a_r_c___s_p___d_o_c_t_o_r___r_e_c_o_r_d_s_row" kindref="compound">ARC_SP_DOCTOR_RECORDSRow</ref></type>
+        <definition>ARC_SP_DOCTOR_RECORDSRow AutomaticMedicalSystem.DataSet2.DataSet2.ARC_SP_DOCTOR_RECORDSRowChangeEvent.eventRow</definition>
+        <argsstring></argsstring>
+        <name>eventRow</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="4946" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="4946" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_automatic_medical_system_1_1_data_set2_1_1_a_r_c___s_p___d_o_c_t_o_r___r_e_c_o_r_d_s_row_change_event_1e91294aa1e796db6c8c6ce46750892de" prot="private" static="no" mutable="no">
+        <type>global::System.Data.DataRowAction</type>
+        <definition>global::System.Data.DataRowAction AutomaticMedicalSystem.DataSet2.DataSet2.ARC_SP_DOCTOR_RECORDSRowChangeEvent.eventAction</definition>
+        <argsstring></argsstring>
+        <name>eventAction</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="4948" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="4948" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="class_automatic_medical_system_1_1_data_set2_1_1_a_r_c___s_p___d_o_c_t_o_r___r_e_c_o_r_d_s_row_change_event_1732c0d45228f2f216bab86c3c287503b" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="no">
+        <type><ref refid="class_automatic_medical_system_1_1_data_set2_1_1_a_r_c___s_p___d_o_c_t_o_r___r_e_c_o_r_d_s_row" kindref="compound">ARC_SP_DOCTOR_RECORDSRow</ref></type>
+        <definition>ARC_SP_DOCTOR_RECORDSRow AutomaticMedicalSystem.DataSet2.DataSet2.ARC_SP_DOCTOR_RECORDSRowChangeEvent.Row</definition>
+        <argsstring></argsstring>
+        <name>Row</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="4963" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="4959" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_automatic_medical_system_1_1_data_set2_1_1_a_r_c___s_p___d_o_c_t_o_r___r_e_c_o_r_d_s_row_change_event_1684579df2af18185f78ffcb101ddbb15" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="no">
+        <type>global::System.Data.DataRowAction</type>
+        <definition>global::System.Data.DataRowAction AutomaticMedicalSystem.DataSet2.DataSet2.ARC_SP_DOCTOR_RECORDSRowChangeEvent.Action</definition>
+        <argsstring></argsstring>
+        <name>Action</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="4971" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="4967" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_data_set2_1_1_a_r_c___s_p___d_o_c_t_o_r___r_e_c_o_r_d_s_row_change_event_1334bcfa07f02558fe471575a9f104bdb" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>AutomaticMedicalSystem.DataSet2.DataSet2.ARC_SP_DOCTOR_RECORDSRowChangeEvent.ARC_SP_DOCTOR_RECORDSRowChangeEvent</definition>
+        <argsstring>(ARC_SP_DOCTOR_RECORDSRow row, global::System.Data.DataRowAction action)</argsstring>
+        <name>ARC_SP_DOCTOR_RECORDSRowChangeEvent</name>
+        <param>
+          <type><ref refid="class_automatic_medical_system_1_1_data_set2_1_1_a_r_c___s_p___d_o_c_t_o_r___r_e_c_o_r_d_s_row" kindref="compound">ARC_SP_DOCTOR_RECORDSRow</ref></type>
+          <declname>row</declname>
+        </param>
+        <param>
+          <type>global::System.Data.DataRowAction</type>
+          <declname>action</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="4952" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="4952" bodyend="4955"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Row event argument class /summary&gt;. </para>    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <collaborationgraph>
+      <node id="262">
+        <label>System.Data</label>
+      </node>
+      <node id="260">
+        <label>AutomaticMedicalSystem.DataSet2.DataSet2.ARC_SP_DOCTOR_RECORDSRow</label>
+        <link refid="class_automatic_medical_system_1_1_data_set2_1_1_a_r_c___s_p___d_o_c_t_o_r___r_e_c_o_r_d_s_row"/>
+        <childnode refid="261" relation="usage">
+          <edgelabel>tableARC_SP_DOCTOR_RECORDS</edgelabel>
+        </childnode>
+      </node>
+      <node id="259">
+        <label>AutomaticMedicalSystem.DataSet2.DataSet2.ARC_SP_DOCTOR_RECORDSRowChangeEvent</label>
+        <link refid="class_automatic_medical_system_1_1_data_set2_1_1_a_r_c___s_p___d_o_c_t_o_r___r_e_c_o_r_d_s_row_change_event"/>
+        <childnode refid="260" relation="usage">
+          <edgelabel>eventRow</edgelabel>
+        </childnode>
+        <childnode refid="262" relation="usage">
+          <edgelabel>eventAction</edgelabel>
+        </childnode>
+      </node>
+      <node id="261">
+        <label>AutomaticMedicalSystem.DataSet2.DataSet2.ARC_SP_DOCTOR_RECORDSDataTable</label>
+        <link refid="class_automatic_medical_system_1_1_data_set2_1_1_a_r_c___s_p___d_o_c_t_o_r___r_e_c_o_r_d_s_data_table"/>
+        <childnode refid="262" relation="usage">
+          <edgelabel>columnDOCTORSID</edgelabel>
+          <edgelabel>columnARC_FAMILY_DOCTOR_RECORDSID</edgelabel>
+          <edgelabel>columnARCDATE</edgelabel>
+          <edgelabel>columnID</edgelabel>
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="4944" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="4944" bodyend="4972"/>
+    <listofallmembers>
+      <member refid="class_automatic_medical_system_1_1_data_set2_1_1_a_r_c___s_p___d_o_c_t_o_r___r_e_c_o_r_d_s_row_change_event_1684579df2af18185f78ffcb101ddbb15" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2::ARC_SP_DOCTOR_RECORDSRowChangeEvent</scope><name>Action</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_1_1_a_r_c___s_p___d_o_c_t_o_r___r_e_c_o_r_d_s_row_change_event_1334bcfa07f02558fe471575a9f104bdb" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2::ARC_SP_DOCTOR_RECORDSRowChangeEvent</scope><name>ARC_SP_DOCTOR_RECORDSRowChangeEvent</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_1_1_a_r_c___s_p___d_o_c_t_o_r___r_e_c_o_r_d_s_row_change_event_1e91294aa1e796db6c8c6ce46750892de" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2::ARC_SP_DOCTOR_RECORDSRowChangeEvent</scope><name>eventAction</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_1_1_a_r_c___s_p___d_o_c_t_o_r___r_e_c_o_r_d_s_row_change_event_16b9b42c5ce0b9eff52c9637360a381c4" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2::ARC_SP_DOCTOR_RECORDSRowChangeEvent</scope><name>eventRow</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_1_1_a_r_c___s_p___d_o_c_t_o_r___r_e_c_o_r_d_s_row_change_event_1732c0d45228f2f216bab86c3c287503b" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2::ARC_SP_DOCTOR_RECORDSRowChangeEvent</scope><name>Row</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.5.8">
+  <compounddef id="class_automatic_medical_system_1_1_family_doctors" kind="class" prot="public">
+    <compoundname>AutomaticMedicalSystem::FamilyDoctors</compoundname>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_family_doctors_18633e1145bce22a724c1280f8eb3e2cf" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>AutomaticMedicalSystem.FamilyDoctors.FamilyDoctors</definition>
+        <argsstring>()</argsstring>
+        <name>FamilyDoctors</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/FamilyDoctors.cs" line="16" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/FamilyDoctors.cs" bodystart="15" bodyend="18"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_family_doctors_1086598b7c4232d1c9d2c11978560175a" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void AutomaticMedicalSystem.FamilyDoctors.fAMILY_DOCTORBindingNavigatorSaveItem_Click</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>fAMILY_DOCTORBindingNavigatorSaveItem_Click</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/FamilyDoctors.cs" line="21" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/FamilyDoctors.cs" bodystart="20" bodyend="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_family_doctors_11892d983490b602f2a215debd814744e" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void AutomaticMedicalSystem.FamilyDoctors.FamilyDoctors_Load</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>FamilyDoctors_Load</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/FamilyDoctors.cs" line="29" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/FamilyDoctors.cs" bodystart="28" bodyend="36"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_family_doctors_1c3cde0cfd200105922dd9a4b91f71c1d" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void AutomaticMedicalSystem.FamilyDoctors.fAMILY_DOCTORBindingNavigatorSaveItem_Click_1</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>fAMILY_DOCTORBindingNavigatorSaveItem_Click_1</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/FamilyDoctors.cs" line="39" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/FamilyDoctors.cs" bodystart="38" bodyend="44"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/FamilyDoctors.cs" line="14" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/FamilyDoctors.cs" bodystart="13" bodyend="45"/>
+    <listofallmembers>
+      <member refid="class_automatic_medical_system_1_1_family_doctors_1086598b7c4232d1c9d2c11978560175a" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::FamilyDoctors</scope><name>fAMILY_DOCTORBindingNavigatorSaveItem_Click</name></member>
+      <member refid="class_automatic_medical_system_1_1_family_doctors_1c3cde0cfd200105922dd9a4b91f71c1d" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::FamilyDoctors</scope><name>fAMILY_DOCTORBindingNavigatorSaveItem_Click_1</name></member>
+      <member refid="class_automatic_medical_system_1_1_family_doctors_18633e1145bce22a724c1280f8eb3e2cf" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::FamilyDoctors</scope><name>FamilyDoctors</name></member>
+      <member refid="class_automatic_medical_system_1_1_family_doctors_11892d983490b602f2a215debd814744e" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::FamilyDoctors</scope><name>FamilyDoctors_Load</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

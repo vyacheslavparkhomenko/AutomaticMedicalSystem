@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.5.8">
+  <compounddef id="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_table_adapter_manager_1_1_self_reference_comparer" kind="class" prot="private">
+    <compoundname>AutomaticMedicalSystem::DataSet2TableAdapters::TableAdapterManager::SelfReferenceComparer</compoundname>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_table_adapter_manager_1_1_self_reference_comparer_1f9859ecd6c154ff127299afcbf00fbcb" prot="private" static="no" mutable="no">
+        <type>global::System.Data.DataRelation</type>
+        <definition>global::System.Data.DataRelation AutomaticMedicalSystem.DataSet2TableAdapters.TableAdapterManager.TableAdapterManager.SelfReferenceComparer._relation</definition>
+        <argsstring></argsstring>
+        <name>_relation</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="9720" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="9720" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_table_adapter_manager_1_1_self_reference_comparer_15ea73dab76697f5362e23ebb7ce44608" prot="private" static="no" mutable="no">
+        <type>int</type>
+        <definition>int AutomaticMedicalSystem.DataSet2TableAdapters.TableAdapterManager.TableAdapterManager.SelfReferenceComparer._childFirst</definition>
+        <argsstring></argsstring>
+        <name>_childFirst</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="9722" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="9722" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_table_adapter_manager_1_1_self_reference_comparer_1c339111bb26a65be16cca6c0bfecdeda" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>internal</type>
+        <definition>internal AutomaticMedicalSystem.DataSet2TableAdapters.TableAdapterManager.TableAdapterManager.SelfReferenceComparer.SelfReferenceComparer</definition>
+        <argsstring>(global::System.Data.DataRelation relation, bool childFirst)</argsstring>
+        <name>SelfReferenceComparer</name>
+        <param>
+          <type>global::System.Data.DataRelation</type>
+          <declname>relation</declname>
+        </param>
+        <param>
+          <type>bool</type>
+          <declname>childFirst</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="9726" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="9726" bodyend="9734"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_table_adapter_manager_1_1_self_reference_comparer_145c6246b56215264f2c84e44848b6567" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>global::System.Data.DataRow</type>
+        <definition>global::System.Data.DataRow AutomaticMedicalSystem.DataSet2TableAdapters.TableAdapterManager.TableAdapterManager.SelfReferenceComparer.GetRoot</definition>
+        <argsstring>(global::System.Data.DataRow row, out int distance)</argsstring>
+        <name>GetRoot</name>
+        <param>
+          <type>global::System.Data.DataRow</type>
+          <declname>row</declname>
+        </param>
+        <param>
+          <type>out int</type>
+          <declname>distance</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="9738" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="9738" bodyend="9773"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_table_adapter_manager_1_1_self_reference_comparer_13cf944d44f95b7ec36a08e4f25d1e776" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>int AutomaticMedicalSystem.DataSet2TableAdapters.TableAdapterManager.TableAdapterManager.SelfReferenceComparer.Compare</definition>
+        <argsstring>(global::System.Data.DataRow row1, global::System.Data.DataRow row2)</argsstring>
+        <name>Compare</name>
+        <param>
+          <type>global::System.Data.DataRow</type>
+          <declname>row1</declname>
+        </param>
+        <param>
+          <type>global::System.Data.DataRow</type>
+          <declname>row2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="9777" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="9777" bodyend="9807"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Used to sort self-referenced table&apos;s rows /summary&gt;. </para>    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <collaborationgraph>
+      <node id="439">
+        <label>System.Data</label>
+      </node>
+      <node id="438">
+        <label>AutomaticMedicalSystem.DataSet2TableAdapters.TableAdapterManager.TableAdapterManager.SelfReferenceComparer</label>
+        <childnode refid="439" relation="usage">
+          <edgelabel>_relation</edgelabel>
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="9718" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="9718" bodyend="9808"/>
+    <listofallmembers>
+      <member refid="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_table_adapter_manager_1_1_self_reference_comparer_15ea73dab76697f5362e23ebb7ce44608" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2TableAdapters::TableAdapterManager::SelfReferenceComparer</scope><name>_childFirst</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_table_adapter_manager_1_1_self_reference_comparer_1f9859ecd6c154ff127299afcbf00fbcb" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2TableAdapters::TableAdapterManager::SelfReferenceComparer</scope><name>_relation</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_table_adapter_manager_1_1_self_reference_comparer_13cf944d44f95b7ec36a08e4f25d1e776" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2TableAdapters::TableAdapterManager::SelfReferenceComparer</scope><name>Compare</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_table_adapter_manager_1_1_self_reference_comparer_145c6246b56215264f2c84e44848b6567" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2TableAdapters::TableAdapterManager::SelfReferenceComparer</scope><name>GetRoot</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_table_adapters_1_1_table_adapter_manager_1_1_self_reference_comparer_1c339111bb26a65be16cca6c0bfecdeda" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2TableAdapters::TableAdapterManager::SelfReferenceComparer</scope><name>SelfReferenceComparer</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

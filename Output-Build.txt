@@ -1,0 +1,4 @@
+﻿1>------ Build started: Project: UnitTestProject_AMs, Configuration: Debug Any CPU ------
+1>D:\projects\Visual Studio 2012\C#\AutomaticMedicalSystem\UnitTestProject_AMs\UnitTest1.cs(24,17,24,18): warning CS0219: The variable 'k' is assigned but its value is never used
+1>  UnitTestProject_AMs -> D:\projects\Visual Studio 2012\C#\AutomaticMedicalSystem\UnitTestProject_AMs\bin\Debug\UnitTestProject_AMs.dll
+========== Build: 1 succeeded, 0 failed, 1 up-to-date, 0 skipped ==========

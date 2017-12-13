@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.5.8">
+  <compounddef id="dir_65f90ee0e9a67505d4dd1ccf987fefb6" kind="dir">
+    <compoundname>D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/</compoundname>
+    <innerfile refid="_arc__family__doctor__records_8cs">Arc_family_doctor_records.cs</innerfile>
+    <innerfile refid="_arc__family__doctor__records_8_designer_8cs">Arc_family_doctor_records.Designer.cs</innerfile>
+    <innerfile refid="_arc__sp__doctor__records_8cs">Arc_sp_doctor_records.cs</innerfile>
+    <innerfile refid="_arc__sp__doctor__records_8_designer_8cs">Arc_sp_doctor_records.Designer.cs</innerfile>
+    <innerfile refid="_data_set1_8cs">DataSet1.cs</innerfile>
+    <innerfile refid="_data_set1_8_designer_8cs">DataSet1.Designer.cs</innerfile>
+    <innerfile refid="_data_set2_8_designer_8cs">DataSet2.Designer.cs</innerfile>
+    <innerfile refid="_departments_8cs">Departments.cs</innerfile>
+    <innerfile refid="_departments_8_designer_8cs">Departments.Designer.cs</innerfile>
+    <innerfile refid="_diagnose__family__doctor_8cs">Diagnose_family_doctor.cs</innerfile>
+    <innerfile refid="_diagnose__family__doctor_8_designer_8cs">Diagnose_family_doctor.Designer.cs</innerfile>
+    <innerfile refid="_diagnose__sp_8cs">Diagnose_sp.cs</innerfile>
+    <innerfile refid="_diagnose__sp_8_designer_8cs">Diagnose_sp.Designer.cs</innerfile>
+    <innerfile refid="_doctors_8cs">Doctors.cs</innerfile>
+    <innerfile refid="_doctors_8_designer_8cs">Doctors.Designer.cs</innerfile>
+    <innerfile refid="_family_doctors_8cs">FamilyDoctors.cs</innerfile>
+    <innerfile refid="_family_doctors_8_designer_8cs">FamilyDoctors.Designer.cs</innerfile>
+    <innerfile refid="_form1_8cs">Form1.cs</innerfile>
+    <innerfile refid="_form1_8_designer_8cs">Form1.Designer.cs</innerfile>
+    <innerfile refid="_forms_family_doctor_8cs">FormsFamilyDoctor.cs</innerfile>
+    <innerfile refid="_forms_family_doctor_8_designer_8cs">FormsFamilyDoctor.Designer.cs</innerfile>
+    <innerfile refid="_patients_8cs">Patients.cs</innerfile>
+    <innerfile refid="_patients_8_designer_8cs">Patients.Designer.cs</innerfile>
+    <innerfile refid="_program_8cs">Program.cs</innerfile>
+    <innerfile refid="_reports_family_doctor_8cs">ReportsFamilyDoctor.cs</innerfile>
+    <innerfile refid="_reports_family_doctor_8_designer_8cs">ReportsFamilyDoctor.Designer.cs</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/"/>
+  </compounddef>
+</doxygen>

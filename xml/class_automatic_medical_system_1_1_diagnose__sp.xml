@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.5.8">
+  <compounddef id="class_automatic_medical_system_1_1_diagnose__sp" kind="class" prot="public">
+    <compoundname>AutomaticMedicalSystem::Diagnose_sp</compoundname>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_diagnose__sp_153ee1f30266f08841dbfbf8127771e7d" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>AutomaticMedicalSystem.Diagnose_sp.Diagnose_sp</definition>
+        <argsstring>()</argsstring>
+        <name>Diagnose_sp</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Diagnose_sp.cs" line="16" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Diagnose_sp.cs" bodystart="15" bodyend="18"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_diagnose__sp_158b74b9deaf8a2dff374e1071a33a296" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void AutomaticMedicalSystem.Diagnose_sp.dIAGNOSE_SP_DOCTORBindingNavigatorSaveItem_Click</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>dIAGNOSE_SP_DOCTORBindingNavigatorSaveItem_Click</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Diagnose_sp.cs" line="21" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Diagnose_sp.cs" bodystart="20" bodyend="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_diagnose__sp_160647b558c9a2c0eb1c12e6bc1c5ac1b" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void AutomaticMedicalSystem.Diagnose_sp.Diagnose_sp_Load</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>Diagnose_sp_Load</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Diagnose_sp.cs" line="29" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Diagnose_sp.cs" bodystart="28" bodyend="35"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Diagnose_sp.cs" line="14" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Diagnose_sp.cs" bodystart="13" bodyend="36"/>
+    <listofallmembers>
+      <member refid="class_automatic_medical_system_1_1_diagnose__sp_153ee1f30266f08841dbfbf8127771e7d" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::Diagnose_sp</scope><name>Diagnose_sp</name></member>
+      <member refid="class_automatic_medical_system_1_1_diagnose__sp_158b74b9deaf8a2dff374e1071a33a296" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::Diagnose_sp</scope><name>dIAGNOSE_SP_DOCTORBindingNavigatorSaveItem_Click</name></member>
+      <member refid="class_automatic_medical_system_1_1_diagnose__sp_160647b558c9a2c0eb1c12e6bc1c5ac1b" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::Diagnose_sp</scope><name>Diagnose_sp_Load</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

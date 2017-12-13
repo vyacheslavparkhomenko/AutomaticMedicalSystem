@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.5.8">
+  <compounddef id="class_automatic_medical_system_1_1_reports_family_doctor" kind="class" prot="public">
+    <compoundname>AutomaticMedicalSystem::ReportsFamilyDoctor</compoundname>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_reports_family_doctor_146dd76cc5b726a8f1d9215d12bff5882" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>AutomaticMedicalSystem.ReportsFamilyDoctor.ReportsFamilyDoctor</definition>
+        <argsstring>()</argsstring>
+        <name>ReportsFamilyDoctor</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/ReportsFamilyDoctor.cs" line="16" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/ReportsFamilyDoctor.cs" bodystart="15" bodyend="18"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_reports_family_doctor_10080d6b31442303481b62d82963ceffb" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void AutomaticMedicalSystem.ReportsFamilyDoctor.ReportsFamilyDoctor_Load</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>ReportsFamilyDoctor_Load</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/ReportsFamilyDoctor.cs" line="21" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/ReportsFamilyDoctor.cs" bodystart="20" bodyend="28"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/ReportsFamilyDoctor.cs" line="14" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/ReportsFamilyDoctor.cs" bodystart="13" bodyend="29"/>
+    <listofallmembers>
+      <member refid="class_automatic_medical_system_1_1_reports_family_doctor_146dd76cc5b726a8f1d9215d12bff5882" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::ReportsFamilyDoctor</scope><name>ReportsFamilyDoctor</name></member>
+      <member refid="class_automatic_medical_system_1_1_reports_family_doctor_10080d6b31442303481b62d82963ceffb" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::ReportsFamilyDoctor</scope><name>ReportsFamilyDoctor_Load</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

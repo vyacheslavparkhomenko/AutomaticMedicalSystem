@@ -1,0 +1,544 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.5.8">
+  <compounddef id="class_automatic_medical_system_1_1_data_set2_1_1_d_o_c_t_o_r_s_row" kind="class" prot="public">
+    <compoundname>AutomaticMedicalSystem::DataSet2::DOCTORSRow</compoundname>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_automatic_medical_system_1_1_data_set2_1_1_d_o_c_t_o_r_s_row_1496a6cea2c14af3bf01b3a9c3005c9c1" prot="private" static="no" mutable="no">
+        <type><ref refid="class_automatic_medical_system_1_1_data_set2_1_1_d_o_c_t_o_r_s_data_table" kindref="compound">DOCTORSDataTable</ref></type>
+        <definition>DOCTORSDataTable AutomaticMedicalSystem.DataSet2.DataSet2.DOCTORSRow.tableDOCTORS</definition>
+        <argsstring></argsstring>
+        <name>tableDOCTORS</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="4176" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="4176" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="class_automatic_medical_system_1_1_data_set2_1_1_d_o_c_t_o_r_s_row_1a92faadeec42144b8af2df58f33da3dd" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="yes">
+        <type>decimal</type>
+        <definition>decimal AutomaticMedicalSystem.DataSet2.DataSet2.DOCTORSRow.ID</definition>
+        <argsstring></argsstring>
+        <name>ID</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="4194" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="4187" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_automatic_medical_system_1_1_data_set2_1_1_d_o_c_t_o_r_s_row_1af8640432f9e246b4e119f78e7455bc7" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="yes">
+        <type>string</type>
+        <definition>string AutomaticMedicalSystem.DataSet2.DataSet2.DOCTORSRow.FULL_NAME</definition>
+        <argsstring></argsstring>
+        <name>FULL_NAME</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="4205" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="4198" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_automatic_medical_system_1_1_data_set2_1_1_d_o_c_t_o_r_s_row_1a9d22480ed97ae89d600370c9aa04ffa" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="yes">
+        <type>System.DateTime</type>
+        <definition>System.DateTime AutomaticMedicalSystem.DataSet2.DataSet2.DOCTORSRow.DATEBIRTH</definition>
+        <argsstring></argsstring>
+        <name>DATEBIRTH</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="4216" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="4209" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_automatic_medical_system_1_1_data_set2_1_1_d_o_c_t_o_r_s_row_1b9bf79e26e245dbabde8dcc2aa0b05af" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="yes">
+        <type>string</type>
+        <definition>string AutomaticMedicalSystem.DataSet2.DataSet2.DOCTORSRow.JURIDICAL_ADRESS</definition>
+        <argsstring></argsstring>
+        <name>JURIDICAL_ADRESS</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="4232" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="4220" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_automatic_medical_system_1_1_data_set2_1_1_d_o_c_t_o_r_s_row_1e771eb81657909fa940f02d5402aa9b3" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="yes">
+        <type>string</type>
+        <definition>string AutomaticMedicalSystem.DataSet2.DataSet2.DOCTORSRow.PHYSICAL_ADRESS</definition>
+        <argsstring></argsstring>
+        <name>PHYSICAL_ADRESS</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="4248" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="4236" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_automatic_medical_system_1_1_data_set2_1_1_d_o_c_t_o_r_s_row_1285f8c2fb62d5f768b0fc7be5bb4817e" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="yes">
+        <type>string</type>
+        <definition>string AutomaticMedicalSystem.DataSet2.DataSet2.DOCTORSRow.PASSPORT_DATA</definition>
+        <argsstring></argsstring>
+        <name>PASSPORT_DATA</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="4264" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="4252" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_automatic_medical_system_1_1_data_set2_1_1_d_o_c_t_o_r_s_row_1042dcc31ad391d66a20941527038449f" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="yes">
+        <type>string</type>
+        <definition>string AutomaticMedicalSystem.DataSet2.DataSet2.DOCTORSRow.PHONES</definition>
+        <argsstring></argsstring>
+        <name>PHONES</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="4280" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="4268" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_automatic_medical_system_1_1_data_set2_1_1_d_o_c_t_o_r_s_row_1b941a0fa3a0c5966e975c24b33b3b755" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="yes">
+        <type>string</type>
+        <definition>string AutomaticMedicalSystem.DataSet2.DataSet2.DOCTORSRow.E_MAIL</definition>
+        <argsstring></argsstring>
+        <name>E_MAIL</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="4296" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="4284" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_automatic_medical_system_1_1_data_set2_1_1_d_o_c_t_o_r_s_row_131903558ef5b0a176662c11aaac8a195" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="yes">
+        <type>string</type>
+        <definition>string AutomaticMedicalSystem.DataSet2.DataSet2.DOCTORSRow.INNER_PHONE</definition>
+        <argsstring></argsstring>
+        <name>INNER_PHONE</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="4312" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="4300" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_automatic_medical_system_1_1_data_set2_1_1_d_o_c_t_o_r_s_row_1174475aeaa81b1a9562285db8ed59456" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="yes">
+        <type>System.DateTime</type>
+        <definition>System.DateTime AutomaticMedicalSystem.DataSet2.DataSet2.DOCTORSRow.DATE_OPEN</definition>
+        <argsstring></argsstring>
+        <name>DATE_OPEN</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="4328" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="4316" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_automatic_medical_system_1_1_data_set2_1_1_d_o_c_t_o_r_s_row_194fbd0f0fb764e5500638b392ed3e67e" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="yes">
+        <type>decimal</type>
+        <definition>decimal AutomaticMedicalSystem.DataSet2.DataSet2.DOCTORSRow.DEPARTMENTID</definition>
+        <argsstring></argsstring>
+        <name>DEPARTMENTID</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="4344" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="4332" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_automatic_medical_system_1_1_data_set2_1_1_d_o_c_t_o_r_s_row_156c89296102eef0fa3da1c1486e6dda9" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="yes">
+        <type>string</type>
+        <definition>string AutomaticMedicalSystem.DataSet2.DataSet2.DOCTORSRow.EXPERIENCE</definition>
+        <argsstring></argsstring>
+        <name>EXPERIENCE</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="4360" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="4348" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_automatic_medical_system_1_1_data_set2_1_1_d_o_c_t_o_r_s_row_1c5cb22e77b10985a3b4374d1c3025383" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="yes">
+        <type><ref refid="class_automatic_medical_system_1_1_data_set2_1_1_d_e_p_a_r_t_m_e_n_t_row" kindref="compound">DEPARTMENTRow</ref></type>
+        <definition>DEPARTMENTRow AutomaticMedicalSystem.DataSet2.DataSet2.DOCTORSRow.DEPARTMENTRow</definition>
+        <argsstring></argsstring>
+        <name>DEPARTMENTRow</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="4371" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="4364" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_data_set2_1_1_d_o_c_t_o_r_s_row_1e2ae981ce96795cd71a75845a61af3d7" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>internal</type>
+        <definition>internal AutomaticMedicalSystem.DataSet2.DataSet2.DOCTORSRow.DOCTORSRow</definition>
+        <argsstring>(global::System.Data.DataRowBuilder rb)</argsstring>
+        <name>DOCTORSRow</name>
+        <param>
+          <type>global::System.Data.DataRowBuilder</type>
+          <declname>rb</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="4181" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="4180" bodyend="4183"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_data_set2_1_1_d_o_c_t_o_r_s_row_17d2ba8ca836593cc568b6a88a6b216b4" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool AutomaticMedicalSystem.DataSet2.DataSet2.DOCTORSRow.IsJURIDICAL_ADRESSNull</definition>
+        <argsstring>()</argsstring>
+        <name>IsJURIDICAL_ADRESSNull</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="4375" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="4375" bodyend="4377"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_data_set2_1_1_d_o_c_t_o_r_s_row_1732b45fc7cecc20a770f2ec883ab2390" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void AutomaticMedicalSystem.DataSet2.DataSet2.DOCTORSRow.SetJURIDICAL_ADRESSNull</definition>
+        <argsstring>()</argsstring>
+        <name>SetJURIDICAL_ADRESSNull</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="4381" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="4381" bodyend="4383"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_data_set2_1_1_d_o_c_t_o_r_s_row_1ff813bfe41fdc98612072a8d851d93d0" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool AutomaticMedicalSystem.DataSet2.DataSet2.DOCTORSRow.IsPHYSICAL_ADRESSNull</definition>
+        <argsstring>()</argsstring>
+        <name>IsPHYSICAL_ADRESSNull</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="4387" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="4387" bodyend="4389"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_data_set2_1_1_d_o_c_t_o_r_s_row_186bc0134b961d097f6c98eda02f6bb93" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void AutomaticMedicalSystem.DataSet2.DataSet2.DOCTORSRow.SetPHYSICAL_ADRESSNull</definition>
+        <argsstring>()</argsstring>
+        <name>SetPHYSICAL_ADRESSNull</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="4393" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="4393" bodyend="4395"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_data_set2_1_1_d_o_c_t_o_r_s_row_1df010a21433bb2f91a60dc472975b8cd" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool AutomaticMedicalSystem.DataSet2.DataSet2.DOCTORSRow.IsPASSPORT_DATANull</definition>
+        <argsstring>()</argsstring>
+        <name>IsPASSPORT_DATANull</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="4399" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="4399" bodyend="4401"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_data_set2_1_1_d_o_c_t_o_r_s_row_1275cbe7a102525fb7ad138cb1bcaaef7" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void AutomaticMedicalSystem.DataSet2.DataSet2.DOCTORSRow.SetPASSPORT_DATANull</definition>
+        <argsstring>()</argsstring>
+        <name>SetPASSPORT_DATANull</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="4405" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="4405" bodyend="4407"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_data_set2_1_1_d_o_c_t_o_r_s_row_161334ce6195577ad1cd672d8132c9f01" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool AutomaticMedicalSystem.DataSet2.DataSet2.DOCTORSRow.IsPHONESNull</definition>
+        <argsstring>()</argsstring>
+        <name>IsPHONESNull</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="4411" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="4411" bodyend="4413"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_data_set2_1_1_d_o_c_t_o_r_s_row_1e912a18c5bba3af10aa4f72094f9b8fa" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void AutomaticMedicalSystem.DataSet2.DataSet2.DOCTORSRow.SetPHONESNull</definition>
+        <argsstring>()</argsstring>
+        <name>SetPHONESNull</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="4417" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="4417" bodyend="4419"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_data_set2_1_1_d_o_c_t_o_r_s_row_13797d542ff258a398cf9b4ac6bf1b377" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool AutomaticMedicalSystem.DataSet2.DataSet2.DOCTORSRow.IsE_MAILNull</definition>
+        <argsstring>()</argsstring>
+        <name>IsE_MAILNull</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="4423" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="4423" bodyend="4425"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_data_set2_1_1_d_o_c_t_o_r_s_row_11d99f681cbcd27a3aa8b3f338e5c71c4" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void AutomaticMedicalSystem.DataSet2.DataSet2.DOCTORSRow.SetE_MAILNull</definition>
+        <argsstring>()</argsstring>
+        <name>SetE_MAILNull</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="4429" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="4429" bodyend="4431"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_data_set2_1_1_d_o_c_t_o_r_s_row_118c054aba89522cea06719ca255a1628" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool AutomaticMedicalSystem.DataSet2.DataSet2.DOCTORSRow.IsINNER_PHONENull</definition>
+        <argsstring>()</argsstring>
+        <name>IsINNER_PHONENull</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="4435" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="4435" bodyend="4437"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_data_set2_1_1_d_o_c_t_o_r_s_row_1f62d86f3725325bc7881e310f26b98c8" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void AutomaticMedicalSystem.DataSet2.DataSet2.DOCTORSRow.SetINNER_PHONENull</definition>
+        <argsstring>()</argsstring>
+        <name>SetINNER_PHONENull</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="4441" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="4441" bodyend="4443"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_data_set2_1_1_d_o_c_t_o_r_s_row_183e410ec221e0f3f78345578ad0fc8e2" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool AutomaticMedicalSystem.DataSet2.DataSet2.DOCTORSRow.IsDATE_OPENNull</definition>
+        <argsstring>()</argsstring>
+        <name>IsDATE_OPENNull</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="4447" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="4447" bodyend="4449"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_data_set2_1_1_d_o_c_t_o_r_s_row_1ee9641c5620c43ab7e20389314419f8b" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void AutomaticMedicalSystem.DataSet2.DataSet2.DOCTORSRow.SetDATE_OPENNull</definition>
+        <argsstring>()</argsstring>
+        <name>SetDATE_OPENNull</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="4453" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="4453" bodyend="4455"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_data_set2_1_1_d_o_c_t_o_r_s_row_1544884fc7061a44f1e59848c49048adf" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool AutomaticMedicalSystem.DataSet2.DataSet2.DOCTORSRow.IsDEPARTMENTIDNull</definition>
+        <argsstring>()</argsstring>
+        <name>IsDEPARTMENTIDNull</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="4459" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="4459" bodyend="4461"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_data_set2_1_1_d_o_c_t_o_r_s_row_1ac5cf555e008de3ab4c86a488a8ddbd4" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void AutomaticMedicalSystem.DataSet2.DataSet2.DOCTORSRow.SetDEPARTMENTIDNull</definition>
+        <argsstring>()</argsstring>
+        <name>SetDEPARTMENTIDNull</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="4465" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="4465" bodyend="4467"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_data_set2_1_1_d_o_c_t_o_r_s_row_11afb5d5d4bddfc6d143f5e33e4fa9366" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool AutomaticMedicalSystem.DataSet2.DataSet2.DOCTORSRow.IsEXPERIENCENull</definition>
+        <argsstring>()</argsstring>
+        <name>IsEXPERIENCENull</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="4471" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="4471" bodyend="4473"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_data_set2_1_1_d_o_c_t_o_r_s_row_11c04e5d8b62fd828ab00a4e707270314" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void AutomaticMedicalSystem.DataSet2.DataSet2.DOCTORSRow.SetEXPERIENCENull</definition>
+        <argsstring>()</argsstring>
+        <name>SetEXPERIENCENull</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="4477" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="4477" bodyend="4479"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_data_set2_1_1_d_o_c_t_o_r_s_row_15acf425e7e0f7ac004b9939a412570bc" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type><ref refid="class_automatic_medical_system_1_1_data_set2_1_1_a_r_c___s_p___d_o_c_t_o_r___r_e_c_o_r_d_s_row" kindref="compound">ARC_SP_DOCTOR_RECORDSRow</ref>[]</type>
+        <definition>ARC_SP_DOCTOR_RECORDSRow [] AutomaticMedicalSystem.DataSet2.DataSet2.DOCTORSRow.GetARC_SP_DOCTOR_RECORDSRows</definition>
+        <argsstring>()</argsstring>
+        <name>GetARC_SP_DOCTOR_RECORDSRows</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="4483" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="4483" bodyend="4490"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_data_set2_1_1_d_o_c_t_o_r_s_row_1554af89489a635687a0b8e485893bced" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type><ref refid="class_automatic_medical_system_1_1_data_set2_1_1_f_a_m_i_l_y___d_o_c_t_o_r_row" kindref="compound">FAMILY_DOCTORRow</ref>[]</type>
+        <definition>FAMILY_DOCTORRow [] AutomaticMedicalSystem.DataSet2.DataSet2.DOCTORSRow.GetFAMILY_DOCTORRows</definition>
+        <argsstring>()</argsstring>
+        <name>GetFAMILY_DOCTORRows</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="4494" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="4494" bodyend="4501"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Represents strongly named DataRow class. /summary&gt;. </para>    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <collaborationgraph>
+      <node id="304">
+        <label>AutomaticMedicalSystem.DataSet2.DataSet2.DOCTORSDataTable</label>
+        <link refid="class_automatic_medical_system_1_1_data_set2_1_1_d_o_c_t_o_r_s_data_table"/>
+        <childnode refid="305" relation="usage">
+          <edgelabel>columnEXPERIENCE</edgelabel>
+          <edgelabel>columnE_MAIL</edgelabel>
+          <edgelabel>columnPHYSICAL_ADRESS</edgelabel>
+          <edgelabel>columnDATEBIRTH</edgelabel>
+          <edgelabel>columnDEPARTMENTID</edgelabel>
+          <edgelabel>columnPHONES</edgelabel>
+          <edgelabel>columnFULL_NAME</edgelabel>
+          <edgelabel>columnDATE_OPEN</edgelabel>
+          <edgelabel>columnINNER_PHONE</edgelabel>
+          <edgelabel>columnPASSPORT_DATA</edgelabel>
+          <edgelabel>...</edgelabel>
+        </childnode>
+      </node>
+      <node id="303">
+        <label>AutomaticMedicalSystem.DataSet2.DataSet2.DOCTORSRow</label>
+        <link refid="class_automatic_medical_system_1_1_data_set2_1_1_d_o_c_t_o_r_s_row"/>
+        <childnode refid="304" relation="usage">
+          <edgelabel>tableDOCTORS</edgelabel>
+        </childnode>
+      </node>
+      <node id="305">
+        <label>System.Data</label>
+      </node>
+    </collaborationgraph>
+    <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" line="4174" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet2.Designer.cs" bodystart="4174" bodyend="4502"/>
+    <listofallmembers>
+      <member refid="class_automatic_medical_system_1_1_data_set2_1_1_d_o_c_t_o_r_s_row_1174475aeaa81b1a9562285db8ed59456" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2::DOCTORSRow</scope><name>DATE_OPEN</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_1_1_d_o_c_t_o_r_s_row_1a9d22480ed97ae89d600370c9aa04ffa" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2::DOCTORSRow</scope><name>DATEBIRTH</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_1_1_d_o_c_t_o_r_s_row_194fbd0f0fb764e5500638b392ed3e67e" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2::DOCTORSRow</scope><name>DEPARTMENTID</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_1_1_d_o_c_t_o_r_s_row_1c5cb22e77b10985a3b4374d1c3025383" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2::DOCTORSRow</scope><name>DEPARTMENTRow</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_1_1_d_o_c_t_o_r_s_row_1e2ae981ce96795cd71a75845a61af3d7" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2::DOCTORSRow</scope><name>DOCTORSRow</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_1_1_d_o_c_t_o_r_s_row_1b941a0fa3a0c5966e975c24b33b3b755" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2::DOCTORSRow</scope><name>E_MAIL</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_1_1_d_o_c_t_o_r_s_row_156c89296102eef0fa3da1c1486e6dda9" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2::DOCTORSRow</scope><name>EXPERIENCE</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_1_1_d_o_c_t_o_r_s_row_1af8640432f9e246b4e119f78e7455bc7" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2::DOCTORSRow</scope><name>FULL_NAME</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_1_1_d_o_c_t_o_r_s_row_15acf425e7e0f7ac004b9939a412570bc" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2::DOCTORSRow</scope><name>GetARC_SP_DOCTOR_RECORDSRows</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_1_1_d_o_c_t_o_r_s_row_1554af89489a635687a0b8e485893bced" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2::DOCTORSRow</scope><name>GetFAMILY_DOCTORRows</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_1_1_d_o_c_t_o_r_s_row_1a92faadeec42144b8af2df58f33da3dd" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2::DOCTORSRow</scope><name>ID</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_1_1_d_o_c_t_o_r_s_row_131903558ef5b0a176662c11aaac8a195" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2::DOCTORSRow</scope><name>INNER_PHONE</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_1_1_d_o_c_t_o_r_s_row_183e410ec221e0f3f78345578ad0fc8e2" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2::DOCTORSRow</scope><name>IsDATE_OPENNull</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_1_1_d_o_c_t_o_r_s_row_1544884fc7061a44f1e59848c49048adf" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2::DOCTORSRow</scope><name>IsDEPARTMENTIDNull</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_1_1_d_o_c_t_o_r_s_row_13797d542ff258a398cf9b4ac6bf1b377" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2::DOCTORSRow</scope><name>IsE_MAILNull</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_1_1_d_o_c_t_o_r_s_row_11afb5d5d4bddfc6d143f5e33e4fa9366" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2::DOCTORSRow</scope><name>IsEXPERIENCENull</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_1_1_d_o_c_t_o_r_s_row_118c054aba89522cea06719ca255a1628" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2::DOCTORSRow</scope><name>IsINNER_PHONENull</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_1_1_d_o_c_t_o_r_s_row_17d2ba8ca836593cc568b6a88a6b216b4" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2::DOCTORSRow</scope><name>IsJURIDICAL_ADRESSNull</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_1_1_d_o_c_t_o_r_s_row_1df010a21433bb2f91a60dc472975b8cd" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2::DOCTORSRow</scope><name>IsPASSPORT_DATANull</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_1_1_d_o_c_t_o_r_s_row_161334ce6195577ad1cd672d8132c9f01" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2::DOCTORSRow</scope><name>IsPHONESNull</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_1_1_d_o_c_t_o_r_s_row_1ff813bfe41fdc98612072a8d851d93d0" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2::DOCTORSRow</scope><name>IsPHYSICAL_ADRESSNull</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_1_1_d_o_c_t_o_r_s_row_1b9bf79e26e245dbabde8dcc2aa0b05af" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2::DOCTORSRow</scope><name>JURIDICAL_ADRESS</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_1_1_d_o_c_t_o_r_s_row_1285f8c2fb62d5f768b0fc7be5bb4817e" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2::DOCTORSRow</scope><name>PASSPORT_DATA</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_1_1_d_o_c_t_o_r_s_row_1042dcc31ad391d66a20941527038449f" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2::DOCTORSRow</scope><name>PHONES</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_1_1_d_o_c_t_o_r_s_row_1e771eb81657909fa940f02d5402aa9b3" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2::DOCTORSRow</scope><name>PHYSICAL_ADRESS</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_1_1_d_o_c_t_o_r_s_row_1ee9641c5620c43ab7e20389314419f8b" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2::DOCTORSRow</scope><name>SetDATE_OPENNull</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_1_1_d_o_c_t_o_r_s_row_1ac5cf555e008de3ab4c86a488a8ddbd4" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2::DOCTORSRow</scope><name>SetDEPARTMENTIDNull</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_1_1_d_o_c_t_o_r_s_row_11d99f681cbcd27a3aa8b3f338e5c71c4" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2::DOCTORSRow</scope><name>SetE_MAILNull</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_1_1_d_o_c_t_o_r_s_row_11c04e5d8b62fd828ab00a4e707270314" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2::DOCTORSRow</scope><name>SetEXPERIENCENull</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_1_1_d_o_c_t_o_r_s_row_1f62d86f3725325bc7881e310f26b98c8" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2::DOCTORSRow</scope><name>SetINNER_PHONENull</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_1_1_d_o_c_t_o_r_s_row_1732b45fc7cecc20a770f2ec883ab2390" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2::DOCTORSRow</scope><name>SetJURIDICAL_ADRESSNull</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_1_1_d_o_c_t_o_r_s_row_1275cbe7a102525fb7ad138cb1bcaaef7" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2::DOCTORSRow</scope><name>SetPASSPORT_DATANull</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_1_1_d_o_c_t_o_r_s_row_1e912a18c5bba3af10aa4f72094f9b8fa" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2::DOCTORSRow</scope><name>SetPHONESNull</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_1_1_d_o_c_t_o_r_s_row_186bc0134b961d097f6c98eda02f6bb93" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2::DOCTORSRow</scope><name>SetPHYSICAL_ADRESSNull</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set2_1_1_d_o_c_t_o_r_s_row_1496a6cea2c14af3bf01b3a9c3005c9c1" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet2::DOCTORSRow</scope><name>tableDOCTORS</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

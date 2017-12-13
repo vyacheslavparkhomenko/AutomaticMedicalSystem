@@ -1,0 +1,9 @@
+D:\projects\Visual Studio 2012\C#\AutomaticMedicalSystem\UnitTestProject_AMs\obj\Debug\UnitTestProject_AMs.csprojResolveAssemblyReference.cache
+D:\projects\Visual Studio 2012\C#\AutomaticMedicalSystem\UnitTestProject_AMs\bin\Debug\Report3.rdlc
+D:\projects\Visual Studio 2012\C#\AutomaticMedicalSystem\UnitTestProject_AMs\bin\Debug\UnitTestProject_AMs.dll
+D:\projects\Visual Studio 2012\C#\AutomaticMedicalSystem\UnitTestProject_AMs\bin\Debug\UnitTestProject_AMs.pdb
+D:\projects\Visual Studio 2012\C#\AutomaticMedicalSystem\UnitTestProject_AMs\bin\Debug\AutomaticMedicalSystem.exe
+D:\projects\Visual Studio 2012\C#\AutomaticMedicalSystem\UnitTestProject_AMs\bin\Debug\AutomaticMedicalSystem.pdb
+D:\projects\Visual Studio 2012\C#\AutomaticMedicalSystem\UnitTestProject_AMs\obj\Debug\UnitTestProject_AMs.dll
+D:\projects\Visual Studio 2012\C#\AutomaticMedicalSystem\UnitTestProject_AMs\obj\Debug\UnitTestProject_AMs.pdb
+D:\projects\Visual Studio 2012\C#\AutomaticMedicalSystem\UnitTestProject_AMs\bin\Debug\AutomaticMedicalSystem.xml

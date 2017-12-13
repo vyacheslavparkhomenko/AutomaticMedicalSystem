@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.5.8">
+  <compounddef id="namespace_automatic_medical_system" kind="namespace">
+    <compoundname>AutomaticMedicalSystem</compoundname>
+    <innerclass refid="class_automatic_medical_system_1_1_arc__family__doctor__records" prot="public">AutomaticMedicalSystem::Arc_family_doctor_records</innerclass>
+    <innerclass refid="class_automatic_medical_system_1_1_arc__sp__doctor__records" prot="public">AutomaticMedicalSystem::Arc_sp_doctor_records</innerclass>
+    <innerclass refid="class_automatic_medical_system_1_1_data_set1" prot="public">AutomaticMedicalSystem::DataSet1</innerclass>
+    <innerclass refid="class_automatic_medical_system_1_1_data_set2" prot="public">AutomaticMedicalSystem::DataSet2</innerclass>
+    <innerclass refid="class_automatic_medical_system_1_1_departments" prot="public">AutomaticMedicalSystem::Departments</innerclass>
+    <innerclass refid="class_automatic_medical_system_1_1_diagnose__family__doctor" prot="public">AutomaticMedicalSystem::Diagnose_family_doctor</innerclass>
+    <innerclass refid="class_automatic_medical_system_1_1_diagnose__sp" prot="public">AutomaticMedicalSystem::Diagnose_sp</innerclass>
+    <innerclass refid="class_automatic_medical_system_1_1_doctors" prot="public">AutomaticMedicalSystem::Doctors</innerclass>
+    <innerclass refid="class_automatic_medical_system_1_1_family_doctors" prot="public">AutomaticMedicalSystem::FamilyDoctors</innerclass>
+    <innerclass refid="class_automatic_medical_system_1_1_form1" prot="public">AutomaticMedicalSystem::Form1</innerclass>
+    <innerclass refid="class_automatic_medical_system_1_1_forms_family_doctor" prot="public">AutomaticMedicalSystem::FormsFamilyDoctor</innerclass>
+    <innerclass refid="class_automatic_medical_system_1_1_patients" prot="public">AutomaticMedicalSystem::Patients</innerclass>
+    <innerclass refid="class_automatic_medical_system_1_1_program" prot="public">AutomaticMedicalSystem::Program</innerclass>
+    <innerclass refid="class_automatic_medical_system_1_1_reports_family_doctor" prot="public">AutomaticMedicalSystem::ReportsFamilyDoctor</innerclass>
+    <innernamespace refid="namespace_automatic_medical_system_1_1_data_set1_table_adapters">AutomaticMedicalSystem::DataSet1TableAdapters</innernamespace>
+    <innernamespace refid="namespace_automatic_medical_system_1_1_data_set2_table_adapters">AutomaticMedicalSystem::DataSet2TableAdapters</innernamespace>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Arc_family_doctor_records.cs" line="13"/>
+  </compounddef>
+</doxygen>

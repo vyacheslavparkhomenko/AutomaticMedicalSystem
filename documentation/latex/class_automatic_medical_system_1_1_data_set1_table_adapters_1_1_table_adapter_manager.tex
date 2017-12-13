@@ -1,0 +1,83 @@
+\section{AutomaticMedicalSystem.DataSet1TableAdapters.TableAdapterManager Class Reference}
+\label{class_automatic_medical_system_1_1_data_set1_table_adapters_1_1_table_adapter_manager}\index{AutomaticMedicalSystem::DataSet1TableAdapters::TableAdapterManager@{AutomaticMedicalSystem::DataSet1TableAdapters::TableAdapterManager}}
+\doxyref{TableAdapterManager}{p.}{class_automatic_medical_system_1_1_data_set1_table_adapters_1_1_table_adapter_manager} is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios /summary$>$.  
+
+
+\subsection*{Classes}
+\begin{CompactItemize}
+\item 
+class \textbf{SelfReferenceComparer}
+\begin{CompactList}\small\item\em Used to sort self-referenced table's rows /summary$>$. \item\end{CompactList}\end{CompactItemize}
+\subsection*{Public Types}
+\begin{CompactItemize}
+\item 
+enum {\bf UpdateOrderOption} \{ \textbf{InsertUpdateDelete} =  0, 
+\textbf{UpdateInsertDelete} =  1, 
+\textbf{InsertUpdateDelete} =  0, 
+\textbf{UpdateInsertDelete} =  1
+ \}
+\begin{CompactList}\small\item\em Update Order Option /summary$>$. \item\end{CompactList}\end{CompactItemize}
+\subsection*{Public Member Functions}
+\begin{CompactItemize}
+\item 
+virtual int {\bf UpdateAll} ({\bf DataSet1} dataSet)\label{class_automatic_medical_system_1_1_data_set1_table_adapters_1_1_table_adapter_manager_8135cee652df365ad2dcae55799d6894}
+
+\begin{CompactList}\small\item\em Update all changes to the dataset. /summary$>$. \item\end{CompactList}\end{CompactItemize}
+\subsection*{Protected Member Functions}
+\begin{CompactItemize}
+\item 
+virtual void \textbf{SortSelfReferenceRows} (global::System.Data.DataRow[$\,$] rows, global::System.Data.DataRelation relation, bool childFirst)\label{class_automatic_medical_system_1_1_data_set1_table_adapters_1_1_table_adapter_manager_22e251e27ba6e90d1a809ae6e26d2c6b}
+
+\item 
+virtual bool \textbf{MatchTableAdapterConnection} (global::System.Data.IDbConnection inputConnection)\label{class_automatic_medical_system_1_1_data_set1_table_adapters_1_1_table_adapter_manager_3cb3b430fe9d946f4b95ea39616e7434}
+
+\end{CompactItemize}
+\subsection*{Properties}
+\begin{CompactItemize}
+\item 
+{\bf UpdateOrderOption} \textbf{UpdateOrder}\hspace{0.3cm}{\tt  [get, set]}\label{class_automatic_medical_system_1_1_data_set1_table_adapters_1_1_table_adapter_manager_cdf50284fec81b00ee286426bc7ebed6}
+
+\item 
+{\bf ARC\_\-FAMILY\_\-DOCTOR\_\-RECORDSTableAdapter} \textbf{ARC\_\-FAMILY\_\-DOCTOR\_\-RECORDSTableAdapter}\hspace{0.3cm}{\tt  [get, set]}\label{class_automatic_medical_system_1_1_data_set1_table_adapters_1_1_table_adapter_manager_13873db2a295462b06a9ddbd9bbf9c01}
+
+\item 
+{\bf ARC\_\-SP\_\-DOCTOR\_\-RECORDSTableAdapter} \textbf{ARC\_\-SP\_\-DOCTOR\_\-RECORDSTableAdapter}\hspace{0.3cm}{\tt  [get, set]}\label{class_automatic_medical_system_1_1_data_set1_table_adapters_1_1_table_adapter_manager_029adb3ede1872cd2438c56dc6b0568e}
+
+\item 
+{\bf DEPARTMENTTableAdapter} \textbf{DEPARTMENTTableAdapter}\hspace{0.3cm}{\tt  [get, set]}\label{class_automatic_medical_system_1_1_data_set1_table_adapters_1_1_table_adapter_manager_0e522acf18b745c7c6431f570e3fba4b}
+
+\item 
+{\bf DIAGNOSE\_\-SP\_\-DOCTORTableAdapter} \textbf{DIAGNOSE\_\-SP\_\-DOCTORTableAdapter}\hspace{0.3cm}{\tt  [get, set]}\label{class_automatic_medical_system_1_1_data_set1_table_adapters_1_1_table_adapter_manager_c5262be0ebcd877ac62b15f9f0065c05}
+
+\item 
+{\bf DOCTORSTableAdapter} \textbf{DOCTORSTableAdapter}\hspace{0.3cm}{\tt  [get, set]}\label{class_automatic_medical_system_1_1_data_set1_table_adapters_1_1_table_adapter_manager_8f728d2159795bc1a140ac0c692723c8}
+
+\item 
+{\bf FAMILY\_\-DOCTORTableAdapter} \textbf{FAMILY\_\-DOCTORTableAdapter}\hspace{0.3cm}{\tt  [get, set]}\label{class_automatic_medical_system_1_1_data_set1_table_adapters_1_1_table_adapter_manager_0c06b1a22f399aa1cdb0657126e6920f}
+
+\item 
+{\bf PATIENTSTableAdapter} \textbf{PATIENTSTableAdapter}\hspace{0.3cm}{\tt  [get, set]}\label{class_automatic_medical_system_1_1_data_set1_table_adapters_1_1_table_adapter_manager_714cc3ae9343520102323f67757a6959}
+
+\item 
+{\bf DIAGNOSE\_\-FM\_\-DOCTORTableAdapter} \textbf{DIAGNOSE\_\-FM\_\-DOCTORTableAdapter}\hspace{0.3cm}{\tt  [get, set]}\label{class_automatic_medical_system_1_1_data_set1_table_adapters_1_1_table_adapter_manager_bbd3c11f082067a34bdfaa8ceb013df7}
+
+\item 
+bool \textbf{BackupDataSetBeforeUpdate}\hspace{0.3cm}{\tt  [get, set]}\label{class_automatic_medical_system_1_1_data_set1_table_adapters_1_1_table_adapter_manager_2af09dd17632e0463c13b57951818095}
+
+\item 
+global::System.Data.IDbConnection \textbf{Connection}\hspace{0.3cm}{\tt  [get, set]}\label{class_automatic_medical_system_1_1_data_set1_table_adapters_1_1_table_adapter_manager_c73ebfe18743266b355cf9bab48974d0}
+
+\item 
+int \textbf{TableAdapterInstanceCount}\hspace{0.3cm}{\tt  [get]}\label{class_automatic_medical_system_1_1_data_set1_table_adapters_1_1_table_adapter_manager_72e6e7a745e80dc31af06b5fc0b47753}
+
+\end{CompactItemize}
+
+
+\subsection{Detailed Description}
+\doxyref{TableAdapterManager}{p.}{class_automatic_medical_system_1_1_data_set1_table_adapters_1_1_table_adapter_manager} is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios /summary$>$. 
+
+Definition at line 14452 of file DataSet1.Designer.cs.
+
+The documentation for this class was generated from the following file:\begin{CompactItemize}
+\item 
+D:/projects/Visual Studio 2012/C\#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs\end{CompactItemize}

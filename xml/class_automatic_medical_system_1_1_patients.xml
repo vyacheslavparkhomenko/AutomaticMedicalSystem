@@ -1,0 +1,154 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.5.8">
+  <compounddef id="class_automatic_medical_system_1_1_patients" kind="class" prot="public">
+    <compoundname>AutomaticMedicalSystem::Patients</compoundname>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_automatic_medical_system_1_1_patients_1c4756b0726673b8974fdd210575bb146" prot="private" static="no" mutable="no">
+        <type>int</type>
+        <definition>int AutomaticMedicalSystem.Patients.k</definition>
+        <argsstring></argsstring>
+        <name>k</name>
+        <initializer> 2</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Patients.cs" line="16" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Patients.cs" bodystart="16" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_patients_1bd3c4ba8ac7dffe7a4c542ade95e884f" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>AutomaticMedicalSystem.Patients.Patients</definition>
+        <argsstring>()</argsstring>
+        <name>Patients</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Patients.cs" line="18" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Patients.cs" bodystart="17" bodyend="20"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_patients_1dcebbd8003bbd8da626892516d777495" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void AutomaticMedicalSystem.Patients.Patients_Load</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>Patients_Load</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Patients.cs" line="23" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Patients.cs" bodystart="22" bodyend="31"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_patients_1cf48bc9056a557207760f3ef877fbe88" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void AutomaticMedicalSystem.Patients.set_max_id</definition>
+        <argsstring>(ref int k)</argsstring>
+        <name>set_max_id</name>
+        <param>
+          <type>ref int</type>
+          <declname>k</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Patients.cs" line="34" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Patients.cs" bodystart="33" bodyend="37"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_patients_164aecd3c8a4ff7e21164c0e5c5253abb" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void AutomaticMedicalSystem.Patients.DataGridView1_DataError</definition>
+        <argsstring>(object sender, DataGridViewDataErrorEventArgs anError)</argsstring>
+        <name>DataGridView1_DataError</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>DataGridViewDataErrorEventArgs</type>
+          <declname>anError</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Patients.cs" line="40" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Patients.cs" bodystart="39" bodyend="77"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_patients_1e95b6bf8f55ca205255762da25e51f9a" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void AutomaticMedicalSystem.Patients.pATIENTSBindingNavigatorSaveItem_Click</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>pATIENTSBindingNavigatorSaveItem_Click</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Patients.cs" line="80" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Patients.cs" bodystart="79" bodyend="96"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_patients_16ae24fef04ae6f25071af604cfd31bcd" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void AutomaticMedicalSystem.Patients.bindingNavigatorAddNewItem_Click</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>bindingNavigatorAddNewItem_Click</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Patients.cs" line="101" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Patients.cs" bodystart="100" bodyend="106"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Patients.cs" line="15" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Patients.cs" bodystart="14" bodyend="107"/>
+    <listofallmembers>
+      <member refid="class_automatic_medical_system_1_1_patients_16ae24fef04ae6f25071af604cfd31bcd" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::Patients</scope><name>bindingNavigatorAddNewItem_Click</name></member>
+      <member refid="class_automatic_medical_system_1_1_patients_164aecd3c8a4ff7e21164c0e5c5253abb" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::Patients</scope><name>DataGridView1_DataError</name></member>
+      <member refid="class_automatic_medical_system_1_1_patients_1c4756b0726673b8974fdd210575bb146" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::Patients</scope><name>k</name></member>
+      <member refid="class_automatic_medical_system_1_1_patients_1bd3c4ba8ac7dffe7a4c542ade95e884f" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::Patients</scope><name>Patients</name></member>
+      <member refid="class_automatic_medical_system_1_1_patients_1dcebbd8003bbd8da626892516d777495" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::Patients</scope><name>Patients_Load</name></member>
+      <member refid="class_automatic_medical_system_1_1_patients_1e95b6bf8f55ca205255762da25e51f9a" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::Patients</scope><name>pATIENTSBindingNavigatorSaveItem_Click</name></member>
+      <member refid="class_automatic_medical_system_1_1_patients_1cf48bc9056a557207760f3ef877fbe88" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::Patients</scope><name>set_max_id</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

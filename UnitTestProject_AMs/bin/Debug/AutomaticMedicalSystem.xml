@@ -1,0 +1,858 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AutomaticMedicalSystem</name>
+    </assembly>
+    <members>
+        <member name="F:AutomaticMedicalSystem.Arc_family_doctor_records.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:AutomaticMedicalSystem.Arc_family_doctor_records.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:AutomaticMedicalSystem.Arc_family_doctor_records.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:AutomaticMedicalSystem.Arc_sp_doctor_records.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:AutomaticMedicalSystem.Arc_sp_doctor_records.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:AutomaticMedicalSystem.Arc_sp_doctor_records.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet1">
+             <summary>
+            Represents a strongly typed in-memory cache of data.
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet1.REPORTFAMILYDOCTORSDataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet1.REPORTSPDOCTORSDataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet1.VSPDIAGNOSEDataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet1.DIAGNOSE_SP_DOCTORDataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet1.DIAGNOSE_FM_DOCTORDataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet1.ARC_FAMILY_DOCTOR_RECORDSDataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet1.VFAMILYDOCTORDataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet1.ARC_SP_DOCTOR_RECORDSDataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet1.DEPARTMENTDataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet1.DOCTORSDataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet1.FAMILY_DOCTORDataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet1.PATIENTSDataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet1.VFAMILYDOCTORRECORDSDataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet1.VSPECIALDOCTORDataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet1.VARCFAMILYDOCTORRECORDSDataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet1.VARCSPDOCTORRECORDSDataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet1.ARC_FAMILY_DOCTOR_RECORDSRow">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet1.VFAMILYDOCTORRow">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet1.ARC_SP_DOCTOR_RECORDSRow">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet1.DEPARTMENTRow">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet1.DIAGNOSE_SP_DOCTORRow">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet1.DOCTORSRow">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet1.FAMILY_DOCTORRow">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet1.PATIENTSRow">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet1.VFAMILYDOCTORRECORDSRow">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet1.VSPECIALDOCTORRow">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet1.VARCFAMILYDOCTORRECORDSRow">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet1.VARCSPDOCTORRECORDSRow">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet1.VSPDIAGNOSERow">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet1.DIAGNOSE_FM_DOCTORRow">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet1.REPORTSPDOCTORSRow">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet1.REPORTFAMILYDOCTORSRow">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet1.ARC_FAMILY_DOCTOR_RECORDSRowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet1.VFAMILYDOCTORRowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet1.ARC_SP_DOCTOR_RECORDSRowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet1.DEPARTMENTRowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet1.DIAGNOSE_SP_DOCTORRowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet1.DOCTORSRowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet1.FAMILY_DOCTORRowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet1.PATIENTSRowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet1.VFAMILYDOCTORRECORDSRowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet1.VSPECIALDOCTORRowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet1.VARCFAMILYDOCTORRECORDSRowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet1.VARCSPDOCTORRECORDSRowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet1.VSPDIAGNOSERowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet1.DIAGNOSE_FM_DOCTORRowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet1.REPORTSPDOCTORSRowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet1.REPORTFAMILYDOCTORSRowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet1TableAdapters.REPORTFAMILYDOCTORSTableAdapter">
+             <summary>
+            Represents the connection and commands used to retrieve and save data.
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet1TableAdapters.ARC_FAMILY_DOCTOR_RECORDSTableAdapter">
+             <summary>
+            Represents the connection and commands used to retrieve and save data.
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet1TableAdapters.VFAMILYDOCTORTableAdapter">
+             <summary>
+            Represents the connection and commands used to retrieve and save data.
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet1TableAdapters.ARC_SP_DOCTOR_RECORDSTableAdapter">
+             <summary>
+            Represents the connection and commands used to retrieve and save data.
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet1TableAdapters.DEPARTMENTTableAdapter">
+             <summary>
+            Represents the connection and commands used to retrieve and save data.
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet1TableAdapters.DIAGNOSE_SP_DOCTORTableAdapter">
+             <summary>
+            Represents the connection and commands used to retrieve and save data.
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet1TableAdapters.DOCTORSTableAdapter">
+             <summary>
+            Represents the connection and commands used to retrieve and save data.
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet1TableAdapters.FAMILY_DOCTORTableAdapter">
+             <summary>
+            Represents the connection and commands used to retrieve and save data.
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet1TableAdapters.PATIENTSTableAdapter">
+             <summary>
+            Represents the connection and commands used to retrieve and save data.
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet1TableAdapters.VFAMILYDOCTORRECORDSTableAdapter">
+             <summary>
+            Represents the connection and commands used to retrieve and save data.
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet1TableAdapters.VSPECIALDOCTORTableAdapter">
+             <summary>
+            Represents the connection and commands used to retrieve and save data.
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet1TableAdapters.VARCFAMILYDOCTORRECORDSTableAdapter">
+             <summary>
+            Represents the connection and commands used to retrieve and save data.
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet1TableAdapters.VARCSPDOCTORRECORDSTableAdapter">
+             <summary>
+            Represents the connection and commands used to retrieve and save data.
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet1TableAdapters.VSPDIAGNOSETableAdapter">
+             <summary>
+            Represents the connection and commands used to retrieve and save data.
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet1TableAdapters.DIAGNOSE_FM_DOCTORTableAdapter">
+             <summary>
+            Represents the connection and commands used to retrieve and save data.
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet1TableAdapters.REPORTSPDOCTORSTableAdapter">
+             <summary>
+            Represents the connection and commands used to retrieve and save data.
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet1TableAdapters.QueriesTableAdapter">
+             <summary>
+            Represents the connection and commands used to retrieve and save data.
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet1TableAdapters.TableAdapterManager">
+             <summary>
+            TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+            </summary>
+        </member>
+        <member name="M:AutomaticMedicalSystem.DataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(AutomaticMedicalSystem.DataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+             <summary>
+            Update rows in top-down order.
+            </summary>
+        </member>
+        <member name="M:AutomaticMedicalSystem.DataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(AutomaticMedicalSystem.DataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+             <summary>
+            Insert rows in top-down order.
+            </summary>
+        </member>
+        <member name="M:AutomaticMedicalSystem.DataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(AutomaticMedicalSystem.DataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+             <summary>
+            Delete rows in bottom-up order.
+            </summary>
+        </member>
+        <member name="M:AutomaticMedicalSystem.DataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+             <summary>
+            Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+            </summary>
+        </member>
+        <member name="M:AutomaticMedicalSystem.DataSet1TableAdapters.TableAdapterManager.UpdateAll(AutomaticMedicalSystem.DataSet1)">
+             <summary>
+            Update all changes to the dataset.
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+             <summary>
+            Update Order Option
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+             <summary>
+            Used to sort self-referenced table's rows
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet2">
+             <summary>
+            Represents a strongly typed in-memory cache of data.
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet2.ARC_FAMILY_DOCTOR_RECORDSDataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet2.ARC_SP_DOCTOR_RECORDSDataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet2.DEPARTMENTDataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet2.DIAGNOSE_FM_DOCTORDataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet2.DIAGNOSE_SP_DOCTORDataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet2.DOCTORSDataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet2.FAMILY_DOCTORDataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet2.PATIENTSDataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet2.VFAMILYDOCTORDataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet2.ARC_FAMILY_DOCTOR_RECORDSRow">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet2.ARC_SP_DOCTOR_RECORDSRow">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet2.DEPARTMENTRow">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet2.DIAGNOSE_FM_DOCTORRow">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet2.DIAGNOSE_SP_DOCTORRow">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet2.DOCTORSRow">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet2.FAMILY_DOCTORRow">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet2.PATIENTSRow">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet2.VFAMILYDOCTORRow">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet2.ARC_FAMILY_DOCTOR_RECORDSRowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet2.ARC_SP_DOCTOR_RECORDSRowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet2.DEPARTMENTRowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet2.DIAGNOSE_FM_DOCTORRowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet2.DIAGNOSE_SP_DOCTORRowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet2.DOCTORSRowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet2.FAMILY_DOCTORRowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet2.PATIENTSRowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet2.VFAMILYDOCTORRowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet2TableAdapters.ARC_FAMILY_DOCTOR_RECORDSTableAdapter">
+             <summary>
+            Represents the connection and commands used to retrieve and save data.
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet2TableAdapters.ARC_SP_DOCTOR_RECORDSTableAdapter">
+             <summary>
+            Represents the connection and commands used to retrieve and save data.
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet2TableAdapters.DEPARTMENTTableAdapter">
+             <summary>
+            Represents the connection and commands used to retrieve and save data.
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet2TableAdapters.DIAGNOSE_FM_DOCTORTableAdapter">
+             <summary>
+            Represents the connection and commands used to retrieve and save data.
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet2TableAdapters.DIAGNOSE_SP_DOCTORTableAdapter">
+             <summary>
+            Represents the connection and commands used to retrieve and save data.
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet2TableAdapters.DOCTORSTableAdapter">
+             <summary>
+            Represents the connection and commands used to retrieve and save data.
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet2TableAdapters.FAMILY_DOCTORTableAdapter">
+             <summary>
+            Represents the connection and commands used to retrieve and save data.
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet2TableAdapters.PATIENTSTableAdapter">
+             <summary>
+            Represents the connection and commands used to retrieve and save data.
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet2TableAdapters.VFAMILYDOCTORTableAdapter">
+             <summary>
+            Represents the connection and commands used to retrieve and save data.
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet2TableAdapters.TableAdapterManager">
+             <summary>
+            TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+            </summary>
+        </member>
+        <member name="M:AutomaticMedicalSystem.DataSet2TableAdapters.TableAdapterManager.UpdateUpdatedRows(AutomaticMedicalSystem.DataSet2,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+             <summary>
+            Update rows in top-down order.
+            </summary>
+        </member>
+        <member name="M:AutomaticMedicalSystem.DataSet2TableAdapters.TableAdapterManager.UpdateInsertedRows(AutomaticMedicalSystem.DataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+             <summary>
+            Insert rows in top-down order.
+            </summary>
+        </member>
+        <member name="M:AutomaticMedicalSystem.DataSet2TableAdapters.TableAdapterManager.UpdateDeletedRows(AutomaticMedicalSystem.DataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+             <summary>
+            Delete rows in bottom-up order.
+            </summary>
+        </member>
+        <member name="M:AutomaticMedicalSystem.DataSet2TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+             <summary>
+            Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+            </summary>
+        </member>
+        <member name="M:AutomaticMedicalSystem.DataSet2TableAdapters.TableAdapterManager.UpdateAll(AutomaticMedicalSystem.DataSet2)">
+             <summary>
+            Update all changes to the dataset.
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet2TableAdapters.TableAdapterManager.UpdateOrderOption">
+             <summary>
+            Update Order Option
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.DataSet2TableAdapters.TableAdapterManager.SelfReferenceComparer">
+             <summary>
+            Used to sort self-referenced table's rows
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.Departments">
+            <summary>
+            Форма для вывода информации об отделах амбулатории
+            </summary>
+        </member>
+        <member name="F:AutomaticMedicalSystem.Departments.k">
+            <summary>
+            <value>Переменная хранящая уникальное значение для автоинкремента</value>
+            </summary>
+        </member>
+        <member name="M:AutomaticMedicalSystem.Departments.#ctor">
+            <summary>
+            Конструктор формы
+            </summary>
+        </member>
+        <member name="M:AutomaticMedicalSystem.Departments.dEPARTMENTBindingNavigatorSaveItem_Click(System.Object,System.EventArgs)">
+            <summary>
+            Метод вставки новых данных в таблицу формы
+            </summary>
+            <param name="sender">Объект приема сигналов</param>
+            <param name="e">Объект реагирования на изменения на форме</param>
+        </member>
+        <member name="M:AutomaticMedicalSystem.Departments.Departments_Load(System.Object,System.EventArgs)">
+            <summary>
+            Загрузка компонентов на форме
+            </summary>
+        </member>
+        <member name="M:AutomaticMedicalSystem.Departments.set_width_column">
+            <summary>
+            Метод установления ширины столбцов
+            </summary>
+            <returns>Значение ширины 3 столбца DataGridView</returns>
+        </member>
+        <member name="M:AutomaticMedicalSystem.Departments.set_max_id(System.Int32@)">
+            <summary>
+            Метод нахождения максимального значения в первой колонке
+            </summary>
+            <param name="k">Первое сгенерированное значение</param>
+            <returns>Измененный параметр k равный максимальному</returns>
+        </member>
+        <member name="M:AutomaticMedicalSystem.Departments.DataGridView1_DataError(System.Object,System.Windows.Forms.DataGridViewDataErrorEventArgs)">
+            <summary>
+            Метод проверки на правильность введенных данных
+            </summary>
+            <param name="sender">прием сигналов с формы</param>
+            <param name="anError">объект хранения стандартных ошибок</param>
+        </member>
+        <member name="F:AutomaticMedicalSystem.Departments.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:AutomaticMedicalSystem.Departments.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:AutomaticMedicalSystem.Departments.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:AutomaticMedicalSystem.Diagnose_family_doctor.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:AutomaticMedicalSystem.Diagnose_family_doctor.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:AutomaticMedicalSystem.Diagnose_family_doctor.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:AutomaticMedicalSystem.Diagnose_sp.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:AutomaticMedicalSystem.Diagnose_sp.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:AutomaticMedicalSystem.Diagnose_sp.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:AutomaticMedicalSystem.Doctors.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:AutomaticMedicalSystem.Doctors.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:AutomaticMedicalSystem.Doctors.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:AutomaticMedicalSystem.FamilyDoctors.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:AutomaticMedicalSystem.FamilyDoctors.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:AutomaticMedicalSystem.FamilyDoctors.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:AutomaticMedicalSystem.Form1.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:AutomaticMedicalSystem.Form1.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:AutomaticMedicalSystem.Form1.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:AutomaticMedicalSystem.FormsFamilyDoctor.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:AutomaticMedicalSystem.FormsFamilyDoctor.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:AutomaticMedicalSystem.FormsFamilyDoctor.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:AutomaticMedicalSystem.Patients.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:AutomaticMedicalSystem.Patients.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:AutomaticMedicalSystem.Patients.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:AutomaticMedicalSystem.Program.Main">
+            <summary>
+            The main entry point for the application.
+            </summary>
+        </member>
+        <member name="F:AutomaticMedicalSystem.ReportsFamilyDoctor.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:AutomaticMedicalSystem.ReportsFamilyDoctor.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:AutomaticMedicalSystem.ReportsFamilyDoctor.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:AutomaticMedicalSystem.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:AutomaticMedicalSystem.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:AutomaticMedicalSystem.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+    </members>
+</doc>

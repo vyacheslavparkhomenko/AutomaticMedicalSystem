@@ -1,0 +1,484 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.5.8">
+  <compounddef id="class_automatic_medical_system_1_1_data_set1_table_adapters_1_1_d_i_a_g_n_o_s_e___s_p___d_o_c_t_o_r_table_adapter" kind="class" prot="public">
+    <compoundname>AutomaticMedicalSystem::DataSet1TableAdapters::DIAGNOSE_SP_DOCTORTableAdapter</compoundname>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_automatic_medical_system_1_1_data_set1_table_adapters_1_1_d_i_a_g_n_o_s_e___s_p___d_o_c_t_o_r_table_adapter_11c12fdc0ab87905825de0470f1c709b2" prot="private" static="no" mutable="no">
+        <type>global::System.Data.OracleClient.OracleDataAdapter</type>
+        <definition>global::System.Data.OracleClient.OracleDataAdapter AutomaticMedicalSystem.DataSet1TableAdapters.DIAGNOSE_SP_DOCTORTableAdapter._adapter</definition>
+        <argsstring></argsstring>
+        <name>_adapter</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" line="10793" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" bodystart="10793" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_automatic_medical_system_1_1_data_set1_table_adapters_1_1_d_i_a_g_n_o_s_e___s_p___d_o_c_t_o_r_table_adapter_131c78a0e581f707b9caf7b9a448ed506" prot="private" static="no" mutable="no">
+        <type>global::System.Data.OracleClient.OracleConnection</type>
+        <definition>global::System.Data.OracleClient.OracleConnection AutomaticMedicalSystem.DataSet1TableAdapters.DIAGNOSE_SP_DOCTORTableAdapter._connection</definition>
+        <argsstring></argsstring>
+        <name>_connection</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" line="10795" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" bodystart="10795" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_automatic_medical_system_1_1_data_set1_table_adapters_1_1_d_i_a_g_n_o_s_e___s_p___d_o_c_t_o_r_table_adapter_1ad73e8a9298b7ede4791d4831a76465d" prot="private" static="no" mutable="no">
+        <type>global::System.Data.OracleClient.OracleTransaction</type>
+        <definition>global::System.Data.OracleClient.OracleTransaction AutomaticMedicalSystem.DataSet1TableAdapters.DIAGNOSE_SP_DOCTORTableAdapter._transaction</definition>
+        <argsstring></argsstring>
+        <name>_transaction</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" line="10797" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" bodystart="10797" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_automatic_medical_system_1_1_data_set1_table_adapters_1_1_d_i_a_g_n_o_s_e___s_p___d_o_c_t_o_r_table_adapter_16328e5756d55b11316eaec3e12f39748" prot="private" static="no" mutable="no">
+        <type>global::System.Data.OracleClient.OracleCommand[]</type>
+        <definition>global::System.Data.OracleClient.OracleCommand [] AutomaticMedicalSystem.DataSet1TableAdapters.DIAGNOSE_SP_DOCTORTableAdapter._commandCollection</definition>
+        <argsstring></argsstring>
+        <name>_commandCollection</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" line="10799" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" bodystart="10799" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_automatic_medical_system_1_1_data_set1_table_adapters_1_1_d_i_a_g_n_o_s_e___s_p___d_o_c_t_o_r_table_adapter_174fe9efb9abf6f415999814211fd6876" prot="private" static="no" mutable="no">
+        <type>bool</type>
+        <definition>bool AutomaticMedicalSystem.DataSet1TableAdapters.DIAGNOSE_SP_DOCTORTableAdapter._clearBeforeFill</definition>
+        <argsstring></argsstring>
+        <name>_clearBeforeFill</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" line="10801" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" bodystart="10801" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="class_automatic_medical_system_1_1_data_set1_table_adapters_1_1_d_i_a_g_n_o_s_e___s_p___d_o_c_t_o_r_table_adapter_1d303e7c8a834f22647fd6dc92185362a" prot="protected" static="no" readable="no" writable="no" gettable="yes" settable="no">
+        <type>internal global::System.Data.OracleClient.OracleDataAdapter</type>
+        <definition>internal global::System.Data.OracleClient.OracleDataAdapter AutomaticMedicalSystem.DataSet1TableAdapters.DIAGNOSE_SP_DOCTORTableAdapter.Adapter</definition>
+        <argsstring></argsstring>
+        <name>Adapter</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" line="10818" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" bodystart="10811" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_automatic_medical_system_1_1_data_set1_table_adapters_1_1_d_i_a_g_n_o_s_e___s_p___d_o_c_t_o_r_table_adapter_11c82bd5ca6bae3abaabea22d0e638b33" prot="private" static="no" readable="no" writable="no" gettable="yes" settable="yes">
+        <type>internal global::System.Data.OracleClient.OracleConnection</type>
+        <definition>internal global::System.Data.OracleClient.OracleConnection AutomaticMedicalSystem.DataSet1TableAdapters.DIAGNOSE_SP_DOCTORTableAdapter.Connection</definition>
+        <argsstring></argsstring>
+        <name>Connection</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" line="10846" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" bodystart="10822" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_automatic_medical_system_1_1_data_set1_table_adapters_1_1_d_i_a_g_n_o_s_e___s_p___d_o_c_t_o_r_table_adapter_17078ba96938a4d9227944d72e451fec6" prot="private" static="no" readable="no" writable="no" gettable="yes" settable="yes">
+        <type>internal global::System.Data.OracleClient.OracleTransaction</type>
+        <definition>internal global::System.Data.OracleClient.OracleTransaction AutomaticMedicalSystem.DataSet1TableAdapters.DIAGNOSE_SP_DOCTORTableAdapter.Transaction</definition>
+        <argsstring></argsstring>
+        <name>Transaction</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" line="10872" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" bodystart="10850" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_automatic_medical_system_1_1_data_set1_table_adapters_1_1_d_i_a_g_n_o_s_e___s_p___d_o_c_t_o_r_table_adapter_14be0dc90540da523f9c119e439541b8b" prot="protected" static="no" readable="no" writable="no" gettable="yes" settable="no">
+        <type>global::System.Data.OracleClient.OracleCommand[]</type>
+        <definition>global::System.Data.OracleClient.OracleCommand [] AutomaticMedicalSystem.DataSet1TableAdapters.DIAGNOSE_SP_DOCTORTableAdapter.CommandCollection</definition>
+        <argsstring></argsstring>
+        <name>CommandCollection</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" line="10883" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" bodystart="10876" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_automatic_medical_system_1_1_data_set1_table_adapters_1_1_d_i_a_g_n_o_s_e___s_p___d_o_c_t_o_r_table_adapter_17bac75426653273be09cf95222881f7d" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="yes">
+        <type>bool</type>
+        <definition>bool AutomaticMedicalSystem.DataSet1TableAdapters.DIAGNOSE_SP_DOCTORTableAdapter.ClearBeforeFill</definition>
+        <argsstring></argsstring>
+        <name>ClearBeforeFill</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" line="10894" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" bodystart="10887" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_data_set1_table_adapters_1_1_d_i_a_g_n_o_s_e___s_p___d_o_c_t_o_r_table_adapter_171acc4c8178207f868b7074c2f831d38" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>AutomaticMedicalSystem.DataSet1TableAdapters.DIAGNOSE_SP_DOCTORTableAdapter.DIAGNOSE_SP_DOCTORTableAdapter</definition>
+        <argsstring>()</argsstring>
+        <name>DIAGNOSE_SP_DOCTORTableAdapter</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" line="10805" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" bodystart="10805" bodyend="10807"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_data_set1_table_adapters_1_1_d_i_a_g_n_o_s_e___s_p___d_o_c_t_o_r_table_adapter_1be4a63eb6be4e30cd91640c5b3f291be" prot="public" static="no" const="no" explicit="no" inline="yes" virt="virtual">
+        <type>int</type>
+        <definition>virtual int AutomaticMedicalSystem.DataSet1TableAdapters.DIAGNOSE_SP_DOCTORTableAdapter.Fill</definition>
+        <argsstring>(DataSet1.DIAGNOSE_SP_DOCTORDataTable dataTable)</argsstring>
+        <name>Fill</name>
+        <param>
+          <type><ref refid="class_automatic_medical_system_1_1_data_set1_1_1_d_i_a_g_n_o_s_e___s_p___d_o_c_t_o_r_data_table" kindref="compound">DataSet1.DIAGNOSE_SP_DOCTORDataTable</ref></type>
+          <declname>dataTable</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" line="10966" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" bodystart="10966" bodyend="10973"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_data_set1_table_adapters_1_1_d_i_a_g_n_o_s_e___s_p___d_o_c_t_o_r_table_adapter_1ec74a6c9312e4155fe76628b1282b3bb" prot="public" static="no" const="no" explicit="no" inline="yes" virt="virtual">
+        <type><ref refid="class_automatic_medical_system_1_1_data_set1_1_1_d_i_a_g_n_o_s_e___s_p___d_o_c_t_o_r_data_table" kindref="compound">DataSet1.DIAGNOSE_SP_DOCTORDataTable</ref></type>
+        <definition>virtual DataSet1.DIAGNOSE_SP_DOCTORDataTable AutomaticMedicalSystem.DataSet1TableAdapters.DIAGNOSE_SP_DOCTORTableAdapter.GetData</definition>
+        <argsstring>()</argsstring>
+        <name>GetData</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" line="10979" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" bodystart="10979" bodyend="10984"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_data_set1_table_adapters_1_1_d_i_a_g_n_o_s_e___s_p___d_o_c_t_o_r_table_adapter_1d0cbf3cb8b612bf0c10cc1ec9b40219d" prot="public" static="no" const="no" explicit="no" inline="yes" virt="virtual">
+        <type>int</type>
+        <definition>virtual int AutomaticMedicalSystem.DataSet1TableAdapters.DIAGNOSE_SP_DOCTORTableAdapter.Update</definition>
+        <argsstring>(DataSet1.DIAGNOSE_SP_DOCTORDataTable dataTable)</argsstring>
+        <name>Update</name>
+        <param>
+          <type><ref refid="class_automatic_medical_system_1_1_data_set1_1_1_d_i_a_g_n_o_s_e___s_p___d_o_c_t_o_r_data_table" kindref="compound">DataSet1.DIAGNOSE_SP_DOCTORDataTable</ref></type>
+          <declname>dataTable</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" line="10989" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" bodystart="10989" bodyend="10991"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_data_set1_table_adapters_1_1_d_i_a_g_n_o_s_e___s_p___d_o_c_t_o_r_table_adapter_112fec7bcc92d4468aa3f20746de1ea47" prot="public" static="no" const="no" explicit="no" inline="yes" virt="virtual">
+        <type>int</type>
+        <definition>virtual int AutomaticMedicalSystem.DataSet1TableAdapters.DIAGNOSE_SP_DOCTORTableAdapter.Update</definition>
+        <argsstring>(DataSet1 dataSet)</argsstring>
+        <name>Update</name>
+        <param>
+          <type><ref refid="class_automatic_medical_system_1_1_data_set1" kindref="compound">DataSet1</ref></type>
+          <declname>dataSet</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" line="10996" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" bodystart="10996" bodyend="10998"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_data_set1_table_adapters_1_1_d_i_a_g_n_o_s_e___s_p___d_o_c_t_o_r_table_adapter_13174ddf60a2d4c42125a36710cdec7d9" prot="public" static="no" const="no" explicit="no" inline="yes" virt="virtual">
+        <type>int</type>
+        <definition>virtual int AutomaticMedicalSystem.DataSet1TableAdapters.DIAGNOSE_SP_DOCTORTableAdapter.Update</definition>
+        <argsstring>(global::System.Data.DataRow dataRow)</argsstring>
+        <name>Update</name>
+        <param>
+          <type>global::System.Data.DataRow</type>
+          <declname>dataRow</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" line="11003" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" bodystart="11003" bodyend="11006"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_data_set1_table_adapters_1_1_d_i_a_g_n_o_s_e___s_p___d_o_c_t_o_r_table_adapter_18f805523e3d73e477cab83cc02a18f4d" prot="public" static="no" const="no" explicit="no" inline="yes" virt="virtual">
+        <type>int</type>
+        <definition>virtual int AutomaticMedicalSystem.DataSet1TableAdapters.DIAGNOSE_SP_DOCTORTableAdapter.Update</definition>
+        <argsstring>(global::System.Data.DataRow[] dataRows)</argsstring>
+        <name>Update</name>
+        <param>
+          <type>global::System.Data.DataRow[]</type>
+          <declname>dataRows</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" line="11011" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" bodystart="11011" bodyend="11013"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_data_set1_table_adapters_1_1_d_i_a_g_n_o_s_e___s_p___d_o_c_t_o_r_table_adapter_1843393946536af6a58402ba0e63938a4" prot="public" static="no" const="no" explicit="no" inline="yes" virt="virtual">
+        <type>int</type>
+        <definition>virtual int AutomaticMedicalSystem.DataSet1TableAdapters.DIAGNOSE_SP_DOCTORTableAdapter.Delete</definition>
+        <argsstring>(decimal Original_ID, global::System.Nullable&lt; decimal &gt; Original_ARCSPDOCTORID, string Original_DIAGNOSE, string Original_RECOMENDATION)</argsstring>
+        <name>Delete</name>
+        <param>
+          <type>decimal</type>
+          <declname>Original_ID</declname>
+        </param>
+        <param>
+          <type>global::System.Nullable&lt; decimal &gt;</type>
+          <declname>Original_ARCSPDOCTORID</declname>
+        </param>
+        <param>
+          <type>string</type>
+          <declname>Original_DIAGNOSE</declname>
+        </param>
+        <param>
+          <type>string</type>
+          <declname>Original_RECOMENDATION</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" line="11019" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" bodystart="11019" bodyend="11059"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_data_set1_table_adapters_1_1_d_i_a_g_n_o_s_e___s_p___d_o_c_t_o_r_table_adapter_16f0b7251640f2be8cbd46061020d4c75" prot="public" static="no" const="no" explicit="no" inline="yes" virt="virtual">
+        <type>int</type>
+        <definition>virtual int AutomaticMedicalSystem.DataSet1TableAdapters.DIAGNOSE_SP_DOCTORTableAdapter.Insert</definition>
+        <argsstring>(decimal ID, global::System.Nullable&lt; decimal &gt; ARCSPDOCTORID, string DIAGNOSE, string RECOMENDATION)</argsstring>
+        <name>Insert</name>
+        <param>
+          <type>decimal</type>
+          <declname>ID</declname>
+        </param>
+        <param>
+          <type>global::System.Nullable&lt; decimal &gt;</type>
+          <declname>ARCSPDOCTORID</declname>
+        </param>
+        <param>
+          <type>string</type>
+          <declname>DIAGNOSE</declname>
+        </param>
+        <param>
+          <type>string</type>
+          <declname>RECOMENDATION</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" line="11065" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" bodystart="11065" bodyend="11099"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_data_set1_table_adapters_1_1_d_i_a_g_n_o_s_e___s_p___d_o_c_t_o_r_table_adapter_1199bbcd215d28cba1169210198640402" prot="public" static="no" const="no" explicit="no" inline="yes" virt="virtual">
+        <type>int</type>
+        <definition>virtual int AutomaticMedicalSystem.DataSet1TableAdapters.DIAGNOSE_SP_DOCTORTableAdapter.Update</definition>
+        <argsstring>(decimal ID, global::System.Nullable&lt; decimal &gt; ARCSPDOCTORID, string DIAGNOSE, string RECOMENDATION, decimal Original_ID, global::System.Nullable&lt; decimal &gt; Original_ARCSPDOCTORID, string Original_DIAGNOSE, string Original_RECOMENDATION)</argsstring>
+        <name>Update</name>
+        <param>
+          <type>decimal</type>
+          <declname>ID</declname>
+        </param>
+        <param>
+          <type>global::System.Nullable&lt; decimal &gt;</type>
+          <declname>ARCSPDOCTORID</declname>
+        </param>
+        <param>
+          <type>string</type>
+          <declname>DIAGNOSE</declname>
+        </param>
+        <param>
+          <type>string</type>
+          <declname>RECOMENDATION</declname>
+        </param>
+        <param>
+          <type>decimal</type>
+          <declname>Original_ID</declname>
+        </param>
+        <param>
+          <type>global::System.Nullable&lt; decimal &gt;</type>
+          <declname>Original_ARCSPDOCTORID</declname>
+        </param>
+        <param>
+          <type>string</type>
+          <declname>Original_DIAGNOSE</declname>
+        </param>
+        <param>
+          <type>string</type>
+          <declname>Original_RECOMENDATION</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" line="11105" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" bodystart="11105" bodyend="11164"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_data_set1_table_adapters_1_1_d_i_a_g_n_o_s_e___s_p___d_o_c_t_o_r_table_adapter_15f2c601200f16d34b4da5cb6a8503a6c" prot="public" static="no" const="no" explicit="no" inline="yes" virt="virtual">
+        <type>int</type>
+        <definition>virtual int AutomaticMedicalSystem.DataSet1TableAdapters.DIAGNOSE_SP_DOCTORTableAdapter.Update</definition>
+        <argsstring>(global::System.Nullable&lt; decimal &gt; ARCSPDOCTORID, string DIAGNOSE, string RECOMENDATION, decimal Original_ID, global::System.Nullable&lt; decimal &gt; Original_ARCSPDOCTORID, string Original_DIAGNOSE, string Original_RECOMENDATION)</argsstring>
+        <name>Update</name>
+        <param>
+          <type>global::System.Nullable&lt; decimal &gt;</type>
+          <declname>ARCSPDOCTORID</declname>
+        </param>
+        <param>
+          <type>string</type>
+          <declname>DIAGNOSE</declname>
+        </param>
+        <param>
+          <type>string</type>
+          <declname>RECOMENDATION</declname>
+        </param>
+        <param>
+          <type>decimal</type>
+          <declname>Original_ID</declname>
+        </param>
+        <param>
+          <type>global::System.Nullable&lt; decimal &gt;</type>
+          <declname>Original_ARCSPDOCTORID</declname>
+        </param>
+        <param>
+          <type>string</type>
+          <declname>Original_DIAGNOSE</declname>
+        </param>
+        <param>
+          <type>string</type>
+          <declname>Original_RECOMENDATION</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" line="11170" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" bodystart="11170" bodyend="11172"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_data_set1_table_adapters_1_1_d_i_a_g_n_o_s_e___s_p___d_o_c_t_o_r_table_adapter_1f09615ee5b6aa2c77aa021166ee69ded" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void AutomaticMedicalSystem.DataSet1TableAdapters.DIAGNOSE_SP_DOCTORTableAdapter.InitAdapter</definition>
+        <argsstring>()</argsstring>
+        <name>InitAdapter</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" line="10898" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" bodystart="10898" bodyend="10943"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_data_set1_table_adapters_1_1_d_i_a_g_n_o_s_e___s_p___d_o_c_t_o_r_table_adapter_190db669f457cc28610aa95160505996a" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void AutomaticMedicalSystem.DataSet1TableAdapters.DIAGNOSE_SP_DOCTORTableAdapter.InitConnection</definition>
+        <argsstring>()</argsstring>
+        <name>InitConnection</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" line="10947" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" bodystart="10947" bodyend="10950"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_data_set1_table_adapters_1_1_d_i_a_g_n_o_s_e___s_p___d_o_c_t_o_r_table_adapter_1714535449c50c13b498cb40dcaea70c2" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void AutomaticMedicalSystem.DataSet1TableAdapters.DIAGNOSE_SP_DOCTORTableAdapter.InitCommandCollection</definition>
+        <argsstring>()</argsstring>
+        <name>InitCommandCollection</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" line="10954" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" bodystart="10954" bodyend="10960"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Represents the connection and commands used to retrieve and save data. /summary&gt;. </para>    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <collaborationgraph>
+      <node id="367">
+        <label>System.Data</label>
+      </node>
+      <node id="366">
+        <label>AutomaticMedicalSystem.DataSet1TableAdapters.DIAGNOSE_SP_DOCTORTableAdapter</label>
+        <link refid="class_automatic_medical_system_1_1_data_set1_table_adapters_1_1_d_i_a_g_n_o_s_e___s_p___d_o_c_t_o_r_table_adapter"/>
+        <childnode refid="367" relation="usage">
+          <edgelabel>_transaction</edgelabel>
+          <edgelabel>_adapter</edgelabel>
+          <edgelabel>_commandCollection</edgelabel>
+          <edgelabel>_connection</edgelabel>
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" line="10791" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" bodystart="10791" bodyend="11173"/>
+    <listofallmembers>
+      <member refid="class_automatic_medical_system_1_1_data_set1_table_adapters_1_1_d_i_a_g_n_o_s_e___s_p___d_o_c_t_o_r_table_adapter_11c12fdc0ab87905825de0470f1c709b2" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet1TableAdapters::DIAGNOSE_SP_DOCTORTableAdapter</scope><name>_adapter</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set1_table_adapters_1_1_d_i_a_g_n_o_s_e___s_p___d_o_c_t_o_r_table_adapter_174fe9efb9abf6f415999814211fd6876" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet1TableAdapters::DIAGNOSE_SP_DOCTORTableAdapter</scope><name>_clearBeforeFill</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set1_table_adapters_1_1_d_i_a_g_n_o_s_e___s_p___d_o_c_t_o_r_table_adapter_16328e5756d55b11316eaec3e12f39748" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet1TableAdapters::DIAGNOSE_SP_DOCTORTableAdapter</scope><name>_commandCollection</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set1_table_adapters_1_1_d_i_a_g_n_o_s_e___s_p___d_o_c_t_o_r_table_adapter_131c78a0e581f707b9caf7b9a448ed506" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet1TableAdapters::DIAGNOSE_SP_DOCTORTableAdapter</scope><name>_connection</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set1_table_adapters_1_1_d_i_a_g_n_o_s_e___s_p___d_o_c_t_o_r_table_adapter_1ad73e8a9298b7ede4791d4831a76465d" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet1TableAdapters::DIAGNOSE_SP_DOCTORTableAdapter</scope><name>_transaction</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set1_table_adapters_1_1_d_i_a_g_n_o_s_e___s_p___d_o_c_t_o_r_table_adapter_1d303e7c8a834f22647fd6dc92185362a" prot="protected" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet1TableAdapters::DIAGNOSE_SP_DOCTORTableAdapter</scope><name>Adapter</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set1_table_adapters_1_1_d_i_a_g_n_o_s_e___s_p___d_o_c_t_o_r_table_adapter_17bac75426653273be09cf95222881f7d" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet1TableAdapters::DIAGNOSE_SP_DOCTORTableAdapter</scope><name>ClearBeforeFill</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set1_table_adapters_1_1_d_i_a_g_n_o_s_e___s_p___d_o_c_t_o_r_table_adapter_14be0dc90540da523f9c119e439541b8b" prot="protected" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet1TableAdapters::DIAGNOSE_SP_DOCTORTableAdapter</scope><name>CommandCollection</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set1_table_adapters_1_1_d_i_a_g_n_o_s_e___s_p___d_o_c_t_o_r_table_adapter_11c82bd5ca6bae3abaabea22d0e638b33" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet1TableAdapters::DIAGNOSE_SP_DOCTORTableAdapter</scope><name>Connection</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set1_table_adapters_1_1_d_i_a_g_n_o_s_e___s_p___d_o_c_t_o_r_table_adapter_1843393946536af6a58402ba0e63938a4" prot="public" virt="virtual"><scope>AutomaticMedicalSystem::DataSet1TableAdapters::DIAGNOSE_SP_DOCTORTableAdapter</scope><name>Delete</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set1_table_adapters_1_1_d_i_a_g_n_o_s_e___s_p___d_o_c_t_o_r_table_adapter_171acc4c8178207f868b7074c2f831d38" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet1TableAdapters::DIAGNOSE_SP_DOCTORTableAdapter</scope><name>DIAGNOSE_SP_DOCTORTableAdapter</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set1_table_adapters_1_1_d_i_a_g_n_o_s_e___s_p___d_o_c_t_o_r_table_adapter_1be4a63eb6be4e30cd91640c5b3f291be" prot="public" virt="virtual"><scope>AutomaticMedicalSystem::DataSet1TableAdapters::DIAGNOSE_SP_DOCTORTableAdapter</scope><name>Fill</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set1_table_adapters_1_1_d_i_a_g_n_o_s_e___s_p___d_o_c_t_o_r_table_adapter_1ec74a6c9312e4155fe76628b1282b3bb" prot="public" virt="virtual"><scope>AutomaticMedicalSystem::DataSet1TableAdapters::DIAGNOSE_SP_DOCTORTableAdapter</scope><name>GetData</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set1_table_adapters_1_1_d_i_a_g_n_o_s_e___s_p___d_o_c_t_o_r_table_adapter_1f09615ee5b6aa2c77aa021166ee69ded" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet1TableAdapters::DIAGNOSE_SP_DOCTORTableAdapter</scope><name>InitAdapter</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set1_table_adapters_1_1_d_i_a_g_n_o_s_e___s_p___d_o_c_t_o_r_table_adapter_1714535449c50c13b498cb40dcaea70c2" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet1TableAdapters::DIAGNOSE_SP_DOCTORTableAdapter</scope><name>InitCommandCollection</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set1_table_adapters_1_1_d_i_a_g_n_o_s_e___s_p___d_o_c_t_o_r_table_adapter_190db669f457cc28610aa95160505996a" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet1TableAdapters::DIAGNOSE_SP_DOCTORTableAdapter</scope><name>InitConnection</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set1_table_adapters_1_1_d_i_a_g_n_o_s_e___s_p___d_o_c_t_o_r_table_adapter_16f0b7251640f2be8cbd46061020d4c75" prot="public" virt="virtual"><scope>AutomaticMedicalSystem::DataSet1TableAdapters::DIAGNOSE_SP_DOCTORTableAdapter</scope><name>Insert</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set1_table_adapters_1_1_d_i_a_g_n_o_s_e___s_p___d_o_c_t_o_r_table_adapter_17078ba96938a4d9227944d72e451fec6" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet1TableAdapters::DIAGNOSE_SP_DOCTORTableAdapter</scope><name>Transaction</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set1_table_adapters_1_1_d_i_a_g_n_o_s_e___s_p___d_o_c_t_o_r_table_adapter_1d0cbf3cb8b612bf0c10cc1ec9b40219d" prot="public" virt="virtual"><scope>AutomaticMedicalSystem::DataSet1TableAdapters::DIAGNOSE_SP_DOCTORTableAdapter</scope><name>Update</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set1_table_adapters_1_1_d_i_a_g_n_o_s_e___s_p___d_o_c_t_o_r_table_adapter_112fec7bcc92d4468aa3f20746de1ea47" prot="public" virt="virtual"><scope>AutomaticMedicalSystem::DataSet1TableAdapters::DIAGNOSE_SP_DOCTORTableAdapter</scope><name>Update</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set1_table_adapters_1_1_d_i_a_g_n_o_s_e___s_p___d_o_c_t_o_r_table_adapter_13174ddf60a2d4c42125a36710cdec7d9" prot="public" virt="virtual"><scope>AutomaticMedicalSystem::DataSet1TableAdapters::DIAGNOSE_SP_DOCTORTableAdapter</scope><name>Update</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set1_table_adapters_1_1_d_i_a_g_n_o_s_e___s_p___d_o_c_t_o_r_table_adapter_18f805523e3d73e477cab83cc02a18f4d" prot="public" virt="virtual"><scope>AutomaticMedicalSystem::DataSet1TableAdapters::DIAGNOSE_SP_DOCTORTableAdapter</scope><name>Update</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set1_table_adapters_1_1_d_i_a_g_n_o_s_e___s_p___d_o_c_t_o_r_table_adapter_1199bbcd215d28cba1169210198640402" prot="public" virt="virtual"><scope>AutomaticMedicalSystem::DataSet1TableAdapters::DIAGNOSE_SP_DOCTORTableAdapter</scope><name>Update</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set1_table_adapters_1_1_d_i_a_g_n_o_s_e___s_p___d_o_c_t_o_r_table_adapter_15f2c601200f16d34b4da5cb6a8503a6c" prot="public" virt="virtual"><scope>AutomaticMedicalSystem::DataSet1TableAdapters::DIAGNOSE_SP_DOCTORTableAdapter</scope><name>Update</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

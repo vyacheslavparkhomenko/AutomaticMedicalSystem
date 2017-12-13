@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.5.8">
+  <compounddef id="class_automatic_medical_system_1_1_arc__family__doctor__records" kind="class" prot="public">
+    <compoundname>AutomaticMedicalSystem::Arc_family_doctor_records</compoundname>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_arc__family__doctor__records_1cdc4b1ecbd101dc04305b525c617efb4" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>AutomaticMedicalSystem.Arc_family_doctor_records.Arc_family_doctor_records</definition>
+        <argsstring>()</argsstring>
+        <name>Arc_family_doctor_records</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Arc_family_doctor_records.cs" line="17" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Arc_family_doctor_records.cs" bodystart="16" bodyend="19"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_arc__family__doctor__records_1ed1995ea9307aa83d71d50f01c26380e" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void AutomaticMedicalSystem.Arc_family_doctor_records.aRC_FAMILY_DOCTOR_RECORDSBindingNavigatorSaveItem_Click</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>aRC_FAMILY_DOCTOR_RECORDSBindingNavigatorSaveItem_Click</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Arc_family_doctor_records.cs" line="22" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Arc_family_doctor_records.cs" bodystart="21" bodyend="35"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_arc__family__doctor__records_17d48e736512a9a0342b8ce2956c8b4d6" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void AutomaticMedicalSystem.Arc_family_doctor_records.Arc_family_doctor_records_Load</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>Arc_family_doctor_records_Load</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Arc_family_doctor_records.cs" line="38" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Arc_family_doctor_records.cs" bodystart="37" bodyend="52"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_arc__family__doctor__records_13aaab640d8fead4b9c850db7091a19e2" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void AutomaticMedicalSystem.Arc_family_doctor_records.aRC_FAMILY_DOCTOR_RECORDSBindingNavigatorSaveItem_Click_1</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>aRC_FAMILY_DOCTOR_RECORDSBindingNavigatorSaveItem_Click_1</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Arc_family_doctor_records.cs" line="55" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Arc_family_doctor_records.cs" bodystart="54" bodyend="60"/>
+      </memberdef>
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_arc__family__doctor__records_114aa41ba9dabfd0e2ae4f15f6c0835f5" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void AutomaticMedicalSystem.Arc_family_doctor_records.aRC_FAMILY_DOCTOR_RECORDSBindingNavigatorSaveItem_Click_2</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>aRC_FAMILY_DOCTOR_RECORDSBindingNavigatorSaveItem_Click_2</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Arc_family_doctor_records.cs" line="63" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Arc_family_doctor_records.cs" bodystart="62" bodyend="68"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Arc_family_doctor_records.cs" line="15" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/Arc_family_doctor_records.cs" bodystart="14" bodyend="69"/>
+    <listofallmembers>
+      <member refid="class_automatic_medical_system_1_1_arc__family__doctor__records_1cdc4b1ecbd101dc04305b525c617efb4" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::Arc_family_doctor_records</scope><name>Arc_family_doctor_records</name></member>
+      <member refid="class_automatic_medical_system_1_1_arc__family__doctor__records_17d48e736512a9a0342b8ce2956c8b4d6" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::Arc_family_doctor_records</scope><name>Arc_family_doctor_records_Load</name></member>
+      <member refid="class_automatic_medical_system_1_1_arc__family__doctor__records_1ed1995ea9307aa83d71d50f01c26380e" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::Arc_family_doctor_records</scope><name>aRC_FAMILY_DOCTOR_RECORDSBindingNavigatorSaveItem_Click</name></member>
+      <member refid="class_automatic_medical_system_1_1_arc__family__doctor__records_13aaab640d8fead4b9c850db7091a19e2" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::Arc_family_doctor_records</scope><name>aRC_FAMILY_DOCTOR_RECORDSBindingNavigatorSaveItem_Click_1</name></member>
+      <member refid="class_automatic_medical_system_1_1_arc__family__doctor__records_114aa41ba9dabfd0e2ae4f15f6c0835f5" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::Arc_family_doctor_records</scope><name>aRC_FAMILY_DOCTOR_RECORDSBindingNavigatorSaveItem_Click_2</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

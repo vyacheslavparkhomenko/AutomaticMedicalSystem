@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.5.8">
+  <compounddef id="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_f_a_m_i_l_y_d_o_c_t_o_r_r_e_c_o_r_d_s_row_change_event" kind="class" prot="public">
+    <compoundname>AutomaticMedicalSystem::DataSet1::VARCFAMILYDOCTORRECORDSRowChangeEvent</compoundname>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_f_a_m_i_l_y_d_o_c_t_o_r_r_e_c_o_r_d_s_row_change_event_1db8757fbebdc6696e1c3f49ce47bb449" prot="private" static="no" mutable="no">
+        <type><ref refid="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_f_a_m_i_l_y_d_o_c_t_o_r_r_e_c_o_r_d_s_row" kindref="compound">VARCFAMILYDOCTORRECORDSRow</ref></type>
+        <definition>VARCFAMILYDOCTORRECORDSRow AutomaticMedicalSystem.DataSet1.DataSet1.VARCFAMILYDOCTORRECORDSRowChangeEvent.eventRow</definition>
+        <argsstring></argsstring>
+        <name>eventRow</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" line="9266" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" bodystart="9266" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_f_a_m_i_l_y_d_o_c_t_o_r_r_e_c_o_r_d_s_row_change_event_128a58f4117fcac4b3aba7e6373023098" prot="private" static="no" mutable="no">
+        <type>global::System.Data.DataRowAction</type>
+        <definition>global::System.Data.DataRowAction AutomaticMedicalSystem.DataSet1.DataSet1.VARCFAMILYDOCTORRECORDSRowChangeEvent.eventAction</definition>
+        <argsstring></argsstring>
+        <name>eventAction</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" line="9268" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" bodystart="9268" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_f_a_m_i_l_y_d_o_c_t_o_r_r_e_c_o_r_d_s_row_change_event_1f812ea2e69d322310513dcd37ae9efc6" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="no">
+        <type><ref refid="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_f_a_m_i_l_y_d_o_c_t_o_r_r_e_c_o_r_d_s_row" kindref="compound">VARCFAMILYDOCTORRECORDSRow</ref></type>
+        <definition>VARCFAMILYDOCTORRECORDSRow AutomaticMedicalSystem.DataSet1.DataSet1.VARCFAMILYDOCTORRECORDSRowChangeEvent.Row</definition>
+        <argsstring></argsstring>
+        <name>Row</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" line="9283" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" bodystart="9279" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_f_a_m_i_l_y_d_o_c_t_o_r_r_e_c_o_r_d_s_row_change_event_1581a08db9fc25e55390a93124b6150b0" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="no">
+        <type>global::System.Data.DataRowAction</type>
+        <definition>global::System.Data.DataRowAction AutomaticMedicalSystem.DataSet1.DataSet1.VARCFAMILYDOCTORRECORDSRowChangeEvent.Action</definition>
+        <argsstring></argsstring>
+        <name>Action</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" line="9291" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" bodystart="9287" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_f_a_m_i_l_y_d_o_c_t_o_r_r_e_c_o_r_d_s_row_change_event_1f39493af41517a1ea77cc7c355b85270" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>AutomaticMedicalSystem.DataSet1.DataSet1.VARCFAMILYDOCTORRECORDSRowChangeEvent.VARCFAMILYDOCTORRECORDSRowChangeEvent</definition>
+        <argsstring>(VARCFAMILYDOCTORRECORDSRow row, global::System.Data.DataRowAction action)</argsstring>
+        <name>VARCFAMILYDOCTORRECORDSRowChangeEvent</name>
+        <param>
+          <type><ref refid="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_f_a_m_i_l_y_d_o_c_t_o_r_r_e_c_o_r_d_s_row" kindref="compound">VARCFAMILYDOCTORRECORDSRow</ref></type>
+          <declname>row</declname>
+        </param>
+        <param>
+          <type>global::System.Data.DataRowAction</type>
+          <declname>action</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" line="9272" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" bodystart="9272" bodyend="9275"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Row event argument class /summary&gt;. </para>    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <collaborationgraph>
+      <node id="163">
+        <label>AutomaticMedicalSystem.DataSet1.DataSet1.VARCFAMILYDOCTORRECORDSRowChangeEvent</label>
+        <link refid="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_f_a_m_i_l_y_d_o_c_t_o_r_r_e_c_o_r_d_s_row_change_event"/>
+        <childnode refid="164" relation="usage">
+          <edgelabel>eventRow</edgelabel>
+        </childnode>
+        <childnode refid="166" relation="usage">
+          <edgelabel>eventAction</edgelabel>
+        </childnode>
+      </node>
+      <node id="166">
+        <label>System.Data</label>
+      </node>
+      <node id="164">
+        <label>AutomaticMedicalSystem.DataSet1.DataSet1.VARCFAMILYDOCTORRECORDSRow</label>
+        <link refid="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_f_a_m_i_l_y_d_o_c_t_o_r_r_e_c_o_r_d_s_row"/>
+        <childnode refid="165" relation="usage">
+          <edgelabel>tableVARCFAMILYDOCTORRECORDS</edgelabel>
+        </childnode>
+      </node>
+      <node id="165">
+        <label>AutomaticMedicalSystem.DataSet1.DataSet1.VARCFAMILYDOCTORRECORDSDataTable</label>
+        <link refid="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_f_a_m_i_l_y_d_o_c_t_o_r_r_e_c_o_r_d_s_data_table"/>
+        <childnode refid="166" relation="usage">
+          <edgelabel>columnFULL_NAME_DOCTOR</edgelabel>
+          <edgelabel>columnFULL_NAME_PATIENT</edgelabel>
+          <edgelabel>columnJURIDICAL_ADRESS_PATIENT</edgelabel>
+          <edgelabel>columnDATEBIRTH</edgelabel>
+          <edgelabel>columnARCDATE</edgelabel>
+          <edgelabel>columnEXPERIENCE_DOCTOR</edgelabel>
+          <edgelabel>columnID</edgelabel>
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" line="9264" bodyfile="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.Designer.cs" bodystart="9264" bodyend="9292"/>
+    <listofallmembers>
+      <member refid="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_f_a_m_i_l_y_d_o_c_t_o_r_r_e_c_o_r_d_s_row_change_event_1581a08db9fc25e55390a93124b6150b0" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet1::VARCFAMILYDOCTORRECORDSRowChangeEvent</scope><name>Action</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_f_a_m_i_l_y_d_o_c_t_o_r_r_e_c_o_r_d_s_row_change_event_128a58f4117fcac4b3aba7e6373023098" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet1::VARCFAMILYDOCTORRECORDSRowChangeEvent</scope><name>eventAction</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_f_a_m_i_l_y_d_o_c_t_o_r_r_e_c_o_r_d_s_row_change_event_1db8757fbebdc6696e1c3f49ce47bb449" prot="private" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet1::VARCFAMILYDOCTORRECORDSRowChangeEvent</scope><name>eventRow</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_f_a_m_i_l_y_d_o_c_t_o_r_r_e_c_o_r_d_s_row_change_event_1f812ea2e69d322310513dcd37ae9efc6" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet1::VARCFAMILYDOCTORRECORDSRowChangeEvent</scope><name>Row</name></member>
+      <member refid="class_automatic_medical_system_1_1_data_set1_1_1_v_a_r_c_f_a_m_i_l_y_d_o_c_t_o_r_r_e_c_o_r_d_s_row_change_event_1f39493af41517a1ea77cc7c355b85270" prot="public" virt="non-virtual"><scope>AutomaticMedicalSystem::DataSet1::VARCFAMILYDOCTORRECORDSRowChangeEvent</scope><name>VARCFAMILYDOCTORRECORDSRowChangeEvent</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.5.8">
+  <compounddef id="namespace_automatic_medical_system_1_1_data_set1_table_adapters" kind="namespace">
+    <compoundname>AutomaticMedicalSystem::DataSet1TableAdapters</compoundname>
+    <innerclass refid="class_automatic_medical_system_1_1_data_set1_table_adapters_1_1_r_e_p_o_r_t_f_a_m_i_l_y_d_o_c_t_o_r_s_table_adapter" prot="public">AutomaticMedicalSystem::DataSet1TableAdapters::REPORTFAMILYDOCTORSTableAdapter</innerclass>
+    <innerclass refid="class_automatic_medical_system_1_1_data_set1_table_adapters_1_1_a_r_c___f_a_m_i_l_y___d_o_c_t_o_r___r_e_c_o_r_d_s_table_adapter" prot="public">AutomaticMedicalSystem::DataSet1TableAdapters::ARC_FAMILY_DOCTOR_RECORDSTableAdapter</innerclass>
+    <innerclass refid="class_automatic_medical_system_1_1_data_set1_table_adapters_1_1_v_f_a_m_i_l_y_d_o_c_t_o_r_table_adapter" prot="public">AutomaticMedicalSystem::DataSet1TableAdapters::VFAMILYDOCTORTableAdapter</innerclass>
+    <innerclass refid="class_automatic_medical_system_1_1_data_set1_table_adapters_1_1_a_r_c___s_p___d_o_c_t_o_r___r_e_c_o_r_d_s_table_adapter" prot="public">AutomaticMedicalSystem::DataSet1TableAdapters::ARC_SP_DOCTOR_RECORDSTableAdapter</innerclass>
+    <innerclass refid="class_automatic_medical_system_1_1_data_set1_table_adapters_1_1_d_e_p_a_r_t_m_e_n_t_table_adapter" prot="public">AutomaticMedicalSystem::DataSet1TableAdapters::DEPARTMENTTableAdapter</innerclass>
+    <innerclass refid="class_automatic_medical_system_1_1_data_set1_table_adapters_1_1_d_i_a_g_n_o_s_e___s_p___d_o_c_t_o_r_table_adapter" prot="public">AutomaticMedicalSystem::DataSet1TableAdapters::DIAGNOSE_SP_DOCTORTableAdapter</innerclass>
+    <innerclass refid="class_automatic_medical_system_1_1_data_set1_table_adapters_1_1_d_o_c_t_o_r_s_table_adapter" prot="public">AutomaticMedicalSystem::DataSet1TableAdapters::DOCTORSTableAdapter</innerclass>
+    <innerclass refid="class_automatic_medical_system_1_1_data_set1_table_adapters_1_1_f_a_m_i_l_y___d_o_c_t_o_r_table_adapter" prot="public">AutomaticMedicalSystem::DataSet1TableAdapters::FAMILY_DOCTORTableAdapter</innerclass>
+    <innerclass refid="class_automatic_medical_system_1_1_data_set1_table_adapters_1_1_p_a_t_i_e_n_t_s_table_adapter" prot="public">AutomaticMedicalSystem::DataSet1TableAdapters::PATIENTSTableAdapter</innerclass>
+    <innerclass refid="class_automatic_medical_system_1_1_data_set1_table_adapters_1_1_v_f_a_m_i_l_y_d_o_c_t_o_r_r_e_c_o_r_d_s_table_adapter" prot="public">AutomaticMedicalSystem::DataSet1TableAdapters::VFAMILYDOCTORRECORDSTableAdapter</innerclass>
+    <innerclass refid="class_automatic_medical_system_1_1_data_set1_table_adapters_1_1_v_s_p_e_c_i_a_l_d_o_c_t_o_r_table_adapter" prot="public">AutomaticMedicalSystem::DataSet1TableAdapters::VSPECIALDOCTORTableAdapter</innerclass>
+    <innerclass refid="class_automatic_medical_system_1_1_data_set1_table_adapters_1_1_v_a_r_c_f_a_m_i_l_y_d_o_c_t_o_r_r_e_c_o_r_d_s_table_adapter" prot="public">AutomaticMedicalSystem::DataSet1TableAdapters::VARCFAMILYDOCTORRECORDSTableAdapter</innerclass>
+    <innerclass refid="class_automatic_medical_system_1_1_data_set1_table_adapters_1_1_v_a_r_c_s_p_d_o_c_t_o_r_r_e_c_o_r_d_s_table_adapter" prot="public">AutomaticMedicalSystem::DataSet1TableAdapters::VARCSPDOCTORRECORDSTableAdapter</innerclass>
+    <innerclass refid="class_automatic_medical_system_1_1_data_set1_table_adapters_1_1_v_s_p_d_i_a_g_n_o_s_e_table_adapter" prot="public">AutomaticMedicalSystem::DataSet1TableAdapters::VSPDIAGNOSETableAdapter</innerclass>
+    <innerclass refid="class_automatic_medical_system_1_1_data_set1_table_adapters_1_1_d_i_a_g_n_o_s_e___f_m___d_o_c_t_o_r_table_adapter" prot="public">AutomaticMedicalSystem::DataSet1TableAdapters::DIAGNOSE_FM_DOCTORTableAdapter</innerclass>
+    <innerclass refid="class_automatic_medical_system_1_1_data_set1_table_adapters_1_1_r_e_p_o_r_t_s_p_d_o_c_t_o_r_s_table_adapter" prot="public">AutomaticMedicalSystem::DataSet1TableAdapters::REPORTSPDOCTORSTableAdapter</innerclass>
+    <innerclass refid="class_automatic_medical_system_1_1_data_set1_table_adapters_1_1_queries_table_adapter" prot="public">AutomaticMedicalSystem::DataSet1TableAdapters::QueriesTableAdapter</innerclass>
+    <innerclass refid="class_automatic_medical_system_1_1_data_set1_table_adapters_1_1_table_adapter_manager" prot="public">AutomaticMedicalSystem::DataSet1TableAdapters::TableAdapterManager</innerclass>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="D:/projects/Visual Studio 2012/C#/AutomaticMedicalSystem/AutomaticMedicalSystem/DataSet1.cs" line="36"/>
+  </compounddef>
+</doxygen>
